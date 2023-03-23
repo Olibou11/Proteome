@@ -1,0 +1,527 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<uniprot>
+  <entry dataset="Swiss-Prot" created="2003-04-23" modified="2020-12-02" version="97">
+    <name>VEMP_SARS</name>
+    <protein>
+      <recommendedName>
+        <fullName evidence="2">Envelope small membrane protein</fullName>
+        <shortName evidence="2">E protein</shortName>
+        <shortName evidence="2">sM protein</shortName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at protein level" />
+    <sequence length="76" mass="8361" checksum="A6D9A31652DDA194" modified="2003-04-23" version="1">MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPTVYVYSRVKNLNSSEGVPDLLV</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2003-04-23" modified="2020-12-02" version="139">
+    <name>SPIKE_SARS</name>
+    <protein>
+      <recommendedName>
+        <fullName evidence="15">Spike glycoprotein</fullName>
+        <shortName evidence="15">S glycoprotein</shortName>
+      </recommendedName>
+      <alternativeName>
+        <fullName evidence="15">E2</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName evidence="15">Peplomer protein</fullName>
+      </alternativeName>
+      <component>
+        <recommendedName>
+          <fullName evidence="15">Spike protein S1</fullName>
+        </recommendedName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName evidence="15">Spike protein S2</fullName>
+        </recommendedName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName evidence="15">Spike protein S2'</fullName>
+        </recommendedName>
+      </component>
+    </protein>
+    <proteinExistence type="evidence at protein level" />
+    <sequence length="1255" mass="139125" checksum="1C49ACA2CFD38FC0" modified="2003-04-23" version="1" precursor="true">MFIFLLFLTLTSGSDLDRCTTFDDVQAPNYTQHTSSMRGVYYPDEIFRSDTLYLTQDLFLPFYSNVTGFHTINHTFGNPVIPFKDGIYFAATEKSNVVRGWVFGSTMNNKSQSVIIINNSTNVVIRACNFELCDNPFFAVSKPMGTQTHTMIFDNAFNCTFEYISDAFSLDVSEKSGNFKHLREFVFKNKDGFLYVYKGYQPIDVVRDLPSGFNTLKPIFKLPLGINITNFRAILTAFSPAQDIWGTSAAAYFVGYLKPTTFMLKYDENGTITDAVDCSQNPLAELKCSVKSFEIDKGIYQTSNFRVVPSGDVVRFPNITNLCPFGEVFNATKFPSVYAWERKKISNCVADYSVLYNSTFFSTFKCYGVSATKLNDLCFSNVYADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFMGCVLAWNTRNIDATSTGNYNYKYRYLRHGKLRPFERDISNVPFSPDGKPCTPPALNCYWPLNDYGFYTTTGIGYQPYRVVVLSFELLNAPATVCGPKLSTDLIKNQCVNFNFNGLTGTGVLTPSSKRFQPFQQFGRDVSDFTDSVRDPKTSEILDISPCSFGGVSVITPGTNASSEVAVLYQDVNCTDVSTAIHADQLTPAWRIYSTGNNVFQTQAGCLIGAEHVDTSYECDIPIGAGICASYHTVSLLRSTSQKSIVAYTMSLGADSSIAYSNNTIAIPTNFSISITTEVMPVSMAKTSVDCNMYICGDSTECANLLLQYGSFCTQLNRALSGIAAEQDRNTREVFAQVKQMYKTPTLKYFGGFNFSQILPDPLKPTKRSFIEDLLFNKVTLADAGFMKQYGECLGDINARDLICAQKFNGLTVLPPLLTDDMIAAYTAALVSGTATAGWTFGAGAALQIPFAMQMAYRFNGIGVTQNVLYENQKQIANQFNKAISQIQESLTTTSTALGKLQDVVNQNAQALNTLVKQLSSNFGAISSVLNDILSRLDKVEAEVQIDRLITGRLQSLQTYVTQQLIRAAEIRASANLAATKMSECVLGQSKRVDFCGKGYHLMSFPQAAPHGVVFLHVTYVPSQERNFTTAPAICHEGKAYFPREGVFVFNGTSWFITQRNFFSPQIITTDNTFVSGNCDVVIGIINNTVYDPLQPELDSFKEELDKYFKNHTSPDVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYEQYIKWPWYVWLGFIAGLIAIVMVTILLCCMTSCCSCLKGACSCGSCCKFDEDDSEPVLKGVKLHYT</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2003-04-23" modified="2020-12-02" version="90">
+    <name>VME1_SARS</name>
+    <protein>
+      <recommendedName>
+        <fullName evidence="1">Membrane protein</fullName>
+        <shortName evidence="1">M protein</shortName>
+      </recommendedName>
+      <alternativeName>
+        <fullName evidence="1">E1 glycoprotein</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName evidence="1">Matrix glycoprotein</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName evidence="1">Membrane glycoprotein</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at protein level" />
+    <sequence length="221" mass="25061" checksum="275C37085A0215A8" modified="2003-04-23" version="1">MADNGTITVEELKQLLEQWNLVIGFLFLAWIMLLQFAYSNRNRFLYIIKLVFLWLLWPVTLACFVLAAVYRINWVTGGIAIAMACIVGLMWLSYFVASFRLFARTRSMWSFNPETNILLNVPLRGTIVTRPLMESELVIGAVIIRGHLRMAGHSLGRCDIKDLPKEITVATSRTLSYYKLGASQRVGTDSGFAAYNRYRIGNYKLNTDHAGSNDNIALLVQ</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2008-06-10" modified="2020-12-02" version="114">
+    <name>R1AB_SARS</name>
+    <protein>
+      <recommendedName>
+        <fullName>Replicase polyprotein 1ab</fullName>
+        <shortName>pp1ab</shortName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>ORF1ab polyprotein</fullName>
+      </alternativeName>
+      <component>
+        <recommendedName>
+          <fullName>Host translation inhibitor nsp1</fullName>
+        </recommendedName>
+        <alternativeName>
+          <fullName>Leader protein</fullName>
+        </alternativeName>
+        <alternativeName>
+          <fullName>Non-structural protein 1</fullName>
+          <shortName>nsp1</shortName>
+        </alternativeName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>Non-structural protein 2</fullName>
+          <shortName>nsp2</shortName>
+        </recommendedName>
+        <alternativeName>
+          <fullName>p65 homolog</fullName>
+        </alternativeName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>Non-structural protein 3</fullName>
+          <shortName>nsp3</shortName>
+          <ecNumber>3.4.19.12</ecNumber>
+          <ecNumber>3.4.22.69</ecNumber>
+        </recommendedName>
+        <alternativeName>
+          <fullName>PL2-PRO</fullName>
+        </alternativeName>
+        <alternativeName>
+          <fullName>Papain-like proteinase</fullName>
+          <shortName>PL-PRO</shortName>
+        </alternativeName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>Non-structural protein 4</fullName>
+          <shortName>nsp4</shortName>
+        </recommendedName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>3C-like proteinase</fullName>
+          <shortName>3CL-PRO</shortName>
+          <shortName>3CLp</shortName>
+          <ecNumber>3.4.22.-</ecNumber>
+        </recommendedName>
+        <alternativeName>
+          <fullName>Main protease</fullName>
+          <shortName>Mpro</shortName>
+        </alternativeName>
+        <alternativeName>
+          <fullName>Non-structural protein 5</fullName>
+          <shortName>nsp5</shortName>
+        </alternativeName>
+        <alternativeName>
+          <fullName>SARS coronavirus main proteinase</fullName>
+        </alternativeName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>Non-structural protein 6</fullName>
+          <shortName>nsp6</shortName>
+        </recommendedName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>Non-structural protein 7</fullName>
+          <shortName>nsp7</shortName>
+        </recommendedName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>Non-structural protein 8</fullName>
+          <shortName>nsp8</shortName>
+        </recommendedName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>Non-structural protein 9</fullName>
+          <shortName>nsp9</shortName>
+        </recommendedName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>Non-structural protein 10</fullName>
+          <shortName>nsp10</shortName>
+        </recommendedName>
+        <alternativeName>
+          <fullName>Growth factor-like peptide</fullName>
+          <shortName>GFL</shortName>
+        </alternativeName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>RNA-directed RNA polymerase</fullName>
+          <shortName>Pol</shortName>
+          <shortName>RdRp</shortName>
+          <ecNumber>2.7.7.48</ecNumber>
+        </recommendedName>
+        <alternativeName>
+          <fullName>Non-structural protein 12</fullName>
+          <shortName>nsp12</shortName>
+        </alternativeName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>Helicase</fullName>
+          <shortName>Hel</shortName>
+          <ecNumber>3.6.4.12</ecNumber>
+          <ecNumber>3.6.4.13</ecNumber>
+        </recommendedName>
+        <alternativeName>
+          <fullName>Non-structural protein 13</fullName>
+          <shortName>nsp13</shortName>
+        </alternativeName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName evidence="72 74">Proofreading exoribonuclease</fullName>
+          <shortName>ExoN</shortName>
+          <ecNumber>2.1.1.-</ecNumber>
+          <ecNumber>3.1.13.-</ecNumber>
+        </recommendedName>
+        <alternativeName>
+          <fullName>Guanine-N7 methyltransferase</fullName>
+        </alternativeName>
+        <alternativeName>
+          <fullName>Non-structural protein 14</fullName>
+          <shortName>nsp14</shortName>
+        </alternativeName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>Uridylate-specific endoribonuclease</fullName>
+          <ecNumber>3.1.-.-</ecNumber>
+        </recommendedName>
+        <alternativeName>
+          <fullName>NendoU</fullName>
+        </alternativeName>
+        <alternativeName>
+          <fullName>Non-structural protein 15</fullName>
+          <shortName>nsp15</shortName>
+        </alternativeName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>2'-O-methyltransferase</fullName>
+          <ecNumber>2.1.1.-</ecNumber>
+        </recommendedName>
+        <alternativeName>
+          <fullName>Non-structural protein 16</fullName>
+          <shortName>nsp16</shortName>
+        </alternativeName>
+      </component>
+    </protein>
+    <proteinExistence type="evidence at protein level" />
+    <sequence length="7073" mass="790248" checksum="E6504CAFDC36BC09" modified="2008-06-10" version="1">MESLVLGVNEKTHVQLSLPVLQVRDVLVRGFGDSVEEALSEAREHLKNGTCGLVELEKGVLPQLEQPYVFIKRSDALSTNHGHKVVELVAEMDGIQYGRSGITLGVLVPHVGETPIAYRNVLLRKNGNKGAGGHSYGIDLKSYDLGDELGTDPIEDYEQNWNTKHGSGALRELTRELNGGAVTRYVDNNFCGPDGYPLDCIKDFLARAGKSMCTLSEQLDYIESKRGVYCCRDHEHEIAWFTERSDKSYEHQTPFEIKSAKKFDTFKGECPKFVFPLNSKVKVIQPRVEKKKTEGFMGRIRSVYPVASPQECNNMHLSTLMKCNHCDEVSWQTCDFLKATCEHCGTENLVIEGPTTCGYLPTNAVVKMPCPACQDPEIGPEHSVADYHNHSNIETRLRKGGRTRCFGGCVFAYVGCYNKRAYWVPRASADIGSGHTGITGDNVETLNEDLLEILSRERVNINIVGDFHLNEEVAIILASFSASTSAFIDTIKSLDYKSFKTIVESCGNYKVTKGKPVKGAWNIGQQRSVLTPLCGFPSQAAGVIRSIFARTLDAANHSIPDLQRAAVTILDGISEQSLRLVDAMVYTSDLLTNSVIIMAYVTGGLVQQTSQWLSNLLGTTVEKLRPIFEWIEAKLSAGVEFLKDAWEILKFLITGVFDIVKGQIQVASDNIKDCVKCFIDVVNKALEMCIDQVTIAGAKLRSLNLGEVFIAQSKGLYRQCIRGKEQLQLLMPLKAPKEVTFLEGDSHDTVLTSEEVVLKNGELEALETPVDSFTNGAIVGTPVCVNGLMLLEIKDKEQYCALSPGLLATNNVFRLKGGAPIKGVTFGEDTVWEVQGYKNVRITFELDERVDKVLNEKCSVYTVESGTEVTEFACVVAEAVVKTLQPVSDLLTNMGIDLDEWSVATFYLFDDAGEENFSSRMYCSFYPPDEEEEDDAECEEEEIDETCEHEYGTEDDYQGLPLEFGASAETVRVEEEEEEDWLDDTTEQSEIEPEPEPTPEEPVNQFTGYLKLTDNVAIKCVDIVKEAQSANPMVIVNAANIHLKHGGGVAGALNKATNGAMQKESDDYIKLNGPLTVGGSCLLSGHNLAKKCLHVVGPNLNAGEDIQLLKAAYENFNSQDILLAPLLSAGIFGAKPLQSLQVCVQTVRTQVYIAVNDKALYEQVVMDYLDNLKPRVEAPKQEEPPNTEDSKTEEKSVVQKPVDVKPKIKACIDEVTTTLEETKFLTNKLLLFADINGKLYHDSQNMLRGEDMSFLEKDAPYMVGDVITSGDITCVVIPSKKAGGTTEMLSRALKKVPVDEYITTYPGQGCAGYTLEEAKTALKKCKSAFYVLPSEAPNAKEEILGTVSWNLREMLAHAEETRKLMPICMDVRAIMATIQRKYKGIKIQEGIVDYGVRFFFYTSKEPVASIITKLNSLNEPLVTMPIGYVTHGFNLEEAARCMRSLKAPAVVSVSSPDAVTTYNGYLTSSSKTSEEHFVETVSLAGSYRDWSYSGQRTELGVEFLKRGDKIVYHTLESPVEFHLDGEVLSLDKLKSLLSLREVKTIKVFTTVDNTNLHTQLVDMSMTYGQQFGPTYLDGADVTKIKPHVNHEGKTFFVLPSDDTLRSEAFEYYHTLDESFLGRYMSALNHTKKWKFPQVGGLTSIKWADNNCYLSSVLLALQQLEVKFNAPALQEAYYRARAGDAANFCALILAYSNKTVGELGDVRETMTHLLQHANLESAKRVLNVVCKHCGQKTTTLTGVEAVMYMGTLSYDNLKTGVSIPCVCGRDATQYLVQQESSFVMMSAPPAEYKLQQGTFLCANEYTGNYQCGHYTHITAKETLYRIDGAHLTKMSEYKGPVTDVFYKETSYTTTIKPVSYKLDGVTYTEIEPKLDGYYKKDNAYYTEQPIDLVPTQPLPNASFDNFKLTCSNTKFADDLNQMTGFTKPASRELSVTFFPDLNGDVVAIDYRHYSASFKKGAKLLHKPIVWHINQATTKTTFKPNTWCLRCLWSTKPVDTSNSFEVLAVEDTQGMDNLACESQQPTSEEVVENPTIQKEVIECDVKTTEVVGNVILKPSDEGVKVTQELGHEDLMAAYVENTSITIKKPNELSLALGLKTIATHGIAAINSVPWSKILAYVKPFLGQAAITTSNCAKRLAQRVFNNYMPYVFTLLFQLCTFTKSTNSRIRASLPTTIAKNSVKSVAKLCLDAGINYVKSPKFSKLFTIAMWLLLLSICLGSLICVTAAFGVLLSNFGAPSYCNGVRELYLNSSNVTTMDFCEGSFPCSICLSGLDSLDSYPALETIQVTISSYKLDLTILGLAAEWVLAYMLFTKFFYLLGLSAIMQVFFGYFASHFISNSWLMWFIISIVQMAPVSAMVRMYIFFASFYYIWKSYVHIMDGCTSSTCMMCYKRNRATRVECTTIVNGMKRSFYVYANGGRGFCKTHNWNCLNCDTFCTGSTFISDEVARDLSLQFKRPINPTDQSSYIVDSVAVKNGALHLYFDKAGQKTYERHPLSHFVNLDNLRANNTKGSLPINVIVFDGKSKCDESASKSASVYYSQLMCQPILLLDQALVSDVGDSTEVSVKMFDAYVDTFSATFSVPMEKLKALVATAHSELAKGVALDGVLSTFVSAARQGVVDTDVDTKDVIECLKLSHHSDLEVTGDSCNNFMLTYNKVENMTPRDLGACIDCNARHINAQVAKSHNVSLIWNVKDYMSLSEQLRKQIRSAAKKNNIPFRLTCATTRQVVNVITTKISLKGGKIVSTCFKLMLKATLLCVLAALVCYIVMPVHTLSIHDGYTNEIIGYKAIQDGVTRDIISTDDCFANKHAGFDAWFSQRGGSYKNDKSCPVVAAIITREIGFIVPGLPGTVLRAINGDFLHFLPRVFSAVGNICYTPSKLIEYSDFATSACVLAAECTIFKDAMGKPVPYCYDTNLLEGSISYSELRPDTRYVLMDGSIIQFPNTYLEGSVRVVTTFDAEYCRHGTCERSEVGICLSTSGRWVLNNEHYRALSGVFCGVDAMNLIANIFTPLVQPVGALDVSASVVAGGIIAILVTCAAYYFMKFRRVFGEYNHVVAANALLFLMSFTILCLVPAYSFLPGVYSVFYLYLTFYFTNDVSFLAHLQWFAMFSPIVPFWITAIYVFCISLKHCHWFFNNYLRKRVMFNGVTFSTFEEAALCTFLLNKEMYLKLRSETLLPLTQYNRYLALYNKYKYFSGALDTTSYREAACCHLAKALNDFSNSGADVLYQPPQTSITSAVLQSGFRKMAFPSGKVEGCMVQVTCGTTTLNGLWLDDTVYCPRHVICTAEDMLNPNYEDLLIRKSNHSFLVQAGNVQLRVIGHSMQNCLLRLKVDTSNPKTPKYKFVRIQPGQTFSVLACYNGSPSGVYQCAMRPNHTIKGSFLNGSCGSVGFNIDYDCVSFCYMHHMELPTGVHAGTDLEGKFYGPFVDRQTAQAAGTDTTITLNVLAWLYAAVINGDRWFLNRFTTTLNDFNLVAMKYNYEPLTQDHVDILGPLSAQTGIAVLDMCAALKELLQNGMNGRTILGSTILEDEFTPFDVVRQCSGVTFQGKFKKIVKGTHHWMLLTFLTSLLILVQSTQWSLFFFVYENAFLPFTLGIMAIAACAMLLVKHKHAFLCLFLLPSLATVAYFNMVYMPASWVMRIMTWLELADTSLSGYRLKDCVMYASALVLLILMTARTVYDDAARRVWTLMNVITLVYKVYYGNALDQAISMWALVISVTSNYSGVVTTIMFLARAIVFVCVEYYPLLFITGNTLQCIMLVYCFLGYCCCCYFGLFCLLNRYFRLTLGVYDYLVSTQEFRYMNSQGLLPPKSSIDAFKLNIKLLGIGGKPCIKVATVQSKMSDVKCTSVVLLSVLQQLRVESSSKLWAQCVQLHNDILLAKDTTEAFEKMVSLLSVLLSMQGAVDINRLCEEMLDNRATLQAIASEFSSLPSYAAYATAQEAYEQAVANGDSEVVLKKLKKSLNVAKSEFDRDAAMQRKLEKMADQAMTQMYKQARSEDKRAKVTSAMQTMLFTMLRKLDNDALNNIINNARDGCVPLNIIPLTTAAKLMVVVPDYGTYKNTCDGNTFTYASALWEIQQVVDADSKIVQLSEINMDNSPNLAWPLIVTALRANSAVKLQNNELSPVALRQMSCAAGTTQTACTDDNALAYYNNSKGGRFVLALLSDHQDLKWARFPKSDGTGTIYTELEPPCRFVTDTPKGPKVKYLYFIKGLNNLNRGMVLGSLAATVRLQAGNATEVPANSTVLSFCAFAVDPAKAYKDYLASGGQPITNCVKMLCTHTGTGQAITVTPEANMDQESFGGASCCLYCRCHIDHPNPKGFCDLKGKYVQIPTTCANDPVGFTLRNTVCTVCGMWKGYGCSCDQLREPLMQSADASTFLNRVCGVSAARLTPCGTGTSTDVVYRAFDIYNEKVAGFAKFLKTNCCRFQEKDEEGNLLDSYFVVKRHTMSNYQHEETIYNLVKDCPAVAVHDFFKFRVDGDMVPHISRQRLTKYTMADLVYALRHFDEGNCDTLKEILVTYNCCDDDYFNKKDWYDFVENPDILRVYANLGERVRQSLLKTVQFCDAMRDAGIVGVLTLDNQDLNGNWYDFGDFVQVAPGCGVPIVDSYYSLLMPILTLTRALAAESHMDADLAKPLIKWDLLKYDFTEERLCLFDRYFKYWDQTYHPNCINCLDDRCILHCANFNVLFSTVFPPTSFGPLVRKIFVDGVPFVVSTGYHFRELGVVHNQDVNLHSSRLSFKELLVYAADPAMHAASGNLLLDKRTTCFSVAALTNNVAFQTVKPGNFNKDFYDFAVSKGFFKEGSSVELKHFFFAQDGNAAISDYDYYRYNLPTMCDIRQLLFVVEVVDKYFDCYDGGCINANQVIVNNLDKSAGFPFNKWGKARLYYDSMSYEDQDALFAYTKRNVIPTITQMNLKYAISAKNRARTVAGVSICSTMTNRQFHQKLLKSIAATRGATVVIGTSKFYGGWHNMLKTVYSDVETPHLMGWDYPKCDRAMPNMLRIMASLVLARKHNTCCNLSHRFYRLANECAQVLSEMVMCGGSLYVKPGGTSSGDATTAYANSVFNICQAVTANVNALLSTDGNKIADKYVRNLQHRLYECLYRNRDVDHEFVDEFYAYLRKHFSMMILSDDAVVCYNSNYAAQGLVASIKNFKAVLYYQNNVFMSEAKCWTETDLTKGPHEFCSQHTMLVKQGDDYVYLPYPDPSRILGAGCFVDDIVKTDGTLMIERFVSLAIDAYPLTKHPNQEYADVFHLYLQYIRKLHDELTGHMLDMYSVMLTNDNTSRYWEPEFYEAMYTPHTVLQAVGACVLCNSQTSLRCGACIRRPFLCCKCCYDHVISTSHKLVLSVNPYVCNAPGCDVTDVTQLYLGGMSYYCKSHKPPISFPLCANGQVFGLYKNTCVGSDNVTDFNAIATCDWTNAGDYILANTCTERLKLFAAETLKATEETFKLSYGIATVREVLSDRELHLSWEVGKPRPPLNRNYVFTGYRVTKNSKVQIGEYTFEKGDYGDAVVYRGTTTYKLNVGDYFVLTSHTVMPLSAPTLVPQEHYVRITGLYPTLNISDEFSSNVANYQKVGMQKYSTLQGPPGTGKSHFAIGLALYYPSARIVYTACSHAAVDALCEKALKYLPIDKCSRIIPARARVECFDKFKVNSTLEQYVFCTVNALPETTADIVVFDEISMATNYDLSVVNARLRAKHYVYIGDPAQLPAPRTLLTKGTLEPEYFNSVCRLMKTIGPDMFLGTCRRCPAEIVDTVSALVYDNKLKAHKDKSAQCFKMFYKGVITHDVSSAINRPQIGVVREFLTRNPAWRKAVFISPYNSQNAVASKILGLPTQTVDSSQGSEYDYVIFTQTTETAHSCNVNRFNVAITRAKIGILCIMSDRDLYDKLQFTSLEIPRRNVATLQAENVTGLFKDCSKIITGLHPTQAPTHLSVDIKFKTEGLCVDIPGIPKDMTYRRLISMMGFKMNYQVNGYPNMFITREEAIRHVRAWIGFDVEGCHATRDAVGTNLPLQLGFSTGVNLVAVPTGYVDTENNTEFTRVNAKPPPGDQFKHLIPLMYKGLPWNVVRIKIVQMLSDTLKGLSDRVVFVLWAHGFELTSMKYFVKIGPERTCCLCDKRATCFSTSSDTYACWNHSVGFDYVYNPFMIDVQQWGFTGNLQSNHDQHCQVHGNAHVASCDAIMTRCLAVHECFVKRVDWSVEYPIIGDELRVNSACRKVQHMVVKSALLADKFPVLHDIGNPKAIKCVPQAEVEWKFYDAQPCSDKAYKIEELFYSYATHHDKFTDGVCLFWNCNVDRYPANAIVCRFDTRVLSNLNLPGCDGGSLYVNKHAFHTPAFDKSAFTNLKQLPFFYYSDSPCESHGKQVVSDIDYVPLKSATCITRCNLGGAVCRHHANEYRQYLDAYNMMISAGFSLWIYKQFDTYNLWNTFTRLQSLENVAYNVVNKGHFDGHAGEAPVSIINNAVYTKVDGIDVEIFENKTTLPVNVAFELWAKRNIKPVPEIKILNNLGVDIAANTVIWDYKREAPAHVSTIGVCTMTDIAKKPTESACSSLTVLFDGRVEGQVDLFRNARNGVLITEGSVKGLTPSKGPAQASVNGVTLIGESVKTQFNYFKKVDGIIQQLPETYFTQSRDLEDFKPRSQMETDFLELAMDEFIQRYKLEGYAFEHIVYGDFSHGQLGGLHLMIGLAKRSQDSPLKLEDFIPMDSTVKNYFITDAQTGSSKCVCSVIDLLLDDFVEIIKSQDLSVISKVVKVTIDYAEISFMLWCKDGHVETFYPKLQASQAWQPGVAMPNLYKMQRMLLEKCDLQNYGENAVIPKGIMMNVAKYTQLCQYLNTLTLAVPYNMRVIHFGAGSDKGVAPGTAVLRQWLPTGTLLVDSDLNDFVSDADSTLIGDCATVHTANKWDLIISDMYDPRTKHVTKENDSKEGFFTYLCGFIKQKLALGGSIAVKITEHSWNADLYKLMGHFSWWTAFVTNVNASSSEAFLIGANYLGKPKEQIDGYTMHANYIFWRNTNPIQLSSYSLFDMSKFPLKLRGTAVMSLKENQINDMIYSLLEKGRLIIRENNRVVVSSDILVNN</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2007-05-29" modified="2020-12-02" version="34">
+    <name>Y14_SARS</name>
+    <protein>
+      <recommendedName>
+        <fullName>Uncharacterized protein 14</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at protein level" />
+    <sequence length="70" mass="7852" checksum="9FCDB5ADCD6CF79A" modified="2003-10-01" version="1">MLPPCYNFLKEQHCQKASTQREAEAAVKPLLAPHHVVAVIQEIQLLAAVGEILLLEWLAEVVKLPSRYCC</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2003-10-10" modified="2020-12-02" version="60">
+    <name>NS8B_SARS</name>
+    <protein>
+      <recommendedName>
+        <fullName>ORF8b protein</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Accessory protein 8b</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>Non-structural protein 8b</fullName>
+        <shortName>ns8b</shortName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at protein level" />
+    <sequence length="84" mass="9560" checksum="510EEE64470C3B1E" modified="2003-06-01" version="1">MCLKILVRYNTRGNTYSTAWLCALGKVLPFHRWHTMVQTCTPNVTINCQDPAGGALIARCWYLHEGHQTAAFRDVLVVLNKRTN</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2007-04-17" modified="2020-12-02" version="39">
+    <name>NS8A_SARS</name>
+    <protein>
+      <recommendedName>
+        <fullName>ORF8a protein</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Accessory protein 8a</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>Protein non-structural 8a</fullName>
+        <shortName>ns8a</shortName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="39" mass="4327" checksum="1F890982A820681F" modified="2003-10-01" version="1" precursor="true">MKLLIVLTCISLCSCICTVVQRCASNKPHVLEDPCKVQH</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2003-04-23" modified="2020-12-02" version="74">
+    <name>NS6_SARS</name>
+    <protein>
+      <recommendedName>
+        <fullName>ORF6 protein</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Accessory protein 6</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>Non-structural protein 6</fullName>
+        <shortName>ns6</shortName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>Protein X3</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at protein level" />
+    <sequence length="63" mass="7527" checksum="70C9150941C759BF" modified="2003-04-23" version="1">MFHLVDFQVTIAEILIIIMRTFRIAIWNLDVIISSIVRQLFKPLTKKNYSELDDEEPMELDYP</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2003-04-23" modified="2020-12-02" version="126">
+    <name>NCAP_SARS</name>
+    <protein>
+      <recommendedName>
+        <fullName evidence="7">Nucleoprotein</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName evidence="7">Nucleocapsid protein</fullName>
+        <shortName evidence="7">NC</shortName>
+        <shortName evidence="7">Protein N</shortName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at protein level" />
+    <sequence length="422" mass="46025" checksum="43FC8750F1253034" modified="2003-04-23" version="1">MSDNGPQSNQRSAPRITFGGPTDSTDNNQNGGRNGARPKQRRPQGLPNNTASWFTALTQHGKEELRFPRGQGVPINTNSGPDDQIGYYRRATRRVRGGDGKMKELSPRWYFYYLGTGPEASLPYGANKEGIVWVATEGALNTPKDHIGTRNPNNNAATVLQLPQGTTLPKGFYAEGSRGGSQASSRSSSRSRGNSRNSTPGSSRGNSPARMASGGGETALALLLLDRLNQLESKVSGKGQQQQGQTVTKKSAAEASKKPRQKRTATKQYNVTQAFGRRGPEQTQGNFGDQDLIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYHGAIKLDDKDPQFKDNVILLNKHIDAYKTFPPTEPKKDKKKKTDEAQPLPQRQKKQPTVTLLPAADMDDFSRQLQNSMSGASADSTQA</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2007-04-17" modified="2020-12-02" version="49">
+    <name>NS7B_SARS</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein non-structural 7b</fullName>
+        <shortName>ns7b</shortName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Accessory protein 7b</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at protein level" />
+    <sequence length="44" mass="5302" checksum="7AD647C9E311E04F" modified="2003-10-01" version="1">MNELTLIDFYLCFLAFLLFLVLIMLIIFWFSLEIQDLEEPCTKV</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2008-06-10" modified="2020-12-02" version="103">
+    <name>R1A_SARS</name>
+    <protein>
+      <recommendedName>
+        <fullName>Replicase polyprotein 1a</fullName>
+        <shortName>pp1a</shortName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>ORF1a polyprotein</fullName>
+      </alternativeName>
+      <component>
+        <recommendedName>
+          <fullName>Non-structural protein 1</fullName>
+          <shortName>nsp1</shortName>
+        </recommendedName>
+        <alternativeName>
+          <fullName>Leader protein</fullName>
+        </alternativeName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>Non-structural protein 2</fullName>
+          <shortName>nsp2</shortName>
+        </recommendedName>
+        <alternativeName>
+          <fullName>p65 homolog</fullName>
+        </alternativeName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>Non-structural protein 3</fullName>
+          <shortName>nsp3</shortName>
+          <ecNumber>3.4.19.12</ecNumber>
+          <ecNumber>3.4.22.-</ecNumber>
+        </recommendedName>
+        <alternativeName>
+          <fullName>PL2-PRO</fullName>
+        </alternativeName>
+        <alternativeName>
+          <fullName>Papain-like proteinase</fullName>
+          <shortName>PL-PRO</shortName>
+        </alternativeName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>Non-structural protein 4</fullName>
+          <shortName>nsp4</shortName>
+        </recommendedName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>3C-like proteinase</fullName>
+          <shortName>3CL-PRO</shortName>
+          <shortName>3CLp</shortName>
+          <ecNumber>3.4.22.69</ecNumber>
+        </recommendedName>
+        <alternativeName>
+          <fullName>Main protease</fullName>
+          <shortName>Mpro</shortName>
+        </alternativeName>
+        <alternativeName>
+          <fullName>Non-structural protein 5</fullName>
+          <shortName>nsp5</shortName>
+        </alternativeName>
+        <alternativeName>
+          <fullName>SARS coronavirus main proteinase</fullName>
+        </alternativeName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>Non-structural protein 6</fullName>
+          <shortName>nsp6</shortName>
+        </recommendedName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>Non-structural protein 7</fullName>
+          <shortName>nsp7</shortName>
+        </recommendedName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>Non-structural protein 8</fullName>
+          <shortName>nsp8</shortName>
+        </recommendedName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>Non-structural protein 9</fullName>
+          <shortName>nsp9</shortName>
+        </recommendedName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>Non-structural protein 10</fullName>
+          <shortName>nsp10</shortName>
+        </recommendedName>
+        <alternativeName>
+          <fullName>Growth factor-like peptide</fullName>
+          <shortName>GFL</shortName>
+        </alternativeName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>Non-structural protein 11</fullName>
+          <shortName>nsp11</shortName>
+        </recommendedName>
+      </component>
+    </protein>
+    <proteinExistence type="evidence at protein level" />
+    <sequence length="4382" mass="486373" checksum="E1F65D5FD5DFF828" modified="2008-06-10" version="1">MESLVLGVNEKTHVQLSLPVLQVRDVLVRGFGDSVEEALSEAREHLKNGTCGLVELEKGVLPQLEQPYVFIKRSDALSTNHGHKVVELVAEMDGIQYGRSGITLGVLVPHVGETPIAYRNVLLRKNGNKGAGGHSYGIDLKSYDLGDELGTDPIEDYEQNWNTKHGSGALRELTRELNGGAVTRYVDNNFCGPDGYPLDCIKDFLARAGKSMCTLSEQLDYIESKRGVYCCRDHEHEIAWFTERSDKSYEHQTPFEIKSAKKFDTFKGECPKFVFPLNSKVKVIQPRVEKKKTEGFMGRIRSVYPVASPQECNNMHLSTLMKCNHCDEVSWQTCDFLKATCEHCGTENLVIEGPTTCGYLPTNAVVKMPCPACQDPEIGPEHSVADYHNHSNIETRLRKGGRTRCFGGCVFAYVGCYNKRAYWVPRASADIGSGHTGITGDNVETLNEDLLEILSRERVNINIVGDFHLNEEVAIILASFSASTSAFIDTIKSLDYKSFKTIVESCGNYKVTKGKPVKGAWNIGQQRSVLTPLCGFPSQAAGVIRSIFARTLDAANHSIPDLQRAAVTILDGISEQSLRLVDAMVYTSDLLTNSVIIMAYVTGGLVQQTSQWLSNLLGTTVEKLRPIFEWIEAKLSAGVEFLKDAWEILKFLITGVFDIVKGQIQVASDNIKDCVKCFIDVVNKALEMCIDQVTIAGAKLRSLNLGEVFIAQSKGLYRQCIRGKEQLQLLMPLKAPKEVTFLEGDSHDTVLTSEEVVLKNGELEALETPVDSFTNGAIVGTPVCVNGLMLLEIKDKEQYCALSPGLLATNNVFRLKGGAPIKGVTFGEDTVWEVQGYKNVRITFELDERVDKVLNEKCSVYTVESGTEVTEFACVVAEAVVKTLQPVSDLLTNMGIDLDEWSVATFYLFDDAGEENFSSRMYCSFYPPDEEEEDDAECEEEEIDETCEHEYGTEDDYQGLPLEFGASAETVRVEEEEEEDWLDDTTEQSEIEPEPEPTPEEPVNQFTGYLKLTDNVAIKCVDIVKEAQSANPMVIVNAANIHLKHGGGVAGALNKATNGAMQKESDDYIKLNGPLTVGGSCLLSGHNLAKKCLHVVGPNLNAGEDIQLLKAAYENFNSQDILLAPLLSAGIFGAKPLQSLQVCVQTVRTQVYIAVNDKALYEQVVMDYLDNLKPRVEAPKQEEPPNTEDSKTEEKSVVQKPVDVKPKIKACIDEVTTTLEETKFLTNKLLLFADINGKLYHDSQNMLRGEDMSFLEKDAPYMVGDVITSGDITCVVIPSKKAGGTTEMLSRALKKVPVDEYITTYPGQGCAGYTLEEAKTALKKCKSAFYVLPSEAPNAKEEILGTVSWNLREMLAHAEETRKLMPICMDVRAIMATIQRKYKGIKIQEGIVDYGVRFFFYTSKEPVASIITKLNSLNEPLVTMPIGYVTHGFNLEEAARCMRSLKAPAVVSVSSPDAVTTYNGYLTSSSKTSEEHFVETVSLAGSYRDWSYSGQRTELGVEFLKRGDKIVYHTLESPVEFHLDGEVLSLDKLKSLLSLREVKTIKVFTTVDNTNLHTQLVDMSMTYGQQFGPTYLDGADVTKIKPHVNHEGKTFFVLPSDDTLRSEAFEYYHTLDESFLGRYMSALNHTKKWKFPQVGGLTSIKWADNNCYLSSVLLALQQLEVKFNAPALQEAYYRARAGDAANFCALILAYSNKTVGELGDVRETMTHLLQHANLESAKRVLNVVCKHCGQKTTTLTGVEAVMYMGTLSYDNLKTGVSIPCVCGRDATQYLVQQESSFVMMSAPPAEYKLQQGTFLCANEYTGNYQCGHYTHITAKETLYRIDGAHLTKMSEYKGPVTDVFYKETSYTTTIKPVSYKLDGVTYTEIEPKLDGYYKKDNAYYTEQPIDLVPTQPLPNASFDNFKLTCSNTKFADDLNQMTGFTKPASRELSVTFFPDLNGDVVAIDYRHYSASFKKGAKLLHKPIVWHINQATTKTTFKPNTWCLRCLWSTKPVDTSNSFEVLAVEDTQGMDNLACESQQPTSEEVVENPTIQKEVIECDVKTTEVVGNVILKPSDEGVKVTQELGHEDLMAAYVENTSITIKKPNELSLALGLKTIATHGIAAINSVPWSKILAYVKPFLGQAAITTSNCAKRLAQRVFNNYMPYVFTLLFQLCTFTKSTNSRIRASLPTTIAKNSVKSVAKLCLDAGINYVKSPKFSKLFTIAMWLLLLSICLGSLICVTAAFGVLLSNFGAPSYCNGVRELYLNSSNVTTMDFCEGSFPCSICLSGLDSLDSYPALETIQVTISSYKLDLTILGLAAEWVLAYMLFTKFFYLLGLSAIMQVFFGYFASHFISNSWLMWFIISIVQMAPVSAMVRMYIFFASFYYIWKSYVHIMDGCTSSTCMMCYKRNRATRVECTTIVNGMKRSFYVYANGGRGFCKTHNWNCLNCDTFCTGSTFISDEVARDLSLQFKRPINPTDQSSYIVDSVAVKNGALHLYFDKAGQKTYERHPLSHFVNLDNLRANNTKGSLPINVIVFDGKSKCDESASKSASVYYSQLMCQPILLLDQALVSDVGDSTEVSVKMFDAYVDTFSATFSVPMEKLKALVATAHSELAKGVALDGVLSTFVSAARQGVVDTDVDTKDVIECLKLSHHSDLEVTGDSCNNFMLTYNKVENMTPRDLGACIDCNARHINAQVAKSHNVSLIWNVKDYMSLSEQLRKQIRSAAKKNNIPFRLTCATTRQVVNVITTKISLKGGKIVSTCFKLMLKATLLCVLAALVCYIVMPVHTLSIHDGYTNEIIGYKAIQDGVTRDIISTDDCFANKHAGFDAWFSQRGGSYKNDKSCPVVAAIITREIGFIVPGLPGTVLRAINGDFLHFLPRVFSAVGNICYTPSKLIEYSDFATSACVLAAECTIFKDAMGKPVPYCYDTNLLEGSISYSELRPDTRYVLMDGSIIQFPNTYLEGSVRVVTTFDAEYCRHGTCERSEVGICLSTSGRWVLNNEHYRALSGVFCGVDAMNLIANIFTPLVQPVGALDVSASVVAGGIIAILVTCAAYYFMKFRRVFGEYNHVVAANALLFLMSFTILCLVPAYSFLPGVYSVFYLYLTFYFTNDVSFLAHLQWFAMFSPIVPFWITAIYVFCISLKHCHWFFNNYLRKRVMFNGVTFSTFEEAALCTFLLNKEMYLKLRSETLLPLTQYNRYLALYNKYKYFSGALDTTSYREAACCHLAKALNDFSNSGADVLYQPPQTSITSAVLQSGFRKMAFPSGKVEGCMVQVTCGTTTLNGLWLDDTVYCPRHVICTAEDMLNPNYEDLLIRKSNHSFLVQAGNVQLRVIGHSMQNCLLRLKVDTSNPKTPKYKFVRIQPGQTFSVLACYNGSPSGVYQCAMRPNHTIKGSFLNGSCGSVGFNIDYDCVSFCYMHHMELPTGVHAGTDLEGKFYGPFVDRQTAQAAGTDTTITLNVLAWLYAAVINGDRWFLNRFTTTLNDFNLVAMKYNYEPLTQDHVDILGPLSAQTGIAVLDMCAALKELLQNGMNGRTILGSTILEDEFTPFDVVRQCSGVTFQGKFKKIVKGTHHWMLLTFLTSLLILVQSTQWSLFFFVYENAFLPFTLGIMAIAACAMLLVKHKHAFLCLFLLPSLATVAYFNMVYMPASWVMRIMTWLELADTSLSGYRLKDCVMYASALVLLILMTARTVYDDAARRVWTLMNVITLVYKVYYGNALDQAISMWALVISVTSNYSGVVTTIMFLARAIVFVCVEYYPLLFITGNTLQCIMLVYCFLGYCCCCYFGLFCLLNRYFRLTLGVYDYLVSTQEFRYMNSQGLLPPKSSIDAFKLNIKLLGIGGKPCIKVATVQSKMSDVKCTSVVLLSVLQQLRVESSSKLWAQCVQLHNDILLAKDTTEAFEKMVSLLSVLLSMQGAVDINRLCEEMLDNRATLQAIASEFSSLPSYAAYATAQEAYEQAVANGDSEVVLKKLKKSLNVAKSEFDRDAAMQRKLEKMADQAMTQMYKQARSEDKRAKVTSAMQTMLFTMLRKLDNDALNNIINNARDGCVPLNIIPLTTAAKLMVVVPDYGTYKNTCDGNTFTYASALWEIQQVVDADSKIVQLSEINMDNSPNLAWPLIVTALRANSAVKLQNNELSPVALRQMSCAAGTTQTACTDDNALAYYNNSKGGRFVLALLSDHQDLKWARFPKSDGTGTIYTELEPPCRFVTDTPKGPKVKYLYFIKGLNNLNRGMVLGSLAATVRLQAGNATEVPANSTVLSFCAFAVDPAKAYKDYLASGGQPITNCVKMLCTHTGTGQAITVTPEANMDQESFGGASCCLYCRCHIDHPNPKGFCDLKGKYVQIPTTCANDPVGFTLRNTVCTVCGMWKGYGCSCDQLREPLMQSADASTFLNGFAV</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2003-04-23" modified="2020-12-02" version="105">
+    <name>NS7A_SARS</name>
+    <protein>
+      <recommendedName>
+        <fullName>ORF7a protein</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Accessory protein 7a</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>Protein U122</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>Protein X4</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at protein level" />
+    <sequence length="122" mass="13941" checksum="6D8D8D949B0DB4B5" modified="2003-04-23" version="1" precursor="true">MKIILFLTLIVFTSCELYHYQECVRGTTVLLKEPCPSGTYEGNSPFHPLADNKFALTCTSTHFAFACADGTRHTYQLRARSVSPKLFIRQEEVQQELYSPLFLIVAALVFLILCFTIKRKTE</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2003-04-23" modified="2020-12-02" version="95">
+    <name>ORF9B_SARS</name>
+    <protein>
+      <recommendedName>
+        <fullName>ORF9b protein</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Accessory protein 9b</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>ORF-9b</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>Protein 9b</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at protein level" />
+    <sequence length="98" mass="10802" checksum="5166F22872915FCB" modified="2003-04-23" version="1">MDPNQTNVVPPALHLVDPQIQLTITRMEDAMGQGQNSADPKVYPIILRLGSQLSLSMARRNLDSLEARAFQSTPIVVQMTKLATTEELPDEFVVVTAK</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2003-04-23" modified="2020-12-02" version="77">
+    <name>NS3B_SARS</name>
+    <protein>
+      <recommendedName>
+        <fullName>ORF3b protein</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Accessory protein 3b</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>Non-structural protein 3b</fullName>
+        <shortName>ns3b</shortName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>Protein X2</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at protein level" />
+    <sequence length="154" mass="17750" checksum="82AB0B68F11060A8" modified="2003-04-23" version="1">MMPTTLFAGTHITMTTVYHITVSQIQLSLLKVTAFQHQNSKKTTKLVVILRIGTQVLKTMSLYMAISPKFTTSLSLHKLLQTLVLKMLHSSSLTSLLKTHRMCKYTQSTALQELLIQQWIQFMMSRRRLLACLCKHKKVSTNLCTHSFRKKQVR</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2003-04-23" modified="2020-12-02" version="99">
+    <name>AP3A_SARS</name>
+    <protein>
+      <recommendedName>
+        <fullName>ORF3a protein</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Accessory protein 3a</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>Protein 3a</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>Protein U274</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>Protein X1</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at protein level" />
+    <sequence length="274" mass="30903" checksum="E48C7D44A4DE34FE" modified="2003-04-23" version="1">MDLFMRFFTLGSITAQPVKIDNASPASTVHATATIPLQASLPFGWLVIGVAFLAVFQSATKIIALNKRWQLALYKGFQFICNLLLLFVTIYSHLLLVAAGMEAQFLYLYALIYFLQCINACRIIMRCWLCWKCKSKNPLLYDANYFVCWHTHNYDYCIPYNSVTDTIVVTEGDGISTPKLKEDYQIGGYSEDRHSGVKDYVVVHGYFTEVYYQLESTQITTDTGIENATFFIFNKLVKDPPNVQIHTIDGSSGVANPAMDPIYDEPTTTTSVPL</sequence>
+  </entry>
+  <copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

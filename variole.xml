@@ -1,0 +1,2348 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<uniprot>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2020-02-26" version="77">
+    <name>C23L_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Chemokine-binding protein</fullName>
+        <shortName>vCKBP</shortName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>35 kDa protein</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="253" mass="27465" checksum="F639F91E55F31910" modified="1994-02-01" version="1" precursor="true">MKQYIVLACMCLAAAAMPASLQQSSSSCTEEENKHYMGIDVIIKVTKQDQTPTNDKICQSVTEITESESDPEVESEDDSTSVEDVDPPTTYYSIIGGGLRMNFGFTKCPQIKSISESANGNAVNARLSSVPLGQGKDSPAITRAEALAMIKDCELSIDIRCSEEEKDSDIQTHPVLESNISHKKVSYEDIIGSTIVDTKCVKNLEFSVRIGDMCKESSDLEVKDGFKYVDGSVSEGVTDDTSLIDSTKLKSCV</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="62">
+    <name>3BHST_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Truncated 3-beta hydroxy-5-ene steroid dehydrogenase homolog</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="61" mass="6849" checksum="2563A2FAE6CCABD6" modified="1994-02-01" version="1">MTVYAVTGGAEFLGRYIVKLLISADDVQEIRVINVVEDPQPLVSKVKVINYIQCDINDLIR</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="55">
+    <name>C4_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein C4</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="316" mass="37218" checksum="BEB29064B866F0BB" modified="1996-02-01" version="2">MDTIKIFNHGEFDTIRNKLVNLLKVVKWNTINSNVTVSSTDTIDISNCIREILYKQFKNVRNIEVSSNISFIKYNRFNDTTLTDDNVGYYLVIYLNRMKSVKTLIYPTPETVITSSEDIMFSKSLNFRFENVKRDYKLVMCSISLTYKPSICRIQYDNNKYIDISDSQEGNNLCYCVITMDPHHLIDLETICVLVNKSGKCLLVNEFYTRFRKNHIYDSFADLCMDHIFELPDTEELFTLRNDDGRNIAWDNDKLESGNNTWIPKTDDEYKFLSKLMNIAKFNNTKFDYYMLVGDTDPCTVFTFKVTKYYINLNYE</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2011-12-14" modified="2019-12-11" version="12">
+    <name>A145_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Virion membrane protein A14.5</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="53" mass="6165" checksum="892885E0E0348A8E" modified="2011-12-14" version="1">MISNYEPLLLLVITCCVLLFNFTISSKTKIDIIFAVQTIVFIWFIFHFVHSAI</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="93">
+    <name>B1_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>B1 kinase</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Serine/threonine-protein kinase 1</fullName>
+        <ecNumber>2.7.11.1</ecNumber>
+      </alternativeName>
+      <alternativeName>
+        <fullName>Vaccinia protein kinase 1</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="300" mass="34260" checksum="40CD8ABC00D3CBF0" modified="1994-02-01" version="1">MNFQGLVLTDNCKNQWVVGPLIGKGGFGSIYTTNDNNYVVKIEPKANGSLFTEQAFYTRVLKPSVIEEWKKSHHISHVGVITCKAFGLYKSINTEYRFLVINRLGVDLDAVIRANNNRLPKRSVMLVGIEILNTIQFMHEQGYSHGNIKASNIVLDQMDKNKLYLVDYGLVSKFMSNGEHVPFIRNPNKMDNGTLEFTPIDSHKGYVVSRRGDLETLGYCMIRWLGGILPWTKIAETKNCALVSATKQKYVNNTTTLLMTSLQYAPRELLQYITMVNSLTYFEEPNYDKFRHILMQGAYY</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>CRMB_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Cytokine response-modifying protein B</fullName>
+        <shortName>CrmB</shortName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Viral tumor necrosis factor receptor II</fullName>
+        <shortName>vTNFR</shortName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at protein level" />
+    <sequence length="349" mass="38189" checksum="D45D40B5C6E780EF" modified="2019-10-16" version="1" precursor="true">MKSVLYLYILFLSCIIINGRDAAPYTPPNGKCKDTEYKRHNLCCLSCPPGTYASRLCDSKTNTQCTPCGSGTFTSRNNHLPACLSCNGRCNSNQVETRSCNTTHNRICECSPGYYCLLKGSSGCKACVSQTKCGIGYGVSGHTSVGDVICSPCGFGTYSHTVSSADKCEPVPNNTFNYIDVEITLYPVNDTSCTRTTTTGLSESILTSELTITMNHTDCNPVFREEYFSVLNKVATSGFFTGENRYQNISKVCTLNFEIKCNNKGSSFKQLTKAKNDDGMMSHSETVTLAGDCLSSVDIYILYSNTNAQDYETDTISYRVGNVLDDDSHMPGSCNIHKPITNSKPTRFL</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>A12_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>25 kDa core protein A12L</fullName>
+      </recommendedName>
+      <component>
+        <recommendedName>
+          <fullName>17 kDa core protein A12L</fullName>
+          <shortName>17K</shortName>
+        </recommendedName>
+      </component>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="189" mass="20192" checksum="A3092B675BEA0C63" modified="2019-10-16" version="1">MADKKNLAVRSSYDDYIETVNKITPQLKNLLAQIGGDAAVKGGNNNLNSQTDVTAGACDTKSKSSKCITCKSKSSSSSTSTSKSSKNTSGAPRRRTTATTSFNAMDGQIVQAVTNAGKIVYGTVRDGQLEVRGMVGEINHDLLGIESVNAGKKKPSKKMPTNKKINMSSGMRRQEQINPNDCCLDMGMY</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="55">
+    <name>A19_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A19</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="76" mass="8271" checksum="12CFD36635F08554" modified="1994-02-01" version="1">MDSTNARSGMKSRKKKPKTTVIDEDDCMTCSVCQSKLVKISDITKVSLDYINTMRGNTLACTACGSSLKLLNDFAS</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>A30_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A30</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Protein A33</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="77" mass="8745" checksum="BC30812604F804E2" modified="2019-10-16" version="1">MEDLNEANFSHLLINLSNNKDIDAQYASTLSVVHELLSAINFKIFNINKKSKKNSKSIEQHPVVHHAASAGREFNRR</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="62">
+    <name>A41_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A41</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="218" mass="24999" checksum="CCFF2D647A06ED86" modified="1994-02-01" version="1" precursor="true">MYSLVFVILMCIPFSFQTVYDDKSVCDSDNKEYMGIEVYVEATLDEPLRQTTCESEIHKYGASVSNGGLNISVDLLNCFLNFHTVGVYTNRDTVYAKFTSLDPWTMEPINSMTYDDLVKLTEECIVDIYLKCEVDKTKDFIKTNGNRLKPRDFKTVPPNVGSIIELQSDYCVNDVTAYVKIYDECGNIKQHSIPTLRDYFTTTNGQPRKILKKKFDNC</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>A51_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A51</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="334" mass="37642" checksum="A01D5461A0119C81" modified="2019-10-16" version="1">MDGVIVYCLNALVKHGEEINHIKNDFMIKPCCERVCEKVKNVHIDGQSKNNTVIADLPYLDNAVLDVCKSVYKKNVSRISRFANLIKIDDDDKTPTGVYNYFKPKDAISVIISIGKDKDVCELLIASDKACACIELNSYKVAILPMNVSFFTKGNASLIILLFDFSINAAPLLRSVTDNNVVISRHKRLHGEIPSSNWFKFYISIKSNYCSILYMVVDGSVMYAIADNKTHTIISKNILDNTTINDECRCCYFEPQIKILDRDEMLNGSSCDMNRHCIMMNLPDIGEFGSSILGKYEPDMIKIALSVAGNLIRNQDYIPGRRGYSYYVYGIASR</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>A17_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Virion membrane protein A17 precursor</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>23 kDa late protein</fullName>
+      </alternativeName>
+      <component>
+        <recommendedName>
+          <fullName>Mature 21 kDa protein A17</fullName>
+        </recommendedName>
+      </component>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="203" mass="22999" checksum="24759AF6FC18D431" modified="2019-10-16" version="1">MSYLRYYNMLDDFSAGAGVLDKDLFTEEQQQSFMPKDGGMMQNDYGGMNDYLGIFKNNDVRTLLGLILFVLALYSPPLISILMIFISSFLLPLTSLVITYCLVTQMYRGGNGNTVGMSIVCIVAAVIIMAINVFTNSQIFNIISYIILFILFFAYVMNIERQDYRRSINVTIPEQYTCNKPYTAGNKVDVDIPTFNSLNTDDY</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="70">
+    <name>A27_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>14 kDa fusion protein</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="110" mass="12485" checksum="6A0339E9CAE21655" modified="1994-02-01" version="1">MDGTLFPGDDDLAIPATEFFSTKAAKKPEAKREAIVKADGDNNEETLKQRLTNLEKKITNVTTKFEQIEKCCKRNDDVLFRLENHAETLRAAMISLAKKIDVQTGRRPYE</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>A47_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A47</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="244" mass="28389" checksum="5F2B14B028A21228" modified="2019-10-16" version="1">MGNKNIKPSKENRLSILYKDRMDSFKRGSWATSSFREKSHATIQRFLSLRREHVKVDHPDKFLELKREIYAIIQKSSSIDVDKRTKLMSNIKTMMINPFMIEGLMTSLESLDPDNKMSYSSVMILGEFDIINISDNKAAFEFINSLLKSLLLLNTSQLKLLEYSISNDLLYTHINALEYIIKNTFNVPERQLILRCQYLTPIFSDLLKYAGLTIKSNILMWNKKFIKPVSDLYTSMQLLHCVTV</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>A33_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A33</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at protein level" />
+    <sequence length="184" mass="20512" checksum="8729A4A636DBB871" modified="2019-10-16" version="1">MMTPENDEEQTSVFSATVYGDKIQGKNKRKRVIGICIRISMVISLLSMITMSAFLIVRLNQCMSANEAAITDATAVAAALSTHRKVASSTTQYKHQESCNGLYYQGSCYIFHSDYQLFSDAKANCATESSTLPNKSDVLTTWLIDYVEDTWGSDGNPITKTTTDYQDSDVSQEVRKYFCVKTMN</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="59">
+    <name>ATI_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>A-type inclusion protein A25 homolog</fullName>
+        <shortName>ATI</shortName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="702" mass="81284" checksum="74FBA1EBF921E3B3" modified="1994-02-01" version="1">MEVTNLIEKCTKHSKDFATEVEKLWNDELSSESCLSRKTRNVIRNILRDITKSLTTDKKSKCFRILERSTINGEQIKDVYKTIFNNGVDAESRINTTGKYVLFTVMTYAAAELRLIKSDEIFALLSRFFNMICDIHKKYGCGNMFVGIPAALIVLLEIDHINKLFSVFSTRYDAKAYLYTEYFLFLNINHYLLSGSDLFINVAYGAVSFSSPISVPDYIMEALTFKACDHIMKSGDLIYIYAFTKKVKDLFNTKSDSIYQYVRLHEMSYDGVSEDTDDDDEVFAILNLSIDSSVDRYRNRVLLLTPEVASLRKEYSEAEPDYKYLMDEEVPAYDKHLPKPITNTGIEEPHATGGDKEDQPIKVVHPPNNDKDDAIKSYNPLEDPNYVPTITRTAIGIADYQLVINKLIEWLDKCEEECGNGGEFKTELEEAKRKLTELNAELSDKLSKIRTLERDSVYKTERIDRLTKEIKELRDIQNGTDDGSDSSEIDKKTIRELKESLDREREMRSELEKELDTIRDGKVDGSCQGRLELSRMWLKQRDDDLRAEIDKRRNVEWELSKLRRDIKECDKYKEELDKAKTTISNYVSRISTLESEIAKYQQDRDTLSAVRGELEEERRRVRDLESRLDECTHNQKDTQEVDALRSRISELENKLTDCIESGGGNLTEISRLQSRILDLERQLNDCRHNNKTNTETDRNETS</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>A38_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A38</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="277" mass="31595" checksum="16A7AC95E215D57E" modified="2019-10-16" version="1">MLRVRILLIYLCTFVVITSTKTIEYTACNDTIIIPCTIDNPTKYIRWKLDNHNILTYNKTSKTIILSKWHTSAKLHSLSDNDVSLIIKYKDILPGTYTCEDNTGIKSTVKLVQRHTNWFNDHHTMLMFIFTGITLFLLFLEIAYTSISVVFSTNLGILQVFGCIIAMIELCGAFLFYPSMFTLRHIIGLLMMTLPSIFLIITKVFSFWLLCKLSCAVHLIIYYQLAGYILTVLGLGLSLKECVDGTLLLSGLGTIMVSEHFSLLFLVCFPSTQRDYY</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>A4_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>39kDa core protein</fullName>
+        <shortName>p39</shortName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Protein A4</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="271" mass="30060" checksum="26252594A34560FA" modified="2019-10-16" version="1">MDFFNKFSQGLAESSTPKSSIYYSEEKDLDIKKDEAIEIGLKSQESYYQRQLREQLARDNMMAASRQPIQPLQPTIHITPLQVPTPAPTPKPRQQQTNTSSDMSNLFDWLSADDNTQPSSLLPALTPINAVQDIISKFNKDQKTTTTPSTQPSQTLPTTTCTQQSDGSISCTTPTVTPPQPPIVATVCTPTPTGGTVCTTAQQNPNPGATSQQNLDNMALKDLMSSVEKDMRQLQAETNDLVTNVYDAREYTRRAIDQILQLVKGFERFQK</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>RUVV_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Resolvase A22</fullName>
+        <ecNumber>3.1.-.-</ecNumber>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="187" mass="21995" checksum="2F2ADA05D939262F" modified="2019-10-16" version="1">METLTSSSQSLISSPMSKKDYSSEIICAFDIGAKNPARTVLEVKDNSVRVLDISKLDWSSDWERRIAKDLSQYEYTTVLLERQPRRSPYVKFIYFIKGFLYHTSATKVICVSPVMSGNSYRDRKKRSVEAFFDWMDIFGLRDSVPDRRKLDDVADSFNLAMRYVLDKWNTNYTHYNRCKSRNYIKKM</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>VP8_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Core protein VP8</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>25 kDa major core protein</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>L4 core protein</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>P25K</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="251" mass="28487" checksum="BA34201F43FBD5B1" modified="2019-10-16" version="1" precursor="true">MSLLLENLIEEDTIFFAGSISEYDDLQMVIAGAKSKFPRSMLSIFNIVPRTMSKYELELIHNENITGAMFTTMYNIRNNLGLGDDKLTIEAIENYFLDPNNEVMPLIINNTDMTAVIPKKSGRRKNKNMVIFRQGSSPILCIFETRKKINIYKENMESASTEYTPIGDNKALISKYAGINVLNVYSPSTSMRLNAIYGFTNKNKLEKLSTNKELELYSSSPLQEPIRLNDFLGLLECVKKNIPLTDIPTKD</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>VITF3_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Intermediate transcription factor 3 large subunit</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>VITF-3 45 kDa subunit</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="382" mass="44612" checksum="641A2D7387E76770" modified="2019-10-16" version="1">MDNLFTFLHEIEDRYTRTIFNFHLISCDEIGDIYGLMKERISSEDMFDNIVYNKDIHPAIKKLVYCDIQLTKHIINQNTYPVFNDSSQVKCCHYFDINSDNSNISSRTVEIFEREKSSLVSYIKTTNKKRKVNYGEIKKTVHGGTNANYFSGKKSDEYLSTTVRSNINQPWIKTISKRMRVNIINHSIVTRGKSSILQTIEIIFTNRTCVKIFKDSTMHIILSKDKDEKGCIHMIDKLFYVYYNLFLLFEDIIQNEYFKEVANVVNHVLTATALDEKLFLIKKMAKHDVYGVSNFKIGMFNLTFIKSLDHTVFPSLLDEDSKIKFFKGKKLNIVALRSLEDCINYVTKSENMIEMMKERSTILNSIDIETESVDRLKDLLLK</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>VB18_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Ankyrin repeat protein B18</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="574" mass="68147" checksum="7C3217FD66D9A8F7" modified="2019-10-16" version="1">MSRRLIYVLNINRKSTHKIQENEIYTYFSYCNIDHTSTELDFVVKNYDLNRRQPVTGYTALHCYLYNNYFTNDVLKVLLNHGVDVTIKPSSGHMPIYILLTRCCNISHNVVIDMINKDKTHLSHKDYSNLLLEYIKSRYMLLKEEDIDENIVSTLLDKGIDPNFKQDGYTALHYYYLCLAHVYKPGECRKPITIKKAKRIISLFIQHGANLNALDNCGNTPFHLYLSIEMCNNIHMTKMLLTFNPNFEICNNHGLTPILCYITSDYIQHDILVMLIHHYETNVGEMPIDERRMIVFEFIKTYSTRPLDSITYLMNRFKNIDIHTRYEGKTLLHIACEYNNTHVIDYLIRINGDINALTDNNKHAIQLIIDNKENSQYTIDCLLYILRYIVDKNVIRSLVDQLPYLPIFDIKSFEKFISYCILLDDTFYDRHVQNRDSKTYRYTFSKYISFDKYDSIITKCYEETILLKLSTVLDTTLYSVLRCHNSRKLKRYLSVLKKYNNDKSFKIYSNIMNERYLNVYYKDMYVSKVYDKLFPVFTDKKCLLTLLPSEIIYEILYMLTIYDLYNISYPPTKV</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2011-09-21" modified="2019-12-11" version="88">
+    <name>3BHS_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>3 beta-hydroxysteroid dehydrogenase/Delta 5--&gt;4-isomerase</fullName>
+        <shortName>3-beta-HSD</shortName>
+      </recommendedName>
+      <domain>
+        <recommendedName>
+          <fullName>3-beta-hydroxy-Delta(5)-steroid dehydrogenase</fullName>
+          <ecNumber>1.1.1.145</ecNumber>
+        </recommendedName>
+        <alternativeName>
+          <fullName>3-beta-hydroxy-5-ene steroid dehydrogenase</fullName>
+        </alternativeName>
+        <alternativeName>
+          <fullName>Progesterone reductase</fullName>
+        </alternativeName>
+      </domain>
+      <domain>
+        <recommendedName>
+          <fullName>Steroid Delta-isomerase</fullName>
+          <ecNumber>5.3.3.1</ecNumber>
+        </recommendedName>
+        <alternativeName>
+          <fullName>Delta-5-3-ketosteroid isomerase</fullName>
+        </alternativeName>
+      </domain>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="210" mass="24163" checksum="AAAEEB99C00AF08A" modified="1996-11-01" version="1">MEAIGPNKHGNPFIGHEHTLYDISPGHVYAKSKRMVEQLVTKANNSVIMNGAKLYTCCLRPTGIYGGGDKLTKVFYEQCTQHGNIMYRTVDDDAVHSRVYVGNVAWMHVLAVKYIQYPGSEIKGNAYFCYGYSPSCSYDMFNLLLMKPLGIEQGSRIPRWMLKMYTCKNDMKRILFRKPSLLNNYTLKISNTTFEARQQCRTRFQLLPYL</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>A11_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A11</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="319" mass="36234" checksum="E36F5BC0498C00D1" modified="2019-10-16" version="1">MTTVPVTDIQNDLITEFSEDNYPSNKNYEITLRQMSILTHVNNVVDREHNAAVVSSPEEISSQLNEDLFPDDDSPATIIERVQQPHTTIIDDTPPPTFRRELLISEQRQQREKRFNITVSKNAEAIMESRSMITSMPTQTPSLGVVYDKDKRIQMLEDEVVNLRNQQSNTKSSNNLDNFTRILFGKTPYKSTEVNKRIAIVNYANLNGSPLSVEDLDVCSEDEIDRIYKTIKQYHESRKRKIIVTNVIIIVINIIEQALLKLGFDEIKGLSTDITSEIIDVEIGDDCDAVASKLGIGNSPVLNIVLFILKIFVKRIKII</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>DUT_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Deoxyuridine 5'-triphosphate nucleotidohydrolase</fullName>
+        <shortName>dUTPase</shortName>
+        <ecNumber>3.6.1.23</ecNumber>
+      </recommendedName>
+      <alternativeName>
+        <fullName>dUTP pyrophosphatase</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="147" mass="16465" checksum="D918ED4F482ECDA1" modified="2019-10-16" version="1">MFNMNINSPVRFVKETNRAKSPTRQSPYAAGYDLYSAYDYTIPPGERQLIKTDISMSMPKFCYGRIAPRSGLSLKGIDIGGGVIDEDYRGNIGVILINNGKYTFNVNTGDRIAQLIYQRIYYPELKEVQSLDSTDRGDQGFGSTGLR</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="92">
+    <name>E3_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein E3</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="190" mass="21664" checksum="67697ED28E1D115B" modified="1994-02-01" version="1">MSKIYIDERSDAEIVCEAIKNIGLEGVTAVQLTRQLNMEKREVNKALYDLQRSAMVYSSDDIPPRWFMTTEADKPDAMTMADVIIDDVSREKSMREDHKSFDDVIPAKKIIDWKNANPVTIINEYCQITKRDWSFRIESVGPSNSPTFYACVDIDGRVFDKADGKSKRDAKNNAAKLAVDKLLGYVIIRF</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>D2_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Core protein D2</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="146" mass="16876" checksum="2A72781391BEA23A" modified="2019-10-16" version="1">MSINIDIKKITDLLNSSILFPDDVQELLREKYIVLERKSNGTPTVAHIYKTMARFDNKSIYRIAKFLFMNRPDVIKLLFLEDVEPLLPDKSINISINNTEYPQLEGPIGTKIALLELFNAFKTGISEPIPYYYLPLRKDINNIVTK</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>A20_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>DNA polymerase processivity factor component A20</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="426" mass="49088" checksum="6CD83C0903EBBF59" modified="2019-10-16" version="1">MTSSADLTNLKELLSLYKSLRFSDSAAIEKYNSLVEWGTSTYWKIGVQKVANVETSISDYYDEVKNKPFNIDPGYYIFLPVYFGSVFIYSKGKNMVELGSGNSFQIPDDMRSVCNKVLDGDNGIDFLRFVLLNNRWIMEDAISKYQSPVNIFKLASEYGLNIPNYLEIEIEEDTLFDDELYSIIERSFDDNFPKISISYIKLGELRRQVVDFFKFSFMYIESIKVDRIGDNIFIPSVITKSGKKILVKDVDHLIRSKVREHTFVKVKKKNTFSILYDYDGNGTETRGEVIKRIIDTIGRDYYVNGKYFSKVGSAGLKQLTNKLNINECTTVDELVDEINKSGTVKRKIKTQSAFDLSRECLGYPEADFITLVNNMRFKIENCKVVNFNIENTNCLNNPSIETIYGNFNQFVSIFNIVTDVKKRLFE</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>F17_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Phosphoprotein F17</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="101" mass="11337" checksum="B8160F92D14BF2B1" modified="2019-10-16" version="1">MNSHFASAHTPFYINTKEGRYLVLKAVKVCDVRTVEFEGSKASCVLKVDKPSSPASERRPSSPSRCERMNNPGKQVPFMRTDMLQNMFAANRDNVASRLLS</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>A14_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Virion membrane protein A14</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="90" mass="9978" checksum="8F65DA9561678168" modified="2019-10-16" version="1">MDMMLMIGNYFSGVLIAGIILLILSCIFAFIDFSKSTSPTRTWKVLSIMSFILGIIITVGMLIYSMWGKHCAPHRVSGVIHTNHSDISVN</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>F16_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein F16</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="231" mass="26497" checksum="4C7D6B051DD59FB7" modified="2019-10-16" version="1">MKVVIVTSVASLLDASIQFQKTACRHHCNYLSMQIVKEIEEFGTINEKNLEFATWKDVIQNDEIDALVFYRVKQISISTGVLYESMMRNRTKPISMFFVRDCLAFDGDPPSFRMTSCNINAYNRNKIKDLIILMNMKTCNKKIIGEFIIDNFGSVNALLSIINSNVTWVTSVINNSNGRGINIRVSNNKMLTITSFRRFVNKLKMYKTTKCASQLDNLCTEINKMDIIDKK</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="79">
+    <name>F5_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>36 kDa major membrane protein F5</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="322" mass="36721" checksum="142F7A33579E4F1E" modified="1994-02-01" version="1" precursor="true">MGTNTIRAFIILYLLAVCGCVEYDVDNNVQICTCANVSHINHTFWYYNNKVIALATEDRTSGYISSFIKRVNISLTCLNISSLRYEDSGSYKGVSHLKDGVIVTTTMNISVKANIIDLTGRVCYLTRNYCEVKIRCEIKSFALNGSITPLHMILGTLDRWKYLPFPTDDYRYVGELKRYISGNPYPIESLALEISATFNRFTIVKNNDDEFSCYLFSQNYSFHKMLNARHICESEWEALNNNNDNSSSMPVSHNNRANDLSSMMSQLQNDNDDNNDYSAPMNINNLIMIVLITMLSIIIIIIVVIAIIAMYKRSKYSHIDDN</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>A13_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Virion membrane protein A13</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="68" mass="7541" checksum="15BB909719033147" modified="2019-10-16" version="1">MIGILLLIGICVAVTVAILYAMYNKIKNSQNPSPNVNLPPPETRNTRFVNNLEKDHISSLYNLVKSSV</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2011-09-21" modified="2020-02-26" version="63">
+    <name>A26_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A26 homolog</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="498" mass="57976" checksum="E49BEF3C13AC08AD" modified="1996-11-01" version="1">MVNIINLWNGIVPMVQDVNVASITAFKSMIDETWDKKIEANTCISRKHRNIIHEVIRDFMKAYPKMDENRKSPLGAPMQWLTQYYILKNEYYKTMLAYDNESLNTKFKTLNIYMITNVGQYILYIVFCIISGKNHNGTPYIYDSEITSNNKNLINDRIKYACKQILHGQLTMALRIRNKFMFIGSPMYLWFNVNGSHVYHEIYDGNVGFHNKEIGRLLYAFMYYLSISDRFLNDFALLKFTYLGESWTFSLSVPEYILYGLGYSVFDTIEKFSNDAILVYIKTNNRNGYDYVEFNKKGIVKVTETKPDNDKRIHAIRLINNSTDVQHIHFGFRNMVIIDNECANIQSSVENATDTGHHQDSKINIKDDDVDDDDYNPKPTPIPEPYPRPPFPRHEYYKRPKLLHVEEPDPVKKDADRIRLDNHILNTLDHNLNSIGHYCCDTAAVDRLEHHIETLGQYAVILARKINMQSLLFPWLLPTVHPHAIDGSIPPHGRSTIL</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>E6_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein E6</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="567" mass="66717" checksum="2F64C6D52477082D" modified="2019-10-16" version="1">MDFIRRKYLIYTVENNIDFLKDDTLSKVNNFTLNHVLALKYLVSNFPQHVITKDVLANTNFFVFIHMVRCCKVYEAVLRHAFDAPTLYVKALTKNYLSFSNAIQSYKETVHKLTQDEKFLEVAEYMEELGELIGVNYDLVLNPLFHGGEPIKDMEIIFLKLFKKTDFKVVKKLSVIRLLIWAYLSKKDTGIEFADNDRQDIYTLFQHTGRIVHSNLTETFRDYIFPGDKTSYWVWLNESIANDADIVLNRPAITMYDKILSYIYSEIKQGRVNKNMLKLVYIFEPEKDIRELLLEIIYDIPGDILSIIDAKNDDWKKYFISFYKANFINGNTFISDRTFNEDLFRVVVQIDPEYFDNERIMSLFSTSAVEIKRFDELDINNSYISNIIYEVNDITLDTMDDMKKCQIFNEDTSYYVKEYNTYLFLNETDPMVIENGILKKLSSIKSKSRRLNLFSKNILKYYLDGQLARLGLVLDDYKGDLLVKMINHLKFVEDVSAFVRFSTDKNPSVLPSLINTILASYNISIIVLFQKFLRDNLYHVEKFLDKSIHLTKTDKKYILQLIRHGRS</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>F9_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein F9</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="212" mass="23746" checksum="B7CFF526FC3EB3E0" modified="2019-10-16" version="1">MAETKEFKTLYNLFIDSYLQKLAQHSIPTNVTCAIHIGEVIGQFKNCALRITNKCMSNTRLSFTLMVESFIEVISLLPEKDRRAIAEEIGIDLNDVPSAVSKLEKNCNAYAEVNNIIDIQKLNIGECSAPPGQHMLLQIVNTGSAGANCGLQTILKSLNKIYVPPIIENRLPYYDPWFLVGVAIILVIFTVAICSIRRNLALKYRYGTFLYV</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>B17_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein B17</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="340" mass="39673" checksum="C40C18C9CE692448" modified="2019-10-16" version="1">MSRKFMQVYEYDREQYLDEFIEDRYNDSFIASPEYYSAEKYMCRYTILNHNCVNVRRCALDSKLLHDIITNCKIYNNIELVRATKFVYYLDLIKCNWVSKVGDSVLYPVIFITHTSTRNLDKVSVKTYKGVKVKKLNRCADHAIVINPFVKFKLTLPNKTSHAKVLVTFCKLRTDIMPIEAPYPGNVLVYTFPDIHKRIPGYIHINIEGCIDGIIYINSSKFSCVLKLHRSMYRIPPFPIDICSCCSQYTNDDIEIPIHDLIKDVVIFKNKEMVYYLKLNNKTIARFTYFNNIDTAITQEHKYVKIALGIVCKLMINNMHSIVGVNHSNTFVNCLLEDNV</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>A49_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A49</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="162" mass="18749" checksum="1883589730544714" modified="2019-10-16" version="1">MDEGYYSGNLESVLGYVSDMHTKLASITQLVIAKIETIDNDILNNDIVNFIMCRSNLNNPFISFLDTVYTIIDQEIYQNELINSLDDNKIIDCIVNKFMSFYKDNLENIVDAIITLKYIMNNPDFKTTYAEVLGSRIADIDIKQVIRENILQLSNDIRERYL</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>E10_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Probable FAD-linked sulfhydryl oxidase E10</fullName>
+        <ecNumber>1.8.3.2</ecNumber>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="95" mass="10836" checksum="9BCB0B4306397E27" modified="2019-10-16" version="1">MNPKHWGRAAWTIIFIVLSQAGLDGNIEACKRKLYTIVSTLPCPACRRHATIAIEDNNIMSSNDLNYIYYFFIRLFNNLASDPKYAIDVSKVKPL</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>A15_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Core protein A15</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="94" mass="10951" checksum="7A56E89226C2D3F3" modified="2019-10-16" version="1">MFVDDDSLIIYSTWPSTLSDSSGRVIVMPDNRSFTFKEGFKLDESIKSILLVNPSSIDLLKIRVYKHRIKWMGNIFVLFEQENIPPPFRLVNDK</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="65">
+    <name>A16_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Virion membrane protein A16</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="377" mass="43546" checksum="98002E9E45602894" modified="2007-01-23" version="3">MGAAVTLNRINIASGIADIRDKYMELGFNYPKYNRTVKFAEESYMYYYETSPGEIKPKFCLIDGMSIDHCSSFIVPEFAKQYVLIHGEPCSSFKFRPGTLIYYQNEVTPEYIKDLKHATDYIASGQRCHFIKKDYLLGDSDSVAKCCSKTNTKHCPKIFNNNYKTEHCDDFMTGFCRNDPGNPNCLEWLRVKRKPAMSTYSDICSKHMDARYCSEFIRIIRPDYFTFGDTALYVFCNDHKGNRNCWCANYPKSNSGDKYLGPRVCWLHECTDESRDRKWLYYNQDVQRTRCKYVGCTINVNSLALKNSQAELTSNCTRTTSTVGDIHPGEPVVKDKIKLPTWLGAAITLVVISVIFYFISIYSRPKIKTNDINVRRR</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2011-09-21" modified="2019-12-11" version="47">
+    <name>A375_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A37.5 homolog</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="62" mass="7143" checksum="99D9D8896974804E" modified="1996-11-01" version="1">MDSFSSLFMKLCCISTDKTGSKKSDRKNKNKIKDYMEHDYYKITIVPGSSSTSTSSWYYTHA</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>A31_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A31</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="140" mass="16365" checksum="4F3DAB44B2F1C3A6" modified="2019-10-16" version="1">MVSILNTLRFLEKTSFYNCNDSITKEKIKIKHKGMSFVFYKPKHSTVVKYLSGGCIYHDDLVVLGKVTINDLKMMLFYMDLSYHGVTSSGVIYKLGSSIDRLSLNRTIVTKVNNNYNNYNNYNNYYNCYNYDDTFFDDDD</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="54">
+    <name>A46_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A46</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="240" mass="27644" checksum="4770ACC202D5F04C" modified="1994-02-01" version="1">MAFDISVNASKTINALVYFSTQQNKLVIRNEVNDTHYTVEFDRDKVVDTFISYNRHNDSIEIRGVLPEETNIGCTVNTPVSMTYLYNKYSFKLILAEYIRHRNTVSGNIYSALMTLDDLVIKQYGDIDLLFNEKLKVDSDSGLFDFVNFVKDIICCDSRIVVALSSLVSKHWELTNKKYRCMALAEHIADSIPISELSRPRYNLCKYLRGHTESIEDEFDYFEDDDSSTCSVVTDRETDV</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>DNLI_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>DNA ligase</fullName>
+        <ecNumber evidence="2">6.5.1.1</ecNumber>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Polydeoxyribonucleotide synthase [ATP]</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="552" mass="63382" checksum="618EDFB5B92FCE7D" modified="2019-10-16" version="1">MTSLREFRKLCCAIYHASGYKEKSKLIRDFITDRDDKYLIIKLLLPGLDDRIYNMNDKQIIKIYSIIFKQSQKDMLQDLGYGYIGDTISTFFKENTEIRPRNKSILTLEDVDSFLTTLSSITKESHQIKLLTDIASVCTCNDLKCVVMLIDKDLKIKAGPRYVLNAISPHAYDVFRKSNNLKEIIENESKQNLDSISVSVMTPINPMLAESCDSVNKAFKKFPSGMFAEVKYDGERVQVHKNNNEFAFFSRNMKPVLSYKVDYLKEYIPKAFKKATSIVLDSEIVLVDEHNVQLPFGSLGIHKKKEYKNSNMCLFVFDCLYFDGFDMTDIPLYKRRSFLKDVMVEIPNRIVFSELTNISNESQLTDVLDDALTRKLEGLVLKDINGVYEPGKRRWLKIKRDYLNEGSMADSADLVVLGAYYGKGAKGGIMAVFLMGCYDDESGKWKTVTKCSGHDDNTLRVLQDQLTMVKINKDPKKIPEWLVVNKIYIPDFVVEDPKQSQIWEISGAEFTSSKSHTANGISIRFPRFTRIREDKTWKESTHLNDLVNLTKS</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>ETF2_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Early transcription factor 82 kDa subunit</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>ETF large subunit</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>VETF A7 subunit</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="710" mass="82477" checksum="BAF31D58BF8948F9" modified="2019-10-16" version="1">MRYIVSPQLVLQVGKGQEVERALYLTPYDYIDEKSPIYYFLRSHLNIQQPEIVKRHILLTLRMTQLKGYLGNLLDIKDDIIIYSHKNNLEYSYVDNTIFNPFVYTQKKTLLKNDSFLYNVYPGACDFLVIWVARACDTSIPEFGSYEDVDNNIIKFETMLMDVFPQLDLDITVESKFNNIFRTNLKLTGLKKIIQRVQDLDINYKSLLSRYDEHFINMTGNHFILNDEQLNLSIWDLDGTLALSSDGDTVMINNVKLFTDLVSDIDTQMERIKGDITYKVHLATPINSRIKLDIETSFIFIETATNNILLSSDKKISIILAKNHISIKVKNHIPNIEKYFTFLVIAINAMFNSVQKSADFTKVETVYWSRICQNTKNKNRKPVIINYLDPGMKKISNNFYRSDEKEVFINDNDIMFTCMDPLGKYNKVGFLNIFHDMRKYCIPCCFLHDQSHRSTFSSCVHQIDVEKKIVSPYILNFGKVVTESKMSFLPIIFDAFLNDGMTANMEQDNKRLKETSGYHIVRCCTGNDIVRLRTTSNIIQFVNEDKNILIVNDMVYFPMNASDIGKKIHILIQEIVHEVMIVKKKESSDKIDFFPPNYKLLKDLFPKQTIQTPIQSDAGMVLTTDGFYIDGKLFNEDLSSKYVTFTKNVITSDAVAKYFSPLFKYVISEAKDRFIKTWMINIMIHMNVDPNNIIPTLEKYYPNFGRVQIN</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>A32_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A32</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="270" mass="30991" checksum="D20BF4173F4EB4CA" modified="2019-10-16" version="1">MNCFQEKQFLRENLLKMPFRMVLTGGSGSGKTIYLLSLFSTLVKKYKHIFLFTPVYNPDYDGYIWPNHINFVSSQESLEYNLIRTKSNIEKCITVAQNHKKSAHFLLIFDDVGDKLSKCNTLIEFLNFGRHLNTSIILLCQTYRHVPILGRANITHFCSFNISISDAENMLRSMPVKGKRKDILNMLNMIQTVRSNNRLAIIIEDSVFCEGELRICTDTADKDVIEQKLNIDILVNQYSHMKKNLNTILESTKTKLCNSDQSSSSKNVSS</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2011-07-27" modified="2019-12-11" version="54">
+    <name>A25_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A2.5</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="76" mass="8929" checksum="D2A11E577B534F4E" modified="1996-11-01" version="1">MSWYEKYNIVLNPPKRCFSSCADNLTTILAEDGNNIRAILYSQPQKLKVLQDFLATSRNKMFLYKILDDEIRRVLT</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="55">
+    <name>E2_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein E2</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="737" mass="85958" checksum="F8CA3A5A6EFA17E0" modified="1994-02-01" version="1">MISVTDIRRAFLDNECHTITKAFGYLHEDKAIALIKIGFHPTYLPKVLYNNVVEFVPEKLYLFKPRTVAPLDLISTITKLKNVDKFASHINYHKNSILITGDKSLIVKCMPYMIISDDDIRFIREQFVGTNSIEYILSFINKESIYRMSYQFSENEIVTIINRDHFMYEPIYEHQVLDSDFLKTMLDKYGIVPINSGIIDELYPEAIIEILMAVVRPRDAIRFLDIVNKNQLTEDSVKNYIINDIRRGKIDYYIPYVEDFLEDRTEDLGIYANIFFEDAIDITKLDITKTELEHISKYINYYTTYIDHIVNIILQNNYIDILASIIDYVQDVLTEELCIRIVCESTNPVPVTSLPIHSTLVMVMCIQMKYVDIVEFLDEIDIDTLIEKGADPITEYTFTTRWYNKHNDLITLYIKKYGFCPMMMKRLMFEYPLTKEASDHLLKTMDENRGAIMFFPRTICTLPYLLCCNYKLIQKPIPFKEENRNIVYKKTNRVLCFDLLENSAFKSLIKIDSIPGLKTYNMKDITYEKSNNIICVRFIPQESIHNEERRIKLQLFDIARLASYGLYYIPSRYLSSWTPVVNMIEGREYTNPQKIECLVILDLFSEEFIEYQNLGNAVSNKYELEYTISNYQAAINCLMSTLLIYLVLGSIRSISKTENFVLSILNIFYKGLKINELLSEPVSGVCIELDKIKDRASSGDSSFIFLKKNELSKTLSLCEKVCVETILDNNQSFKSSK</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>D3_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Core protein D3</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>27 kDa virion core protein</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="237" mass="27996" checksum="3A65D7C240C76596" modified="2019-10-16" version="1">MDIFIVKDNKYPKVDNDDNEVFILLGNHNDFIRSKLTKLKEHVFFSKYIVTPDTYGSLCVELNGSSFQHGGRYIEVEEFIDDGRQVRWCSTSNHISEDIPEDIHTNKFIIYDIYTFDSFKNKRLVFVQVPTSLGDDSYLTNPLLSPYYCNSVARQMVNDMIFNQDSFLKYLLEHLIRSHYRVSKHITIVRYKDTEELNLTRICYNRDKFKAFAFAWFNGVLENEKVLDTYKKVSDLI</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>ETF1_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Early transcription factor 70 kDa subunit</fullName>
+        <ecNumber>3.6.4.-</ecNumber>
+      </recommendedName>
+      <alternativeName>
+        <fullName>ATP-dependent helicase VETFS</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>ETF small subunit</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>VETF D6 subunit</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="637" mass="73831" checksum="1A1E882BCF0FC3DD" modified="2019-10-16" version="1">MNTGIIDLFDNHVDSIPTILPHQLATLDYLVRTIIDENRSVLLFHIMGSGKTIIALLFALIASRFKKVHILVPNINILKIFNYNMGVAMNLFNDEFIAENIFIHSTTSFYSLNYNDNVINYNGLSRYNNSIFIVDEAHNIFGNNTGELMTVIKNKNKIPFLLLSGSPITNTPNTLGHIIDLMSEETIDFGEIISRGKKVIQTLLNERGVNVLKDLLKGRISYYEMPDKDLPTIRYHGRKFLDTRVVYCHMSKLQERDYMITRRQLCYHEMFDKNMYNVSMAVLGQLNLMNNLDTLFQEQDKELYPNLKINNGVLYGEELVTLNISSKFKYFINRIQTLNGKHFIYFSNSTYGGLVIKYIMLSNGYSEYNGSQGTNPHMINGKPKTFAIVTSKMKSSLEDLLDVYNSPENDDGSQLMFLFSSNIMSESYTLKEVRHIWFMTIPDTFSQYNQILGRSIRKFSYVDISEPVNVYLLAAVYSDFNDEVTSLNDYTQDELINVLPFDIKKLLYLKFKTKETNRIYSILQEMSETYSLPPHPSIVKVLLGELVRQFFYNNSRIKYNDAKLLKMVTSVIKNKEDARNYIDDIVNGHFFVSNKVFDKSLLYKYENDIITVPFRLSYEPFVWGVNFRKEYNVVSSP</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="81">
+    <name>M1_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Ankyrin repeat protein M1</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="446" mass="50970" checksum="FE8F1CFD46F7E237" modified="2010-07-13" version="2">MDNIMSAEYYLSLYTKYNSKNLDVFRNMLQAIEPSGNYHILHAYCGIKGLDERFVEELLHRGYSPNETDDDGNYPLHIASKINNNRIVAMLLTHGADPNACDKQHKTPLYYLSGTDDEVIERINLLVQYGAKINNSVDEEGCGPLLASTDPSERVFKKIMSIGFEARIVDKFGKNHIHRHLMSDNPKASTISWMMKLGISPSKPDHDGNTPLHIVCSKTVKNVDIINLLLPSTDVNKQNKFGDSPLTLLIKTLSPAHLINKLLSTSNVITDQTVNICIFYDRDDILEIINDKGKQYDSTDFKMAVEVGSIRCIKYLLDNDIICEDAMYYAVLSEYETMVDYLLFNHFSVDSVVNGNTCMSECVRLNNPVILSKLMLHNPTSETMYLTMKAIEKDKLDKSIIIPFIAYFVLMHPDFCKNRRYFTSYKRFVTDYVHEGVSYKVFDDYF</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>A18_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Transcript termination protein A18</fullName>
+        <ecNumber>3.6.4.-</ecNumber>
+      </recommendedName>
+      <alternativeName>
+        <fullName>56 kDa abortive late protein</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="493" mass="56676" checksum="71EEBBEC13D208BF" modified="2019-10-16" version="1">MSLLKMEYNLYAELKKITCGQSLSLFNEDGDFVEVEPGSLFKFLIPKGFYSSPSVKTSLVFETLTTTDNKITSINPTNAPKLYPLQHKVVSEVVSNMRKMIKLKRPLYITLHLACGFGKTITTCYLMATHGRKTVICVPNKMLIHQWKTQVEAVGLEHKISIDGVSSLLKELKTQSPDVLIVVSRHLTNDAFCKYINKHYDLFILDESHTYNLMNNTAVTRFLAYYPPMMCYFLTATPRPSNRIYCNSIINIAKLSDLKKTIYAVDSFFEPYSTDNIRHMIKRLDGPSNKYHIYTEKLLSVDEPRNQLILNTLVEEFKSGTINRVLVITKLREHMVLFYKRLLDLFGPEVVFIGDAQNRRTPDMVKSIKELNRFIFVSTLFYSGTGLDIPSLDSLFICSAVINNMQIEQLLGRVCRETELLDRTVYVFPNTSVKEIKYMIGNFVQRIISLSVDKLGFKQESYRKHQESDPTSVCTASSREERVLNRIFNSQNR</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="58">
+    <name>A36_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A36</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="216" mass="24492" checksum="76B5BF04AB3AC471" modified="1994-02-01" version="1">MILVPLITVTVVAGTILVCYILYICRKKIRTVYNDNKIIMTKLKKIKSSNSSKSSKSTDNESDWEDHCSAMEQNNDVDNISRNEILDDDSFAGSLIWDNESNVIAPSTEHIYDSVAGSTRLINNDCNEQTIYQNTTVINETETIEVLNEDTKQNPSYSSNPFVNYNKTSICSKSNPFITELNNKFSENNPFRRAHSDDYLNKQEHDDIESSVVSLV</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>GLRX1_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Glutaredoxin-1</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="108" mass="12349" checksum="6C7601B104975963" modified="2019-10-16" version="1">MAEEFVQQRLTNNKVTIFVKFTCPFCRNALDILNKFSFKRGAYEIVDIKEFKPENKLHDYFEQITGGRTVPRIFFGKTSIGGYSDLLEIDNMDALGDILSSIGVLRTC</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2011-09-21" modified="2019-12-11" version="17">
+    <name>A37_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A37 homolog</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="68" mass="7700" checksum="25E09F5D516611BC" modified="2009-03-03" version="1">MDEMVLLTNILSVEVVNNNEMYHLIPHRLSMIILCISSIGRCVISIDNDVNNKNILTFPIDHAVIISH</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>A21_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Virion membrane protein A21</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="117" mass="13676" checksum="D50F2DBB437D59A7" modified="2019-10-16" version="1">MITLFLILCYFILIFNIIVPAISEKMRRERAAYVNYKRLNKNFICVDDRLFSYNFTTSGIKAKVAVDNKNVPIPCSEINEVNNNKDVDTLYCDKDRDDIPGFTRSCYRAYSDLFFTT</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2011-09-21" modified="2019-12-11" version="48">
+    <name>A35_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Truncated protein A35 homolog</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="60" mass="6921" checksum="6C68DEFED74CE0C4" modified="1996-11-01" version="1">MDTTFVITPMGMLTITDTLYDDLDISIMDFIGPYIIGNIKTVQIDVRDIKYSDMQKCYFS</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>B14_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein B14</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="149" mass="17369" checksum="A84910243C7ED3D4" modified="2019-10-16" version="1">MTANFSTHVFSPQHCGCDRLTSIDDVRQCLTEYIYWSSYAYRNRQCAGQLYSTLLSFRDDAESVFIDVRELVKNMPWDDVKDCVEIIRCYIPDEQKTIREISAIIGLCAYAATYWGGEDHPTSNSLNALFVMLKMLNYVDYNIIFRRMN</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>F15_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein F15</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="161" mass="19092" checksum="9B0D59B53ABAE485" modified="2019-10-16" version="1">MKRNEEYCGLHKLKMEIFNVEELINMKPFKNMNKITINQKDNCILANRCFVKIDTPRYIPLTSISSSNIIRIRNHDFTLSELLYSPFHFQQPQFQYLLPGFVLTCIDKVSKQQKECKYCISNRGDDDSLSINLFIPTINKSIYIIIGLRMKNFWKPKFEIE</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>F7_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein F7</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="79" mass="9282" checksum="90225F7E217520B8" modified="2019-10-16" version="1">MTLVMGSCCGRFCDAKNKFKKDDIEEEGEGYCDYKNLNDLDEATRIEFGPLYIINEEKSDINTLDIKRRYRHAIESVYF</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>G9_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Myristoylated protein G9</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="340" mass="38766" checksum="1217D665801A2343" modified="2019-10-16" version="1">MGGGVSVELPKRDPPPGVPTDEMLLNVDKMHDVIAPAKLLEYVHIGPLAKDKEDKVKKRYPEFRLVNTGPGGLSALLRQSYNGTAPNCCHTFNRTHYWKKDGKISDKYEEGAVLESCWPDVHDTGKCDVNLFDWCQGDTFDRNICHQWIGSAFNRSDRTVEGQQSLINLYNKMQTLCSKDASVPICESFLHHLRAHNTEDSKEMIDYILRQQSANFKQKYMRCSYPTRDKLEESLKYAEPRECWDPECSNANVNFLLTRNYNNLGLCNIVRCNTSVNNLQMDKTSSLRLSCGLSNSDRFSTVPVNRAKVVQHNIKHSFDLKLHLISLLSLLVIWILIVAI</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="95">
+    <name>F13_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Envelope protein F13</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>37 kDa protein</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>Palmitoylated EV membrane protein</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>p37K</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="372" mass="41903" checksum="C769B05DD48EC944" modified="1994-02-01" version="1">MWPFTSAPAGAKCRLVETLPENMDFRSDHLTTFECFNEIITLAKKYIYIASFCCNPLSTTRGALIFDKLKEASEKGIKIIVLLDERGKRNLGELQSHCPDINFITVNIDKKNNVGLLLGCFWVSDDERCYVGNASFTGGSIHTIKTLGVYSDYPPLATDLRRRFDTFKAFNSVKNSWLNLYSSACCLPVSTAYHIKNPIGGVFFTDSPEHLLGYSRDLDTDVVIDKLRSAKTSIDIEHLAIVPTTRVDGNSYYWPDIYNSIIEAAINRGVKIRLLVGNWDKNDVYSMATAESLDALCVQNDLSVKVFTIQNNTKLLIVDDEYVHITSANFDGTHYQNHGFVSFNSIDKQLVSEAKKIFERDWVSSHSKSLKI</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1993-10-01" modified="2019-12-11" version="80">
+    <name>D10_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>mRNA-decapping protein D10</fullName>
+        <ecNumber>3.1.3.-</ecNumber>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="248" mass="28911" checksum="6461198855973294" modified="1993-10-01" version="1">MNFYRSSIISQIIKYNRRLAKSIICEDDSQIITLTAFVNQCLWCHKRVSVSAILLTTDNKILVCNRRDSFLYSEIIRTRNMSRKKRLFLNYSNYLNKQERSILSSFFSLDPATIDNDRIDAIYPGGILKRGENVPECLSREIKEEVNIDNSFVFIDTRFFIHGIIEDTIINKFFEVIFFVGRISLTSDQIIDTFKSNHEIKDLIFLDPNSGNGLQYEIAKYALDTAKLKCYGHRGCYYESLKKLTEDD</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>L2_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein L2</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="87" mass="10225" checksum="C3BCFCF8E59C587C" modified="2019-10-16" version="1">MEVIADRLDDIVKQNIADEKFVDFVIHGLEHQCPAILRPLIRLFIDILLFVIVIYIFTVRLVSRNYQMLLALLALVISLTIFYYFIL</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>L3_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein L3</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="349" mass="40460" checksum="8CEF789F1C1C60A3" modified="2019-10-16" version="1">MNTRTDVTNDNIDKNPTKRGNKNIPGRNERFNDRNRFNNDGNNRPRLQPSPPPRQDNKCREENGDFINIRLCAYEKEYCNDGYLSPAYYMLKQVDDEEMSCWSELSSLVRSKKAVGFPLLKAAKRISHGSMLYFEQFKNSKVVRLTPQVKCLNDTVIFQTVVILYSMYKRDIYSNEFCFDLVSIPRTNIVFSVNQLMFNICTDILVVLSICGNRLYRTNLPQSCYLNFIHGHETIACRGYEHSNYFFEWLIKNHLSLLTKQTMDILKVKKKYATGAPVNRLLEPGTLVYVPKEDYYFIGISLTDVSISDNVRVLFSTDGIVLEIEDFNIKHLFMAGEMFVRSQSSTIIV</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>M2_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein M2</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="220" mass="25212" checksum="38321DEDF3A1B78C" modified="2019-10-16" version="1" precursor="true">MVYKLVLLFCIASLGYSVEYKNTICPPRQDYRYWYFAAELTIGVNYDINSTIIGECYMSESYIDRNANIVLTGYGLEINMTIMDTDQRFVAAAEGVGKDNKLSVMLFTTQRLDKVHHNISVIITCMEMNCGTTKYNSDLPESIHHKSSCDITINGSCVTCVNLETDPTKINPHYLHPKDKYLYHNSKYGMRGSYGVTFIDELNQCLLDIKELSYDICYRE</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>E11_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein E11</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="129" mass="14888" checksum="16293874CCF1D72E" modified="2019-10-16" version="1">MELVNIFLETDAGRVKFVIKNTDDVCASELINKFVELLSEYIHIDQSEFYLVVKDKDIFYFKCDKGSISIVSNEFYVFDEPLLFVKDYTNVTGVEFIVTETMPCRIIPKNNHAVISVVTNHKFYNGLSL</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="46">
+    <name>E7_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein E7</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="60" mass="7089" checksum="3A925ADE6E320DE5" modified="1994-02-01" version="1">MISMGDIITYNGCKDNKWMLEQLSTLNFNNLHVWNSCSIGNVTRIFYTFFSYLMKDKLDI</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="54">
+    <name>F8_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein F8</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="65" mass="7873" checksum="ADFB36E251254B05" modified="1994-02-01" version="1">MEGSKRKHESRRPQQEQEQHRPRTPPSYEEIAKYGHSFNVKRFTNEEMCLKNDYPRIISYNPPPK</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>G6_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Uncharacterized protein G6</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="165" mass="18934" checksum="CB70D9900518C80E" modified="2019-10-16" version="1">MDPVNFIKTYAPRGSIIFINYTMSLTSHLNPSIEKHVGIYYGTLLSEHLVVESTYRKGVQIVPLDSFFEGYLSAKVYMLENIQVMKIAADTSLTLLGIPYGFGHNRMYCFKLVAECYKNAGINTSSKRILGKDIFLSQNFTDDNRWIKIYDSNNLTFWQIDYLKG</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="54">
+    <name>C10_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein C10</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="330" mass="38303" checksum="DB0A5EE049A1C226" modified="1994-02-01" version="1">MDIYNDKGLQTIKLFNNEFDCIRNDIRELFKHVTDSDSIQLPMEDNSDIIENIRKILYRRLKNVECVDIDSTITFMKYDPNDDNKRTCSNWVPLTNNYMEYCLVIYLETPICGGKIKLYHPTGNIKSDKDIMFAKTLDFKSKKVLTGRKTIAVLDISVSYNRSMTTIHYGDVDIDIHTDKNGKELCYCYITIDDHYLVNVETIGVIVNRSGKCLLVNNHLGIGIVKDKRISDSFGDVCMDTIFDFSEARELFSLTNDDNRNIAWDTDKLDDDTDIWTPVTEDDYKFLSRLVLYAKSQSDTVFDHYVLTGDTEPPTVFIFKVTRFYFNILK</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2011-09-21" modified="2019-12-11" version="54">
+    <name>A40_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A40 homolog</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="61" mass="6789" checksum="36519727FC90E472" modified="1996-11-01" version="1">MTMNKPKTNYAGYACCVICGLIVGIIFTATLLKAVERKLIHTPLIDKTIKDAYIREDCPTD</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>G3_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein G3</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="111" mass="12820" checksum="ED1FBAC61B0CC0EB" modified="2019-10-16" version="1">MASLLYFILFLLFVCISYYFTYYPTNKLQAAVMETDRENAIIIQRNDEIPTRTLDTAIFTDASTVASAQIYLYYNSNIGKIIMSLNGKKHTFNLYDDNDIRTLLPILLLSK</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>DPOL_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>DNA polymerase</fullName>
+        <ecNumber>2.7.7.7</ecNumber>
+      </recommendedName>
+      <domain>
+        <recommendedName>
+          <fullName>3'-5' exodeoxyribonuclease</fullName>
+          <shortName>3'-5' exonuclease</shortName>
+          <ecNumber>3.1.11.-</ecNumber>
+        </recommendedName>
+      </domain>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="1005" mass="116644" checksum="877FA53DE8921EA9" modified="2019-10-16" version="1">MDVRCINWFESHGENRFLYLKSRCRNGETVFIRFPHYFYYVVTDEIYQSLAPPPFNARPMGKMRTIDIDETISYNLDIKDRKCSVADMWLIEEPKKRNIQNATMDEFLNISWFYISNGISPDGCYSLDDQYLTKINNGCYHCGDPRNCFAKEIPRFDIPRSYLFLDIECHFDKKFPSVFINPISHTSYCYIDLSGKRLLFTLINEEMLTEQEIQEAVDRGCLRIQSLMEMDYERELVLCSEIVLLQIAKQLLELTFDYIVTFNGHNFDLRYITNRLELLTGEKIIFRSPDKKEAVHLCIYERNQSSHKGVGGMANTTFHVNNNNGTIFFDLYSFIQKSEKLDSYKLDSISKNAFSCMGKVLNRGVREMTFIGDDTTDAKGKAAVFAKVLTTGNYVTVDDIICKVIHKDIWENGFKVVLSCPTLTNDTYKLSFGKDDVDLAQMYKDYNLNIALDMARYCIHDACLCQYLWEYYGVETKTDAGASTYVLPQSMVFGYKASTVIKGPLLKLLLETKTILVRSETKQKFPYEGGKVFAPKQKMFSNNVLIFDYNSLYPNVCIFGNLSPETLVGVVVSSNRLEEEINNQLLLQKYPPPRYITVHCEPRLPNLISEIAIFDRSIEGTIPRLLRTFLAERARYKKMLKQATSSTEKAIYDSMQYTYKIIANSVYGLMGFRNSALYSYASAKSCTSIGRRMILYLESVLNGAELSNGMLRFANPLSNPFYMDDRDINPIVKTSLPIDYRFRFRSVYGDTDSVFTEIDSQDVDKSIEIAKELERLINSRVLFNNFKIEFEAVYKNLIMQSKKKYTTMKYSASSNSKSVPERINKGTSETRRDVSKFHKNMIKIYKTRLSEMLSEGRMNSNQVCIDILRSLETDLRSEFDSRSSPLELFMLSRMHHLNYKSADNPNMYLVTEYNKNNPETIELGERYYFAYICPANVPWTKKLVNIKTYETIIDRSFKLGSDQRIFYEVYFKRLTSEIVNLLDNKVLCISFFERMFGSRPTFYEA</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>G5_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Putative nuclease G5</fullName>
+        <ecNumber>3.1.-.-</ecNumber>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="434" mass="49884" checksum="DD5214A9C9810ACD" modified="2019-10-16" version="1">MGIKNLKSLLLENKSLTILDDNLYKVYNGIFVDTMSIYIAVANCVRNLEELTTVFIKYVNGWVKKGGHVTLFIDRGSIKIKQNVRDKRRKYSKSTKDRKMLELEKCTSKIQNVTGFMEEEIKAEIQLKIDKLTFQIYLSDSDNIKISLNEILTHFNNNENVTLFYCDERDAEFVMCLEAKTYFFTTGEWPLIISTDQDTMLFASVDNHPKMIKNLTQLFKFVPSAEDNYLAKLTALVNGCDFFPGLYGASITPTNLNKIQLFSDFTINNIVTSLAIKNYYRKTNSTVDVRNIVTFINDYANLDDVYSYIPPCQCTVQEFIFSALDEKWNDFKSSYLETVPLPCQLMYALEPRKEIDVSEVKTLSSYIDFENTKSDIDVIKSISSIFGYSNENCNTIVFGIYKDNLLLSINSSFYFNNSLLITNTKSDNIINIGY</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>A43_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A43</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="195" mass="22783" checksum="FCF4519DFBC7A8EF" modified="2019-10-16" version="1" precursor="true">MMIKWIISILTMSIMPVLVYSSSIFRFRSEDVELCYGNLYFDRIYNNVVNIKYIPEHIPYKYNFINRTFSVDELDNNVFFTHGYFLKHKYGSLNPSLIVSLSGNLKYNDIQCSVNVSCLIKNLATSISTILTSKHKTYSLHRSKCITIIGYDSIIWYKDINDKYNDIYDFTAICMLIASTLIVTIYVFKKIKMNS</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>KITH_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Thymidine kinase</fullName>
+        <ecNumber>2.7.1.21</ecNumber>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="177" mass="20055" checksum="580FF33308BE5A35" modified="2019-10-16" version="1">MNGGHIQLIIGPMFSGKSTELIRRVRRYQIAQYKCVTIKYSNDNRYGTGLWTHDKNNFEALEATKLCDVLEAITDFSVIGIDEGQFFPDIVEFCERMANEGKIVIVAALDGTFQRKPFNNILDLIPLSEMVVKLTAVCMKCFKEASFSKRLGTETKIEIIGGIDMYQSVCRKCYIDS</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="57">
+    <name>A9_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Virion membrane protein A9</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="95" mass="10667" checksum="37E6E6F7A712FC65" modified="1994-02-01" version="1" precursor="true">MSCYTAILKSVGGLALFQDANGAIDLCRHFFMYFCEQKLRPNSFWFVVVRAIASMIMYLVLGIALLYISEQDDKKNTNNASNSNKLNESSINSNS</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>DUSP_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Dual specificity protein phosphatase H1</fullName>
+        <ecNumber>3.1.3.-</ecNumber>
+        <ecNumber evidence="4 5">3.1.3.48</ecNumber>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Late protein H1</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at protein level" />
+    <sequence length="171" mass="19746" checksum="1D58C54FF17BADF7" modified="2019-10-16" version="1">MDKKSLYKYLLLRSTGDMRRAKSPTIMTRVTNNVYLGNYKNAMNAPSSEVKFKYVLNLTMDKYTLPNSNINIIHIPLVDDTTTDISKYFDDVTAFLSKCDQRNEPVLVHCVAGVNRSGAMILAYLMSKNKESSPMLYFLYVYHSMRDLRGAFVENPSFKRQIIEKYVIDKN</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>F11_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein F11</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="354" mass="39758" checksum="F7E8AD7125366260" modified="2019-10-16" version="1">MGFCIPLRLKMLKRGSRKFSSMLARRHTPKKMNIVTDLENRLKKNSYIENTNQGNILMDSIFVSTMSVETLFGSYITDDSDDYELKDLLNVTYNIKPVIVPDIKLDAVLDRDGNFRPADCFLVKLKHRDGFTKGALYLGHSAGFTATICLKNEGVSGLYIPGTSVIRTNICQGDTIVSRSSRGVQFLLQIGGEAIFLIVSLCPTKKLVETGFVIPNISSNDNAKIAARILSEKRKDTITHIDTLIQYGQQLELAYYNSCMLTEFLHYCNLYANTIKESLLKETIQKDINITHTNITTLLNETAKVIKLVKSLVDKEDTDIVNNFITKEIKNCGGVKNRDTIVNSLSLSNLDFYL</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>F14_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein F14</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="73" mass="8325" checksum="9F56BC292F92394D" modified="2019-10-16" version="1">MKHKVYSEGLEISTDFNSIISQLSTSDMDIEIDEDNITELLNILTELGCDVDFDEDFSDITDDVLESLMEQDM</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2020-02-26" version="4">
+    <name>C6_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein C6</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="156" mass="18042" checksum="EF1A97474440465C" modified="2019-10-16" version="1">MNVYNKADSFSLESDSIKDVIHDYICWLSMTDEMRPSIGNVFKAMETFKIDAVRYYDGNIYDLAKDINAMSFDSFIRSLQNISSKKDKLTVYGTMGLLSIVVDINKGCDISNIKFAAGIIILMEYIFDNTDMSHLKVALYRRIQRRYPIDDDEEDR</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>A28_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Envelope protein A28 homolog</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Protein A31</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="146" mass="16244" checksum="B8121A3A5D75A365" modified="2019-10-16" version="1">MNSLSIFFIVVATAAVCLLFIQGYSIYENYGNIKEFNATHAAFEYSKSIGGTPALDRRVQDVNDTISDVKQKWRCVAYPGNGFVSASIFGFQAEVGPNNTRSIRKFNTMAQCIDFTFSDVINIDIYNPCVAPNINNVECQFLKSVL</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>D5_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Primase D5</fullName>
+        <ecNumber>3.6.4.-</ecNumber>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="785" mass="90471" checksum="CBB873AD8C1F367B" modified="2019-10-16" version="1">MDAVIRGNDVIFVLKTIGVPSVCRQNEDPRFVEAFKCDELERYIKNNPECTLFESLRDEEAYSIVRIFMDVDLDACLDEIDYLTAIQDFIIEVSNCVARFAFTECGAIHENVIKSMRSNFSLTKSTNRDKTSFHIIFLDTYTTMDTLIAMKRTLLELSRSSENPLTRSIDTAVYRKKTTLRVVGTRKNPNCDTIHVMQPPHDNIEDYLFTYVDMNNNSYYFSLQRRLEDLVPDKLWEPGFISFEDAIKRVSKIFINSIINFNDLDENNFTTVPLVIDYVTPCALCKKRSHKHPHQLSLENDAIRIYKTGNPHSCKVKIVPLDGNKLFNIAQRILDTNSVLLTERGDHIVWINNSWKFNSEEPLITKLILSIRHQLPKEYSSELLCPRKRKTVEANIRDMLVDSVETDTYPDKLPFKNGVLDLVDGMFYSGDDAKKYTCTVSTGFKFDDTKFVEDSPEMEELINIINDIQPLTDENKKNRELYEKTLSSCLCGATKGCLTFFFGETATGKSTTKRLLKSAISDLFVETGQTILTDVLDKGPNPFIANMHLKRSVFCSELPDFACSGTKKIRSDNIKKLTEPCVIGRPCFSNKINNRNHATIIIDTNYKPVFDRIDNALMRRIAVVRFRTHFSQPSGREAAENNDAYDKVKLLDEGLDGKIQNNRYRFAFLYLLVKWYRKYHVPIMKLYPTPEEIPDFAFYLKIGTLLVSSSVKHIPLMTDLSKKGYILHDNVVTLPLTTFQQKISKYFNSRLFGHDIESFINRHKKFANVSDEYLQYIFIEDISSP</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>E8_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein E8</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="273" mass="31898" checksum="02859D3F756A53AE" modified="2019-10-16" version="1">MAAVVPRFDDVYKNAQRRILDQETFFSRGLGRPLMKNTYLFDNYAYGWIPETAIWSSRYANLDASDYYPISLGLLKKFKFLMSLYKGPIPVYEEKVNTEFIANGSFSGRYVSYLRKFSALPTNEFISFLLLTSIPIYNILFWFKNTQFDITKHTLFRYVYTDNAKHLALARYMHQTGDYKPLFSRLKENYIFTGPVPIGIKDIDHPNLSRARSPSDYETLANISTILYFTKYDPVLMFLLFYVPGYSITTKITPAVEYLMDKLKLTKNDVQLL</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>G1_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Metalloendopeptidase G1</fullName>
+        <ecNumber>3.4.24.-</ecNumber>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="591" mass="68037" checksum="C1E71352683CF414" modified="2019-10-16" version="1">MIVLPNKVRIFINDRMKKDIYLGISNFGFENDIDEILGIAHLLEHLLISFDSTIFLANASTSRSYMSFWCKSINSATESDAIRTLVSWFFSNGKLKDNFSLSSIRFHIKELENEYYFRNEVFHCMDILTFLSGGDLYNGGRIDMIDNLNIVRDMLVNRMQRISGSNIVIFVKRLGPGTLDFFNQTFGSLPACPEIIPSSIPVSTNGKIVMTPSPFYTVMVKINPTLDNILGILYLYETYHLIDYETIGNQLYLTVSFIDETEYESFLRGEAILQISQCQRINMNYSDDYMMNIYLNFPWLSHDLYDYITRINDDSKSILISLTNEIYTSIINRDIIVIYPNFSKAMCNTRDTQQHPIVVLDATNDGLIKKPYRSIPLMKRLTSNEIFIRYGDASLMDMITLSLSKQDISLKRNAEGIRVKHSFSADDIQAIMESDSFLKYSRSKPAAMYQYIFLSFFASGNSIDDILTNRDSTLEFSKKTKSKILFGRNARYDVTTKSSFVCGIVRGKLLDKTSLVEMMWDLKKKGLIYSMEFTNLLSKNTFYLFTFTIYTDEVYDYLNTNKLFSAKCLVISTKGDVENFSSLKKDVVIRV</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>F6_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein F6</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="72" mass="8415" checksum="77E83FED99E3050C" modified="2019-10-16" version="1">MSKILTFVKNKIIDLIKNDQIKYSRVITIEESDSLLSVNEVYANHGFDCVEMIDENIINENLEQYKTDSFLQ</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>CAHH_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Cell surface-binding protein</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Carbonic anhydrase homolog</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="304" mass="35401" checksum="D7210C50F75E1625" modified="2019-10-16" version="1">MSQQLSPINIETKKAISNARLKPLNIHYNESKPTTIQNTGKLVRINFKGGYLSGGFLPNEYVLSSLHIYWGKEDDYGSNHLIDVYKYSGEINLVHWNKKKYSSYEEAKKHDDGLIIISIFLQVSDHKNVYFQKIVNQLDSIRTANTSAPFDSVFYLDNLLPSKLDYFKYLGTTINHSADAVWIIFPTPINIHSDQLSKFRTLLSLSNHEGKPHYITENYRNPYKLNDDTEVYYSGEIIRAATTSPARENYFMRWLSDLRETCFSYYQKYIEGNKTFAIIAIVFVYILTAILFLMSRRYSREKQN</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="86">
+    <name>A34_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A34</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="168" mass="19612" checksum="28EA8FD95FA09634" modified="1994-02-01" version="1">MKSLNRQTVSRFKKLSVPAAIMMILSTIISGIGTFLHYKEELMPSACANGWIQYDKHCYLDTNIKMSTDNTVYQCRKLRARLPRPDTRHLRVLFSIFYKDYWVSLKKTNNKWLDINNDKDIDISKLTNFKQLNSTTDAEACYIYKSGKLVKTVCKSTQSVLCVKRFYK</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>I2_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein I2</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="73" mass="8499" checksum="9AA89F7883384C72" modified="2019-10-16" version="1">MDKLYAAIFGVFMGSPEDDLTDFIEIVKSVLSDEKTVTSTNNTGCWGWYWLIIIFFIVLILLLLIYLYLKVVW</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1993-10-01" modified="2019-12-11" version="61">
+    <name>I1_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Telomere-binding protein I1</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="312" mass="35736" checksum="A455F0E6790427C0" modified="1993-10-01" version="1">MVEFEDQLVFNSISARALKAYFTAKINEMVDELVTRKCPQKKKSQAKKPEVRIPVDLVKSSFVKKFGLCNYGGILISLINSLVENNFFTKNGKLDDTGKKELVLTDVEKRILNTVDKSSPLYIDISDVKVLAARLKRSATQFNFNGHTYHLENDKIEDLINQLVKDESIQLDEKSSIKDSMYVIPDELIDVLKTRSFRSPQVKDNIISSTRLYDYFTRVTKRDESSIYVILKDPRIASILSLETVEMGAFMYTKHSMLTNAISSEVDRYSEKFQESFYEDIAEFVEENERVDVSRVVECLTVPNITISSNAE</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2020-02-26" version="4">
+    <name>A6_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A6</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="372" mass="43149" checksum="9751173CE363452D" modified="2019-10-16" version="1">MDKLRVLYDEFVTISKDNLERETGLSASDVDMDFDLNIFMTLVPVLEKKVCVITPTIEDDKIVTMMKYCSYQSFSFWFLKSGAVVKSVYNKLDDAEKEKFVATFKDMLLNVQTLISLNSMYTRLRQDTEDIVSDSKKIMEIVSHLRASTTENAAYQVLQQNNSFIISTLNKILSDENYLLKIIAVFDSKLISEKETLNEYKQLYTISSESLVYGIRCVSNLDISSVQLSNNKYVLFVKKMLPKIILFQNNDINAQQFANVISKIYTLIYRQLTSNVDVGCLLTDTIESTKTKISVEKFKQTGINNVQSLIKFISDNKKEYKTIISEEYLSKEDRIITILQNIVNEHDIKYDNNLLNMRDLIVTFRERYSYKF</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="77">
+    <name>F12_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein F12</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="635" mass="73565" checksum="E7A0FFD415A85844" modified="1994-02-01" version="1">MLNRVQILMKTANNYETIEILRNYLRLYIILARNEEGHGILIYDDNIDSIMSMMNITRLEVIGLTTHCTKLRSSPPIPMSRLFMDEIDHESYYSPKTSDYPLIDIIRKRSHEQGDIALALKRYCIENTDSISEINEWLSSKGLACYRFVKFNDYRKQMYRKFSKCTIVDSMIIGHIGHHYIWIKNLETYTRPEIDVLPFDIKYISRDELWAQISSSLDQTHIKTITVSVYGAITDNGPMPYMISTYPGNTFVNFNSVKDLILNFLDWIKDIMTSTRTIILVGYMSNLFDIPLLTVYWPNNCGWKIYNNILISSDGARVIWMDAYKFSCGLSLQDYCYHWGSKPESRPFDLIKKIDAKRNIKSWVKESMTSLKSLYEAFETQSGALEVLMSPCRMFSFSRIEDMFLTSVINRVSKNTGMGMYYPTNDISSLFIESSICLDYIIVNNQKSNKYRIKSVLDIISSKQYPAGRPNYVKNGTKGKLYIALCKVTVPTNDHIPVVYHDDDNTTTFITVLTSVDIETATRAGYSIVELGALQWDDNIPELKDCLLDSIKMIYDLNTVTTNNLLEQLIENINFNNSSIILLFYTFAISYCRAFIYSIMETIDPVYISQFSYKELYIRSSYKDINEVMSQMVKL</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>L1_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein L1</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Virion membrane protein M25</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="250" mass="27289" checksum="28E1AD7817410A2D" modified="2019-10-16" version="1">MGAAASIQTTVNTLSERISSKLEQEANASAQTKCDIEIGNFYIRQNHGCNLTVKNMCSADADAQLDAVLSAATETYSGLTPEQKAYVPAMFTAALNIQTSVNTVVRDFENYVKQTCNSSAVVDNKLKIQNVIIDECYGAPGSPTNLEFINTGSSKGNCAIKALMQLTTKATTQIAPRQVAGTGVQFYMIVIGVIILAALFMYYAKRMLFTSTNDKIKLILANKENVHWTTYMDTFFRTSPMVIATTDIQN</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>P4A_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Major core protein 4a precursor</fullName>
+        <shortName>p4a</shortName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Virion core protein 4a precursor</fullName>
+      </alternativeName>
+      <component>
+        <recommendedName>
+          <fullName>Core protein 4a</fullName>
+        </recommendedName>
+        <alternativeName>
+          <fullName>62 kDa peptide</fullName>
+        </alternativeName>
+      </component>
+      <component>
+        <recommendedName>
+          <fullName>23 kDa protein</fullName>
+          <shortName>23K</shortName>
+        </recommendedName>
+      </component>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="892" mass="102262" checksum="AE946EE286B7D33B" modified="2019-10-16" version="1" precursor="true">MMPIKSIVTLDQLEDSEYLFRIVSTVLPHLCLDYKVCDQLKTTFVHPFDVFLNNSLGSVTKQDELQAAISKLGINYLIDTTSRELKLFNVTLNAGNIDIINTPINISSETNPIINTHSFYDLPPFTQHLLNIRLTDTEYRARFIGGYIKPDGSDSMDVLAEKKYPDLNFDNTYLFNILYKDVINAPIKEFKAKIVNGVLSRQDFDNLIGVRQYITAQDQPRFDNTYAIADAARHYGVNLNTLPLPNVDLTTMPTYKHLIMYEQYFVDDYDRVPIYYNGNRVIFDDEIINFCISMRYQSLIPRLVEFFPDIPVNNNIVLHTRDPQNAAVNVTVGLPNMQFVDINRNNKFFINFFNLLAKEQRSTAIKVTKSMFWDGMDYEEYKSKNLQDMMFINSTCYVFGLYNHNNTTYCSILSDIISAEKTPIRVCLLPRVVGGKTVTDLISETLKSISSMTIREFPKKDKSSIMHIGLSETGFMRFFQLLRLMADKPHETAIKEVVMAYVGIKLGDKGSPYYIRKESYQDFIYLLFASMGFKVTTRRSIMGSNNISIISIRPRVTKQYIVTTLMKTSCSKNEAEKLITSAFDLLNFMVSVSDFRDYQSYRQYRNYCPRYFYAGSPEGEETIICDSEPISILDRIDTRGIFSAYTINEMMDTDIFSPENKAFKNNLSRFIESGDITGEDIFCAMPYNILDRIITNAGTCTVSIGDMLDNITTQSDCNMTNEITDMINASLKNTISKDNNMLVSQALDSVANHSKQKIGDLRQSSCKMALLFKNLATSIYTIERIFNAKVGDDVKASMLEKYKVFTDISMSLYKDLIAMENLKAMLYIIRRSGCRIDDAQITTDDLVKSYSLIRPKILSMINYYNEMSRGYFEHMKKNLNMTDGDSVSFDDE</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="54">
+    <name>C1_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein C1</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="214" mass="25364" checksum="0363A14CD4F7DBEE" modified="1994-02-01" version="1">MIMSTDPNNILMRYLKNLTDDKFKCIIHQSSDFLYLSDRDYTSITKETLVSEIVEEYPDDCNKILAIIFLVLDKDIDVDIDIETKLKPKPAVRYAILDKMTKDIKLTDLVRHYFRYIEQDIPLGPLFKKIDSYRIRAINKYSKELGLATEYFNKYGHLMFYTLPIPYNRFFCRNSIGFLAVLSPTIGHVKAFYKFIEYVSIDDRRKFKKELMSK</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>C7_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>truncated interferon antagonist D8</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Host range protein 2</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="150" mass="18027" checksum="50FDF841C253CE94" modified="2019-10-16" version="1">MGIQHEFDIIINGDIALRNLQLHRGDNYGCKLKIISNDYKKLKFRFIIRPDWSEIDEVKGLTVFANNYAVKVNKVDDTFYYVIYEAVIHLYNKKTEILIYSDDENELFKHYYPYISLNMISKKYKVKEENYSSPYIEHPLIPYRDYESMD</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>H7_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Late protein H7</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="146" mass="16900" checksum="CEAF85A690F1726A" modified="2019-10-16" version="1">MEMDKRMKSLAMTAFFGELTTLDIMALIMSIFKRHPNNTIFSVDKDGQFMIDFEYDTYKASQYLDLPLTPISGDECKTHASSIAKQLACVDIIKEDISEYIKTTPRLKRFIKKYRNRSDTRISQDTEKLKIALAKGIDYEYIKDAC</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>MCES_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>mRNA-capping enzyme regulatory subunit</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Virus termination factor small subunit</fullName>
+        <shortName>VTF small subunit</shortName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>mRNA-capping enzyme 33 kDa subunit</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>mRNA-capping enzyme D12 subunit</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>mRNA-capping enzyme small subunit</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="287" mass="33352" checksum="EA9643A07170CA5B" modified="2019-10-16" version="1">MDEIVKNIREGTHVLLPFYETLPELNLSLGKSPLPSLEYGANYFLQISRVNDLNRMPTDMLKLFTHDIMLPESDLDKVYEILKINSVKYYGRSTKADAVVADLSARNKLFKRERDAIKSNNHLTENNLYISDYKMLTFDVFRPLFDFVNEKYCIIKLPTLFGRGVIDTMRIYCSLFKNVRLLKCVSDSWLKDSAIMVASNVCKKNLDLFMSHVKSVTKSSSWKDVNSVQFSILNDPVDTEFINKFLEFSNRVYEALYYVHSLLYSSMTSDSKSIENKHQRRLVKLLL</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1993-10-01" modified="2019-12-11" version="68">
+    <name>H3_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Envelope protein H3</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Ag35</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>Virion envelope protein p35</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="325" mass="37696" checksum="EAB2FEE3CDEA6E40" modified="1993-10-01" version="1">MATVNKTPVIVVPVIDRPPSETFPNLHEHINDQKFDDVKDNEVMPEKRNVVIVKDDPDHYKDYAFIHWTGGNIRNDDKYTHFFSGFCNTMCTEETKRNIARHLALWDSKFFTELENKKVEYVVIVENDNVIEDITFLRPVLKAMHDKKIDILQMREIITGNKVKTELVMDKNHVIFTYTGGYDVSLSAYIIRVTTALNIVDEIIKSGGLSSGFYFEIARIENEIKINRQIMDNSAKYVEHDPRLVAEHRFENMKPNFWSRIGTAAVKRYPGVMYAFTTPLISFFGLFDINVIGLIVILFIMFMLIFNVKSKLLWFLTGTFVTAFI</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="94">
+    <name>HEMA_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein A56</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Hemagglutinin</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="313" mass="34584" checksum="3A495FEF4C474A5E" modified="1994-02-01" version="1" precursor="true">MTRLSILLLLISLVYSTPYPQTQISKKIGDDATLSCSRNNINDYVVMSAWYKEPNSIILLAAKSDVLYFDNYTKDKISYDSPYDDLVTTITIKSLTAKDAGTYVCAFFMTSTTNDTDKVDYEEYSTELIVNTDSESTIDIILSGSSHSPETSSEKPDYINNFNCSLVFEIATPGPITDNVENHTDTVTYTSDIINTVSTSSRESTTVKTSGPITNKEDHTVTDTVSYTTVSTSSEIVTTKSTANDAHNDNEPSTVSPTTVKNITKSIGKYSTKDYVKVFGIAALIILSAVAIFCITYYICNKRSRKYKTENKV</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>D9_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>mRNA-decapping protein D9</fullName>
+        <ecNumber>3.1.3.-</ecNumber>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="213" mass="24982" checksum="32AD6A5AF3B899A6" modified="2019-10-16" version="1">MGITMDEEVIFETPRELISIKRIKDIPRSKDTHVFAACITSDGYPLIGARRTSFAFQAILSQQNSDSIFRVSTKLLRFMYYNELREIFRRLRKGSINNIDPHFEELILLGGKLDKKESIKDCLRRELKEESDERITVKEFGNVILKLTTQDKLFNKVYIGYCMSCFINQSLEDLSHTSIYNVEIRKIKSLNDCINDDKYEYLSYIYNMLVNSK</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1993-10-01" modified="2019-12-11" version="67">
+    <name>H5_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Late transcription elongation factor H5</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Viral late gene transcription factor 4</fullName>
+        <shortName>VLTF-4</shortName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="221" mass="24359" checksum="EE2AF40068A15B8C" modified="1993-10-01" version="1">MAWSITNKADTSSFTKMAEIRAHLRNSAENKDKNDDIFPEDVIIPSTKPKTKRATTPRKPAATKRSTKKDKEKEEVEEEEVVIEEYHQTTEENSPPPSSSPGVGNIVESVTAVELDDSNGDDDNDNDNDDNEPMVQVEAGKVNHSARSDLSDLKVATDNIVKDLKKIITRISAVSTVLEDVQAAGISRQFTSMTKSITTLSDLVTEGKSKVVRKKVKTCKK</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2010-08-10" modified="2019-12-11" version="43">
+    <name>P28_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>E3 ubiquitin-protein ligase p28-like</fullName>
+        <ecNumber>2.3.2.27</ecNumber>
+      </recommendedName>
+      <alternativeName>
+        <fullName>D4R protein</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName evidence="4">RING-type E3 ubiquitin transferase p28-like</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="242" mass="28556" checksum="07A0D10D5B96740A" modified="2009-03-03" version="1">MEFDPTKINISSIDHVTILQYIDEPNDIRLTVCIIQNINNITYYINITKINPHLANQFRAWKKRIAGRDYMTNLSRDTGIQQSNLTETIRNCQKNRNIYGLYIHYNLVINVVIDWITDVIVQSILRGLVNWYIDNNTYTPNTPNNTTTISELDIIKILDKYEDVYKVSKEKECGICYEVVYSKRLENDRYFGLLDSCNHIFCITCINIWHRTRRETGASDNCPICRTRFRNITMSKFYKLVN</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>G2_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Late transcription elongation factor G2</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Protein G2</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="220" mass="25741" checksum="B5F6E456C4CDC0C8" modified="2019-10-16" version="1">MPFRDLILFNLSKFLLTEDKESLEIVSSLCRGFEISYDDLITYFPDRKYHKYIYKVFEHVDLSEELSMEFHDTTLRDLVYLKLYKYSKCIRPCYKLGDNLKGIVVIKDRNIYIREANDDLIEYLLKEYTPQIYTYSNEHVPIAGSKLILCGFSQVTFMAYTTSHITTNKKVDVLVSKKCIDKLVDPINYQILQNLFDKGSGTINKILRKIFYSVTGGQTP</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>KTHY_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Thymidylate kinase</fullName>
+        <ecNumber>2.7.4.9</ecNumber>
+      </recommendedName>
+      <alternativeName>
+        <fullName>dTMP kinase</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="205" mass="23378" checksum="59E603FA7AB92566" modified="2019-10-16" version="1">MSRGALIVFEGLDKSGKTTQCMNIMESIPTNTIKYLNFPQRSTVTGKMIDDYLTRKKTYNDHIVNLLFCANRWEFASFIQEQLEQGITLIVDRYAFSGVAYATAKGASMTLSKSYESGLPKPDLVIFLESGSKEINRNVGEEIYEDVAFQQKVLQEYKKMIEEGEDIHWQIISSEFEEDVKKELIKNIVIEAIHTVTGPVGQLWM</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>L5_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein L5</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="128" mass="15066" checksum="FC109052D034ECF3" modified="2019-10-16" version="1">MENVPNVYFNPVFIEPTFKHSLLSVYKHRLIVLFEVFVVFILIYVFFRSELNMFFMHKRKIPDPIDRLRRANLACEDDKLMIYGLPWITTQTSALSINSKPIVYKDCAKLLRSINGSQPVSLNDVLRR</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>I6_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Telomere-binding protein I6</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="382" mass="43500" checksum="A1C63FE56CCA7D2D" modified="2019-10-16" version="1">MNNFVKQVASKSLKPTKKLSPSDEVISLNECIISFNLDNFYYCNDGLFTKPINTPEDVLKSLLIMESFAYEKMIIKGLIKILISRAYINDIYFTPFGWLTGIDDDPETHVVIKIIFNSSLISIKSQVIEYLKPYNVNNLSVLTTEKELSINTFNVPDSIPMSIISFFPFDTDFILVILFFGVYNDSYCGISYISPKERLPYIIEILKPLMSEINMLSDEIGRTSSIRIFNSTSVKKFPTNTLTSICEIVYSFDESSFPTPKTFTPLNASPYIPKKIVSLLDLPSNVEIKAISRGGVDFITHINNKRLNTILVIAKDNFLKNSTFSGTFIKENIIWKGIYTYRIIKSSFPVPTIKSVTNKKKICKKHCFVNSQYTTRTLSHIL</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1993-10-01" modified="2019-12-11" version="55">
+    <name>J1_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein J1</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="159" mass="18483" checksum="0DDD10C8FCCFEC84" modified="1993-10-01" version="1">MDHNQYLLTMFFADDDSFFKYLASQDDESSLSDILQITQYLDFLLLLLIQSKNKLEAVGHCYESLSEEYRQLTKFTDSQDFKKLFNKVPIVTDGRVKLNKGYLFDFVISLMRFKKESALATTAIDPVRYIDPRRDIAFSNVMDILKSNKAKNNYSLLSS</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>RIR1_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Ribonucleoside-diphosphate reductase large subunit</fullName>
+        <ecNumber>1.17.4.1</ecNumber>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Ribonucleotide reductase large subunit</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="771" mass="87761" checksum="E628AAA9AD95A8CD" modified="2019-10-16" version="1">MFVIKRNGYKENVMFDKITSRIRKLCYGLNTDHIDPIKIAMKVIQGIYNGVTTVELDTLTAEIAATCTTQHPDYAILAARIAVSNLHKETKKLFSEVMKDLFNYVNPKNGKHSPIISSITMDVVNKYKDKLNSVIIYERDFSYNYFGFKTLEKSYLLKINNKIVERPQHMLMRVAVGIHQWDIDSAIETYNLLSEKWFTHASPTLFNAGTSRHQMSSCFLLNMMDDSIEGIYDTLKRCALISKMAGGIGLSISNIRASGSYISGTNGASNGIIPMLRVYNNTARYIDQGGNKRPGVMTIYLEPWHSDIMAFLDLKKNTGNEEHRTRDLFIALWIPDLFMKRVKDDGEWSLMCPDECPGLDNVWGDEFERLYTLYEREKRYKSIIKARVVWKAIIESQIETGTPFILYKDACNKKSNQQNLGTIKCSNLCTEIIQYADANEVAVCNLASIALNMFVIDGQFDFLKLKDVVKVIVRNLNKIIDINYYPIPEAEISNKRHRPIGIGVQGLADAFILLNYPFDSLEAQDLNKKIFETIYYGALEASCELAEKEGPYDTYVGSYASNGILQYDLWNVVPSDLWNWEPLKDKIRTYGLRNSLLVAPMPTASTAQILGNNESVEPYTSNIYTRRVLSGEFQVVNPHLLRVLTERKLWNDEIKNRIMVDGGSIQNTNLPEDIKRVYKTIWEIPQKTIIKMAADRGAFIDQSQSMNIHIADPSYSKLTSMHFYGWSLGLKTGMYYLRTKPASAPIQFTLDKDKIKPLVVCDSEICTSCSG</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>P4B_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Major core protein 4b</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Virion core protein 4b</fullName>
+        <shortName>p4b</shortName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="644" mass="72650" checksum="24483D2A520BC2D1" modified="2019-10-16" version="1" precursor="true">MEAVVNSDVFLTSNTGLKSSYTNQTLSLVDEDHIHTSDKSLSCSVCNSLSQIVDDDFISAGARNQRTKPKRAGNDQAQQTTKKDCMVSIDEVASTHDWSTRLRNDGNAIAKYLTTNKYDTSNFTIQDMLNIMNKLNIVRTNRNELFQLLTHVKSTLNNASVSVKCTHPLVLIHSRASPRIGDQLKELDKIYSPSNHHILLSTTRFQSMHFTDMSSSQDLSFIYRKPETNYYIHPILMALFGIKLPALENAYVHGDTYSLIQQLYEFRRVKSYNYMLLVNRLTEDNPIVITGVSDLISTEIQRANMHTMIRKAIMNIRMGIFYCNDDDAVDPHLMKIIHTGCSQVMTDEEQILASILSIVGFRPTLVSVARPINGISYDMKLQAAPYIVVNPMKMITTSDSPISINSKDIYSMAFDGNSGRVVFAPPNIGYGRCSGVTHIDSLGTNVMGSAVHSPVIVNGAMMFYVERRQNKNMFGGECYTGFRSLIDDTPIDVSPEIMLNGIMYRLKSAVCYKLGDQFFDCGSSDIFLKGHYTILFTENGPWMYDPLSVFNPGARNARLMRALKNQYKKLSMDSDDGFYEWLNGDGSVFAASKQQMLMNHVANFDDDLLTMEEAMSMISRHCCILIYAQDYDQYISARHITELF</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>RAP94_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>RNA polymerase-associated transcription-specificity factor RAP94</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Protein H4</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>RPO-associated protein of 94 kDa</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="795" mass="93661" checksum="9E50C3490619D55A" modified="2019-10-16" version="1">MDSKETILIEIIPKIKAYLLDANISPKSYDDFISRNKNIFVINLYNVSAITEEDIRLLYTTIEQNIDANDQTLVAIFSYIGYKFEQTVKEEISTSLSLNDKNTTDEMTYNLYDLFFNTLDMYLRQKKISILVNDDVRGDVIVSYKNSDLVSSFNAELEPEIKKIPFNMKNLLPYLEKNLDQLRFSKKYLDFAYLCRHIGIPISKKKYNVRYVFLYKIDGLSIPIIIKDFLDVKYVYLENTGKIYKNSFSEDHNNSLSDWGKVIIPLLKDRHLYSYIFLSSYHLHSYYTDLIAKDEPVFIKRKKLDIIEIDEPEAWKRDVKVEFAPCEHQIRLKEAMKVDANYFTKINNFANEFIYYEDGVAYCRVCGINIPIFNLDAADVIKNTVIVSTFNKTIFLSEPYSYFVHSQRFIFNIIMSFDNIMKSQTWVMKYNINRLILNFFIDINSRRQEYEKKFSSEIKRGLFFLRLSANLFESQVSSTELFYVSKMLNLNYIVALVIILNSSADFIVSYMKSKNKTVEESTLKYAISVVIYDFLVKTRICEKGSLDTIVLFTDVYTSIMPEELDLHFQRITLELRKLVSIQRSALEPNYDVESRGEELPLSTLKFFDTSTIIVKTMAPVHTYVEQKIVAPTPSVEPTDASLKQFKELTCDEDIKILIRVHDTNATKLVIFPSHLKIEIERKKLIIPLKSLYITNTLKYYYSNSYLYIFRFGDPMPFEEELIDHEHAQYKINCYNILRYHLLPDSDVFVYFSNSLNREALEYAFYIFLSKYVNVKQWIDENITRIRELYMINFNN</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1993-10-01" modified="2019-12-11" version="69">
+    <name>J5_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein J5</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="133" mass="15172" checksum="CEB9B38FEAB8642A" modified="1993-10-01" version="1">MTDEQIYAFCDANKDDIRCKCIYPDKSIVRIGIDTRLPYYCWYEPCKRSDALLPASLKKNISRCNVSDCTISLGNVSITDSKLDVNNVCDSKRVATENIAVRYLNQEIRYPIIDIKWLPIGLLALAILILAFF</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>I3_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein I3</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="269" mass="30049" checksum="796A094F74039188" modified="2019-10-16" version="1">MSKVIKKRVETSPRPTASSDSLQTCAGVIEYAKSISKSNAKCIEYVTLNASQYANCSSISIKLTDSLSSQMTSTFIMLEGETKLYKNKSKQDRSDGYFLKIKVTAASPMLYQLLEAVYGNIKHKERIPNSLHSLLVETITEKTFKDESIFINKLNGAMVEYVSTGELSILRSIEGELESLSKRERQLAKAIITPVVFYRSGTETKITFALKKLIIDREVVANVIGLSGDSERVSMTENVEEDLARNLGLVDIDDEYDEDSDKEKPIFNV</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>N2_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein N2</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="177" mass="21023" checksum="CC16ACA262932D4C" modified="2019-10-16" version="1">MSSSTMDNNEPKVLEMVYDSPILPEGSSMDPNIINCINRHINMCLQHTYSSSIIAILDRFLMMNKDELNNTQCHIIKEFMTYEQMAIDHYGGYVNAILYQIRKRPNQHHTIDLFKKIKRTRYDTFKVDPVEFVKKVIGFVSILNKYKPVYSYVLYENVLYDELKCFIDYVETKYFQN</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>G7_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Assembly protein G7</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="371" mass="41922" checksum="9D14A208A9083DB3" modified="2019-10-16" version="1">MAAEQRRSTIFDIVSKCIVQSVLRDISINSEYIESKAKQLCYCPASKKESVINGIYNCCESNIEIMDKEQLLKILDNLRCHSAHVCNATDFWRLYNSLKRFTHTTAFFNTCKPTILATLNTLITLILSNKLLYAAEMVEYLENQLDSSNKSMSQELAELLEMKYALINLVQYRILPMIIGEPIIVAGFSGKEPISNYSAEVERLMELPVKTDIVNTTYDFLARKGIDTSNNIAEYIAGLKIEEIEKVEKYLPEVISTIANSNIIKNKKSIFPANINDKQIMECSKMLDTSEKYSKGYKTDGAVTSPLTGNNTITTFIPISASDMQKFTILEYLYIMRVMANNVKKKNEGKNNGGVVMHINSPFKVINLPKC</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1993-10-01" modified="2019-12-11" version="94">
+    <name>MCE_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase</fullName>
+        <ecNumber>2.1.1.57</ecNumber>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Poly(A) polymerase regulatory subunit</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>Poly(A) polymerase small subunit</fullName>
+        <shortName>PAP-S</shortName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>VP39</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="333" mass="38868" checksum="45C6EE7D5CCE72B7" modified="1993-10-01" version="1">MDVVSLDKPFMYFEEIDNELDYEPESANEVAKKLPYQGQLKLLLGELFFLSKLQRHGILDGATVVYIGSAPGTHIRYLRDHFYNLGVIIKWMLIDGRHHDPILNGLRDVTLVTRFVDEEYLRSIKKQLHPSKIILISDVRSKRGGNEPSTEDLLSNYALQNVMISILNPVASSLKWRCPFPDQWIKDFYIPHGNKMSQPFAPSYSAEMRLLSIYTGENMRLTRVTKSDAVNYEKKMYYLNKIVRNKVVVNFDYPNQEYDYFHMYFMLRTVYCNKTFPTTKAKVLFLQQSIFRFLNIPTTSTEKVSHEPIQCKVSSKDSVYKNRNSKRSVRGNK</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>H2_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Late protein H2</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="189" mass="21509" checksum="FFE12787AD6C4794" modified="2019-10-16" version="1">MDKTTLSVNACNLEYVREKAIVGVQAAKTSTLIFFVIILAISALLLWFQTSDNPVFNELTRYMRIKNTVNDWKSLTDSKTKLESDRGRLLAAGKDDIFEFKCVDFGAYFIAMRLDKKTYLPQAIRRGTGDAWMVKKAAKVDPSAQQFCQYLIKHKSNNVITCGNEMLNELGYSGYFMSPHWCSDLSNME</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>MCEL_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>mRNA-capping enzyme catalytic subunit</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Virus termination factor large subunit</fullName>
+        <shortName>VTF large subunit</shortName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>mRNA-capping enzyme 97 kDa subunit</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>mRNA-capping enzyme D1 subunit</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>mRNA-capping enzyme large subunit</fullName>
+      </alternativeName>
+      <domain>
+        <recommendedName>
+          <fullName>Polynucleotide 5'-triphosphatase</fullName>
+          <ecNumber>3.1.3.33</ecNumber>
+        </recommendedName>
+        <alternativeName>
+          <fullName>mRNA 5'-triphosphatase</fullName>
+          <shortName>TPase</shortName>
+        </alternativeName>
+      </domain>
+      <domain>
+        <recommendedName>
+          <fullName>mRNA guanylyltransferase</fullName>
+          <ecNumber>2.7.7.50</ecNumber>
+        </recommendedName>
+        <alternativeName>
+          <fullName>GTP--RNA guanylyltransferase</fullName>
+          <shortName>GTase</shortName>
+        </alternativeName>
+      </domain>
+      <domain>
+        <recommendedName>
+          <fullName>mRNA (guanine-N(7)-)-methyltransferase</fullName>
+          <ecNumber>2.1.1.56</ecNumber>
+        </recommendedName>
+        <alternativeName>
+          <fullName>mRNA cap methyltransferase</fullName>
+        </alternativeName>
+      </domain>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="844" mass="96729" checksum="CAA2474D798115D1" modified="2019-10-16" version="1">MDANVVSSSTIATYIDALAKNASELEQGSTAYEINNELELVFIKPPLITLTNVVNISTIQESFIRFTVTNKEGVKIRTKIPLSKVHGLDVKNVQLVDAIDNIVWEKKSLVTENRLHKACLLRLSTEERHIFLDYKKYGSSIRLELVNLIQAKTKNFTIDFKLKYFLGSGAQSKSSLLHAINHPKSRPNTSLEIEFTPRDNETVPYDELIKELTTFSRHIFMASPENVILSPPINAPIKTFMLPKQDIVGMDLENLYAVTKTDGIPITIRVTSKGLYCYFTHLGYIIRYPVKRIIDSEVVVFGEAVKDKNWTVYLIKLIEPVNAISDRLEESKYVESKLVDICDRIVFKSKKYEGPFTTTSEVVDMLSTYLPKQPEGVILFYSKGPKSNIDFKIKKENTIDQTVNVVFRYMSSEPIIFGESSIFIEYKKFTNDKGFPKEYGSGKIVLYNGVNYLNNIYCLEYINTHNEVGIKSVVVPIKFIAEFLVNGEILKPRIDKTMKYINSEDYYGNQHNVIVEHLRDQSIKIGDVFNEDKLSDVGHQYANNDKFRLNPEVSYFTNKRTRGPLGILSNYVKTLLISMYCSKTFLDDSNKRKVLAIDFENGADLEKYFYGEIALLVATDPDADAIARGNERYNKLNSGIKTKYYKFDYIQETIRSNTFVSSVREVFYFGKFNIIDWQFAIHYSFHPRHYATIMNNLSELTASGGKVLITTMDGDKLSKLTDKKTFIIHKNLPSSENYMSVEKIADDRIVVYNPSTMSTPMTEYIIKKNDIVRVFNEYGFVLVDNVDFATIIERSKKFINGASTMEDRPSTRNFFELNRGAIKCEGLDVEDLLSYYVVYVFSKR</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2020-02-26" version="4">
+    <name>NTP1_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Nucleoside triphosphatase I</fullName>
+        <ecNumber>3.6.1.15</ecNumber>
+      </recommendedName>
+      <alternativeName>
+        <fullName>NPH-I</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>Nucleoside triphosphate phosphohydrolase I</fullName>
+        <shortName>NPH I</shortName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="631" mass="72353" checksum="7C0BC2F82B534925" modified="2019-10-16" version="1">MSKSHAAYIDYALRRTTNMPVEMMGTDVVRLKDYQHFVARVFLGLDSMHSLLLFHETGVGKTMTTVYILKHLKDIYTNWAIILLVKKALIEDPWMNTILRYAPEITKDCIFINYDDQNFRNKFFTNIKTINSKSRICVIIDECHNFISKSLIKEDGKIRPTRSVYNFLSKTIALKNHKMICLSATPIVNSVQEFTMLVNLLRPGSLQHQSLFENKRLVNEKELVSKLGGLCSYIVNNEFSIFDDVEGSASFAKKTVLMRYVNMSKKQEEIYQKAKLTEIKTGISSFRILRRMATTFTFDSFPERQNRDPGEYAQEIATLYNDFKRSLRDREFSKSALDTFKKGELLGGDASAADISLFTELKEKSAKFIDVCLGILASHGKCLVFEPFVNQSGIEILLLYFKVFGISNIEFSSRTKDTRIKAVAEFNQESNTNGECIKTCVFSSSGGEGISFFSINDIFILDMTWNEASLRQIVGRAIRLNSHVLTPPERRYVNVHFIMARLSNGMPTVDEDLFEIIQSKSKEFVQLFRVFKHTSLEWIHANEKDFSPIDNESGWKTLVSRAIDLSSKKNITNKLIEGTNIWYSNSNRLMSINRGFKGVDGRVYDVDGNYLHDMPDNPVIKIHDGKLIYIF</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>PROF_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Profilin</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="133" mass="14989" checksum="7FF189DD419B29D2" modified="2019-10-16" version="1">MAEWHKIIEDISKNNNFEDAAIVDYKTTKNVLAAIPNRTFAKINPGEVIPLITNHNILKPLIGQKFCIVYTNSLMDENTYAMELLTGYAPVSPIVIARTHTALIFLMGKPTTSRRDVYRTCRDHATRVRATGN</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2011-07-27" modified="2019-12-11" version="17">
+    <name>O3_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein O3</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="40" mass="4882" checksum="5B54A347D84FF68C" modified="2011-07-27" version="1">MLVVIMFFIAFAFCSWLSYSYLRPYISTKELNKSRMFYIT</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="63">
+    <name>N1_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein N1</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="117" mass="13915" checksum="182A9176DF2B391A" modified="1994-02-01" version="1">MRTLLIRYILWRNDGDPSYYNDDFEKLMLLDELVDDSDVCTLIKNMRMTLSDGPLLDRLNQPVNNVEDVKRMIAISAKVARDIGERPEIRWEESFTILFRMIETYFDDLMIDLYGEK</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>RP18_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>DNA-directed RNA polymerase 18 kDa subunit</fullName>
+        <ecNumber>2.7.7.6</ecNumber>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="161" mass="17803" checksum="9C9CCDE9D22554DB" modified="2019-10-16" version="1">MSSFVTNGYLPVTLEPHELTLDIKTNIRNAVYKTYLHKEISGKMAKKIEICKDVELPLGEIVNNSVVINVPCVITYAYYHVGDIVRGTLNIEDESNVTIQCGDLICKLSRDSGTVSFSDSKYCFFRNGNAYDNGSEVSAVLMEAQQGTESSFVFLANIVDS</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>RP07_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>DNA-directed RNA polymerase 7 kDa subunit</fullName>
+        <ecNumber>2.7.7.6</ecNumber>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="63" mass="7273" checksum="D129F28E88605DDA" modified="2019-10-16" version="1">MVFQVVCSTCGKDISHERYKLIIRKKSLKDVLVSVKNKCCRLKLSTQIEPQRNLTVQPLLDIN</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>C1L_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Truncated interferon antagonist C1L</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="66" mass="7465" checksum="EDCDB1CF8529732B" modified="2019-10-16" version="1">MDLSRINTRKSKQLKSFLSSKDTFKADVHGHSALYYAIADNNMRLVCTLLNAGALKNLLENEFPLH</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="55">
+    <name>O1_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein O1</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="666" mass="77305" checksum="F9E9192C93A6BAAF" modified="1994-02-01" version="1">MFMYPEFARKALSKLISKKLNIEKVSSKHQLVLLDYGLHGLLPKSLYLEAINSDILNVRFFPPEIINVTDIVKALQNSCRVDEYLKAVSLYHKNSLMVSGPNVVKLMIEYNLLTHSDLEWLINENVIKATYLLKINAYMINFKIDLTVDEIIDLVKDIPVGATLHLYNILNNLDLNIILRISDEYNIPPVHDILSKLTDEEMCIKLVTKYPMENVINFINQDVRYSPTFIKTIKDFVNAHLPTMYDGLNDYLHSVIVDKDLIEEYKIKSVAMFNLEYKTDVDTLTLDEQIFVEVNISYYDFRYRQFANEFRDYIMLKESRQITMQTGDKIRRFRRPMSLRSTIIKKDTDSLEDILSHIDNARKNSKVSIEDVDRIISSFRLNPCVVRRTMLSNIDIKTKIMVLKIAKDWKSCALTLSAIKGIMVTDTINTVLSKILHHHRNVFKYLTSVDNKEITVCNCSRCVSLFYRELKSIRCDLNTDDGLLARLYDLTRYALHGRINQNLIGQRCWGPLTEMLFNEDKKRKLNNLMVYIKISDMLVYGHSIEKTLIPITESLSFKLSVDTMSVSNDQYAKVVIFFNTIIEYIVATIYYRLAVLNNYVAIRHFVLKVLHTVMEACGVLFSHIKVNDKIEHELEEMVDKGIVPSYLHHLSINVISIILDDINGTR</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>RIR2_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Ribonucleoside-diphosphate reductase small chain</fullName>
+        <ecNumber>1.17.4.1</ecNumber>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Ribonucleotide reductase small subunit</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="319" mass="37031" checksum="E0D62D56C4894928" modified="2019-10-16" version="1">MEPILAKNPNRFVIFPIQYHDIWNMYKKAEASFWTVEEVDISKDINDWNKLTPDEKYFIKHVLAFFAASDGIVNENLAERFCIEVQITEARCFYGFQMAIENIHSEMYSLLIDTYVKDSNEKNYLFNAIETMPCVKKKADWAQKWIHDSAGYGERLIAFAAVEGIFFSGSFASIFWLKKRGLMPGLTFSNELISRDEGLHCDFACLMFKHLLYPPSEETVRSIITDAVSIEQEFLTVALPVKLIGMNCEMMKTYMEFVADRLISELGFKRIYNVTNPSDFMENISLEGKTNFFEKRVGEYQKMGVMSQEDNHFSLDVDF</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1993-10-01" modified="2019-12-11" version="69">
+    <name>RP22_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>DNA-directed RNA polymerase 22 kDa subunit</fullName>
+        <ecNumber>2.7.7.6</ecNumber>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="185" mass="21354" checksum="2556A64CF315B8AD" modified="1993-10-01" version="1">MNQYNVKYLAKILCIKTEIARDPYAVINRNVLLRYTTDIQYNDLVTLITVRHKIDSMKTVFQVFNESSINYTPVDDDYGEPIIITSYLQKGHNKFPVNFLYIDVVISDLFPSFVRLNTTETNIVNSVLQTGDGKKTLRLPKMLETEIVVKILYRPNIPLKIVRFFRNNMITGVEIADRSVISVAD</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>RP132_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>DNA-directed RNA polymerase 133 kDa polypeptide</fullName>
+        <ecNumber>2.7.7.6</ecNumber>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="1164" mass="133330" checksum="0452B84ED810CD53" modified="2019-10-16" version="1">MKKNTDSEMDQRLGYKFLVPDPKAGVFYRPLHFQYVSYSNFILHRLHGILTVKRPLLSFKNNTERIMIEISNVKVTPPDYSPIIASIKGKSYDALATFTVNIFKEVMAKEGISITKISSYEGKDSHLIKIPLLIGYGNKNPLDTAKYLVPNVIGGVFINKQSVEKVGINLVEKITTWPKFRVVKPNSFTFSFSSVSPPNILPTRYRHYKISLDISQLEASNISSTKTFITVNIVLLSQYLSRVSLGFIRRSLSYDMPPEVVYLVNAIIDSAKRLTESITDFNIDTYINDLVEAEHVKQKSQLTINEFKYEMLHNFLPHMNYTPDQLKGFYMISLLRKFLYCIYYTSRYPDRDSMVCHRILTYGKYFETLAHDELENYIGNIRNDIMNNHKNRGTYAVNIHVLTTPGLNHAFSSLLSGKFKKSDGSYRTHPHYSWMQNISIPRSVGFYPDQVKISKMFSVRKYHPSQYLYFCSSDVPERGPQVGLVSQLSVLSSITNILTSEYLDLEKKICEYIRSYYKDDISYFETGFPITIENALVASLNPNMICDFVTDFRRRKRMGFFGNLEVGITLVRDHMNEIRINIGAGRLVRPFLVVDNGELMMDVCPELESRLDDMTFSDIQKEFPHVIEMVDIEQFTFSNVCESVQKFRMMSKDERKQYDLCDFPAEFRDGYVASSLVGINHNSGPRAILGCAQAKQAISCLSSDIRNKIDNGIHLMYPERPIVISKALETSKIAANCFGQHVTIALMSYKGINQEDGIIIKKQFIQRGGLDIVTAKKHQVEIPLENFNNKERDRSNAYSKLESNGLVRLNAFLESGDAMARNISSRTLEDDFARDNQISFDVSEKYTDMYKSRVERVQVELTDKVKVRVLTMKERRPILGDKFTTRTSQKGTVAYIADETELPYDENGITPDVIINSTSIFSRKTISMLIEVILTAAYSAKPYNNKGENRPVCFPSSNETSIDTYMQFAKQCYEHLNPKLTEKELSDKIFCEKILYDPETDKPYASKVFFGPIYYLRLRHLTQDKATVRCRGKKTKLIRQANEGRKRGGGIKFGEMERDCLIAHGAANTITEVLKDSEEDYQDVYICENCGDIAAQIKSINTCLRCSKLNLSPLLTKIDTTHVSKVFLTQMNARGVKVKLDFERRPPSFYKPLDKVDLKPSFLK</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="76">
+    <name>RP19_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>DNA-directed RNA polymerase 19 kDa subunit</fullName>
+        <ecNumber>2.7.7.6</ecNumber>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="164" mass="18981" checksum="BC7CF3E24740C327" modified="1994-02-01" version="1">MADTDDIIDYESDDLTEYEDDDEEEEDGESLETSDIDPKSSYKIVESASTHIEDAHSNLKHIGNHISALKRRYTRRISLFEIAGIIAESYNLLQRGRLPLVSEFSNETMKQNMLHVIIQEIEEGSCPIVIEKNGELLSVNDFDKDGLKFHLDYIIKIWKLQKRY</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1993-10-01" modified="2019-12-11" version="112">
+    <name>TOP1_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>DNA topoisomerase 1</fullName>
+        <ecNumber evidence="4">5.6.2.1</ecNumber>
+      </recommendedName>
+      <alternativeName>
+        <fullName>DNA topoisomerase I</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at protein level" />
+    <sequence length="314" mass="36592" checksum="AE9C7DC5FA363BEE" modified="1993-10-01" version="1">MRALFYKDGKLFTDNNFLNPVSDNNPAYEVLQHVKIPTHLTDVVVYGQTWEEALTRLIFVGSDSKGRRQYFYGKMHVQNRNAKRDRIFVRVYNVMKRINCFINKNIKKSSTDSNYQLAVFMLMETMFFIRFGKMKYLKENETVGLLTLKNKHIEISPDKIVIKFVGKDKVSHEFVVHKSNRLYKPLLKLTDDSSPEEFLFNKLSERKVYECIKQFGIRIKDLRTYGVNYTFLYNFWTNVKSISPLPSPKKLIALTIKQTAEVVGHTPSISKRAYMATTILEMVKDKNFLDVVSKTTFDEFLSIVVDHVKSSTDG</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>RP147_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>DNA-directed RNA polymerase 147 kDa polypeptide</fullName>
+        <ecNumber>2.7.7.6</ecNumber>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="1286" mass="146783" checksum="EE9965ACB1DFA93B" modified="2019-10-16" version="1">MAVISKVTYSLYDQKEINATDIIISHVKNDDDIGTVKDGRLGAMDGALCKTCGKTELECFGHWGKVSIYKTHIVKPEFISEIIRLLNHICIHCGLLRSREPYSNDINLKELSGHALRRLKDKILSKKKSCWNSECMQPYQKISFSKKKVCFVNKLDDINVPNSLIYQKLISIHEKFWPLLEIYQYPANLFYTDYFPIPPLIIRPAISFWIDSIPKETNELTYLLGMIVKNCNLNADEQVIQKAVIEYDDIKIISNNTTSINLSYITSGKNNMIRSYIVARRKDQTARSVIGPSTSITVNEVGMPAYIRNTLTEKIFVNAFTVNKVKQLLASNQVKFYFNKRLNQLTRIRQGKFIKNKIHLLPGDWVEVAVQEYTSIIFGRQPSLHRYNVIASSIRATEGDTIKISPGIANSQNADFDGDEEWMILEQNPKAVVEQSILMYPTTLLKHDIHGAPVYGSIQDEIVAAYSLFRIQDLCLDEVLNILGKYGREFDPKGKCKFSGKDIYTYLIGEKINYPGLLKDGEIIANDVDSNFVVAMRHLSLAGLLSDHKSNVEGINFIIKSSYVFKRYLSIYGFGVTFKDLRPNSTFTNKLEAINVEKIELIKEAYAKYLKDVRDGKIVPLSKALEADYVESMLSNLTNLNIREIEEHMRQTLIDNPDNNLLKMAKAGYKVNPTELMYILGTYGQQRIDGEPAETRVLGRVLPYYLPDSKDPEGRGYILNSLTKGLTGSQYYFSMLVARSQSTDIVCETSRTGTLARKIIKKMEDMVVDGYGQVVIGNTLIKYAANYTKILGSVCKPVDLIYPDESMTWYLEISALWNKIKQGFVYSQKQKLAKKTLAPFNFLVFVKPTTEDNAIKVKDLYDMIHNVIDDVREKYFFTVSNIDFMEYIFLTHLNPSRIRITKETAITIFEKFYEKLNYTLGGGTPIGIISAQVLSEKFTQQALSSFHTTEKSGAVKQKLGFNEFNNLTNLSKNKTEIITLVSDDISKLQSVKINFEFVCLGELNPNITLRKETDRYVVDIIVNRLYIKRAEITELVVEYMIERFISFSVIVKEWGMETFIEDEDNIRFTVYLNFVEPEELNLSKFMMVLPGAANKGKISKFKIPISDYTGYDDFNQTKKLNKMTVELMNLKELGSFDLENVNVYPGVWNTYDIFGIEAARGYLCEAMLNTYGEGFDYLYQPCDLLASLLCASYEPESVNKFKFGAASTLKRATFGDNKALLNAALHKKSEPINDNSSCHFFSKVPNIGTGYYKYFIDLGLLMRMERKLSDKISSQKIKEMEETEDF</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="80">
+    <name>RP30_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>DNA-directed RNA polymerase 30 kDa polypeptide</fullName>
+        <ecNumber>2.7.7.6</ecNumber>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="259" mass="29882" checksum="C8975613983764C0" modified="1994-02-01" version="1">MENVYISSYSSNEQTSMAVAATNIRELLSQYVDDANLEDLIEWAMEKSSKYYIKNIGNTKSNIEETKFESKNNIGIEYSKDSRNKLSYRNKPFIATNLEYKTLCDMIKGTSGTEKEFLRYLLFGIKCIKKGVEYNIDKIKDVSYNDYFNVLNEKYNTPCPNCKSRNTTPMMIQTRAADEPPLVRHACRDCKQHFKPPKFRAFRNLNVTTQSIHKNKEITEILPDNNPSPPESPEPASPIDDGLIRVTFDRNDEPPEDDE</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>SODL_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Cu-Zn superoxide dismutase-like protein</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="125" mass="13717" checksum="A4325D1B800D12CE" modified="2019-10-16" version="1">MAVCIIDHDNIRGVIYFEPVHGKDKVLGSVIGLKSGTYNLIIHRYGDISRGCNSIGSPEIFIGNIFVNRYGVAYVYLDTDVNISTIIGKALSISKNDQRLACGVIGISYINEKIIHFLTINENGV</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>SPI1_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Serine proteinase inhibitor 1</fullName>
+        <shortName>Serp-1</shortName>
+        <shortName>Serpin-1</shortName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="372" mass="43136" checksum="785225988BD66374" modified="2019-10-16" version="1">MIYIIYRYRYCLVYTMDIFKELILKYPDENVLISPVSILSTLSILNHGAAGSTAEQLSKYIENVNENTPDDKKDDNNDMDVDVPYCATLAIANKIYCSDSIEFHASFLQKIKDDFQTVNFNNANQTKELINEWVKTMTNGKINSLLTSPLPINTRMTVVSAVHFKAMWKYPFSKHLTYTDKFYISKNIVTSVDMMVSTENDLQYVHINELFGGFSIIDIPYEGNSSMVIILPDDIEGLYNIEKHITEENFKKWCGKLYTKSIDLYMPKFKLKMTESYNLVPILENLGLTNIFGYYADFSKMCNETITVEKFLHKTFIDVNEEYTEASAITGVFMTNFSMVYRTKVYINHPFIYMIKDNTGRILFIGKYCYPQ</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>I7_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Core protease I7</fullName>
+        <ecNumber>3.4.22.-</ecNumber>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="423" mass="49142" checksum="E9434483CB999826" modified="2019-10-16" version="1">MERYTDLVISKIPELGFTNLLCHIYSLAGLCSNIDVSKFLTNCNGYVVEKYDKSTTAGKVSCIPIGMMLELVESRHLSRPNSSDELDQKKELTDELKTRYHSIYDVFELPTSIPLAYFFKPRLREKVSKAIDFSQMDLKIDDLSRKGIHTGENPKVVKMKIEPERGAWMSNRSIKNLVSQFAYGSEVDYIGQFDMRFLNSLAIHEKFDAFMNKHILSYILKDKIKSSTSRFVMFGFCYLSHWKCVIYDKKQCLVSFYDSGGNIPTEFHHYNNFYFYSFSDGFNTNHRHSVLDNTNCDIDVLFRFFECIFGAKIGCINVEVNQLLESECGMFISLFMILCTRTPPKSFKSLKKVYTFFKFLADKKMTLFKSILFNLQDLSLDITETDNAGLKEYKRMEKWTKKSINVICDKLTTKLNRIVDDDE</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>PAP1_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Poly(A) polymerase catalytic subunit</fullName>
+        <ecNumber>2.7.7.19</ecNumber>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Poly(A) polymerase large subunit</fullName>
+        <shortName>PAP-L</shortName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>VP55</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="479" mass="55586" checksum="5118681BFC93DDE1" modified="2019-10-16" version="1">MNRNPDHNTFPNITLKIIETYLGRLPSVNEYHMLKLQTRNIQKITVFNKDIFVSLVKKNKKRFFSDVDTSASEIKDRILSYFSKQTQTYNIGKLFTIIELQSVLVTTYTNILGVLTIKAPNVISSKISYNVTSMEELARDMLNSMNVAVIDKAKVMGRHNVSSLVKNVNKLMEEYLRRHNKSCICYGSYSLYLINPNIRYGDIDILQTNSRTFLIDLAFLIKFITGNNIILSKIPYLRNYMVIKDENDNHIIDSFNIRQDTMNVVPKIFIDNIYIVDPTFQLLNMIKMFSQIDRLEDLSKDPEKFNARMATMLEYVRYTHGIVFDGKRNNMPMKCIIDENNRVVTVTTKDYFSFKKCLVYLDENVLSSDILDLNADTSCDFESVTNSVYLIHDNIMYTYFSNTILLSDKGKVHEISARGLCAHILLYQMLTSGAYKQCLSDLLNSMMNRDKIPIYSHTERDKKHGRHGFINIEKDIIVF</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="70">
+    <name>RP35_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>DNA-directed RNA polymerase 35 kDa subunit</fullName>
+        <ecNumber>2.7.7.6</ecNumber>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="305" mass="35411" checksum="6892570389DCD466" modified="1994-02-01" version="1">MRHPREENSIVVELEPSLATFIKQGFNNLVKWPLLNIGIVLSNTSTAINEEWLTVVEHIPTMKIFYKHIHKILTREMGFLVYLKRSQSERDNYITLYDFDYYIIDKDTNSVTMVDKPTELKETLLHVFQEYRLKSSQTIELIAFSSGTVINEDIVSKLTFLDVEVFNREYNNVKTIMNPDFVSRSPFIVISPMGKLTFFVEVYSWFDFKSCFKDIIDFLEGALIANIHNHMIKVGDCDETVSSYNPESGILFVNDLMTMNIVNFFGCNSRLESYHRFDITKVDVELFIKALSDACKKILLASNRL</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>UNG_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Uracil-DNA glycosylase</fullName>
+        <shortName>UDG</shortName>
+        <ecNumber>3.2.2.27</ecNumber>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="218" mass="25205" checksum="F76338586A5D2BB7" modified="2019-10-16" version="1">MNSVTVSHAPYTITYHDDWEPVMNQLVEFYNEVASWLLRDETSPIPDKFFIQLKQPLRNKRVCVCGIDPYPKDGTGVPFESPNFTKKSIKEIASSISRLTGVIDYKGYNLNIIDGVIPWNYYLSCKLGETKSHAIYWDKISKLLLHHITKHVRFLYCLGKTDFSNIRAKLESPVTTIVGYHPAARDRQFEKDRSFEIINVLLELDNKAPINWAQGFIY</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="79">
+    <name>VPK2_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Serine/threonine-protein kinase 2</fullName>
+        <ecNumber>2.7.11.1</ecNumber>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="439" mass="52215" checksum="9C461CE74A278632" modified="1994-02-01" version="1">MGVANDSSPEYQWMSPHRLSDTVILGDCLYFNNIMSQLDLHQNWAPSVRLLNYFKNFNRETLLKIEENDYINSSFFQQKDKRFYPINDDFYHISTGGYGIVFKIDNYVVKFVFEATKLYSPMETTAEFTVPKFLYNNLKGDEKKLIVCALAMGLNYKLTFLHTLYKRVLNMLLLLIQTMDGQELSLRYSSKVFLKAFNERKDSIKFVKLLSHFYPAVINSNINVINYFNRMFHFFEHEKRTNYEYERGNIIIFPLALYSADKVDTELAIKLGFKSLVQYIKFIFLQMALLYIKIYELPRCDNFLHADLKPDNILLFDSNEPIIIHLKDKKFVFNERIKSALNDFDFSQVAGIINKKIKNNFKVEHNWYYDFHFFVHTLLKTYPEIEKDIEFSTALEEFIMCTKTDCDKYRLKVSILHPISFLEKFIMRDIFSDWINGRN</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>I5_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein I5</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="79" mass="8778" checksum="AD4E703B701B5C86" modified="2019-10-16" version="1">MADAITVLTAIGITVLMLLMVISGTAMIVKELNPNDIFTMQSLKFNRAVTIFKYIGLFIYIPGTIILYATYIKSLLMKS</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>VTF3S_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Intermediate transcription factor 3 small subunit</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>VITF-3 32 kDa subunit</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>VITF-3 small subunit</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="288" mass="33554" checksum="A2C2F80F45149935" modified="2019-10-16" version="1">MFEPVPDLNLEASVELGEVNIDQTTPMIKENIGFISRSRRLFAHRSKDDERKLALRFFLQRLYFLDHREIHYLFRCVDAVKDVTITKKNNIIVAPYIALLTIASKGCKLTETMIEAFFPELYNEHSKKFKFNSQVSIIQEKLGYQSGNYHVYDFEPYYSTVALAIRDEHSSGIFNIRQESYLVSSLSEITYRFYLINLKSDLVQWSASTGAVINQMVNTVLITVYEKLQLVIENDSQFICSLAVESELPIKLLKDRNELFTKFINELKKTSSFKISKRDKDTLLKYFT</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2011-09-21" modified="2019-12-11" version="49">
+    <name>SEMA_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Semaphorin-like protein A43</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="122" mass="14301" checksum="62C79BB3643F86BC" modified="2004-07-05" version="1">MIYLYTADNVIPKDGLQGAFVDKDGTYDKVYILFTVTIGSKRIVKIPYIAQMCLNDECGPSSLSSHRWSTLLKVELECDIDGRSYSQINHSKTIKQIMIRYYMYSLIVLFQVRIMYLFYEYH</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>SANS_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Surface antigen S</fullName>
+        <shortName>S antigen</shortName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="354" mass="40868" checksum="F9CB76356732E722" modified="2019-10-16" version="1" precursor="true">MMKMTMKMMVHIYFVSLLLLLFHSYAIDIENEITDFFNKMKDTLPAKDSKWLNPTCIFGGTMNNMAAIGEPFSAKCPPIEDSLLSRRYINKDNVVNWEKIGKTRRPLNRRVKNGDLWIANYTSNDSHRMYLCTVITKNGDCIQGIVRSHVRKPSSCIPEIYELGTHDKYGIDLYCGIIYAKHYNNITWYKDNKEINIDDIKYSQTGKELIIHNPALEDSGRYDCYVHYDDVRIKNDIVVSRCKILTVIPSQDHRFKLILDSKINVIIGEPANITCTAVSTSLLFDDVLIEWENPSGWLIGFDFDVYSVLTSRGGITEATLYFKNVTEEYIGNTYKCRGHNYYFEKTLTTTVVLE</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>VLTF2_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Viral late gene transcription factor 2</fullName>
+        <shortName>VLTF-2</shortName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Trans-activator protein A1</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="150" mass="16966" checksum="1DE0A936061E6256" modified="2019-10-16" version="1">MAKRVSLPDVVISAPKAVFKPAKEEALACILPKYYKSMADMSIKTNSVIDKCWFCNQDLVFRPISIETFKGGEVGYFCSKICRDSLASMVKSHVALREEPKISLLPLVFYEDKEKVINTINLLRDKDGVYGSCYFKENSQIIDISLRSLL</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>SPI2_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Serine proteinase inhibitor 2</fullName>
+        <shortName>Serp-2</shortName>
+        <shortName>Serpin-2</shortName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="344" mass="38435" checksum="4EAF2AEDD394D063" modified="2019-10-16" version="1">MDIFREIASSTKGENVFISPATISSVLTILYYGANGSTAEQLSKYVEKEETMDKVSAQNISFKSMNKVYGRYSAVFKNSFLGKIGDNFQTVDFTDCRTIDAINKCVDVFTEGKINPLLTEQLSPNTCLLAISAVYFKAKWLIPFKKEFTSDYPFYVSPTEMVDVSMMSMYGESFNYASVKESFGNFSIIELPYVGNTSMMVILPDKIDGLESIKQNLTDTNFKKWCNSLEATFIDVHIPKFKVTGSYNLVDTLVKLGLTDVFYSTGDYSNMCNSDVSVDAMIHKTYIDVNEEYTEAAAATSVLVADCASTVTNEFCADHPFIYVIRHVDGKILFVGRYCSPTTN</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1993-10-01" modified="2019-12-11" version="63">
+    <name>VLTF1_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Late transcription factor 1</fullName>
+        <shortName>VLTF-1</shortName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Trans-activator protein GK1</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="260" mass="29941" checksum="CFEB0C5E19FB1C2C" modified="1993-10-01" version="1">MSIRIKIDKLRQIVAYFSEFSEEVSINVDSTDELMYIFAALGGSVNIWAIIPLSASVFYRGAENIVFNLPVSKVKSCLCSFHNDAIIDIEPDLENNLVKLSSYHVVSVDCNKELMPIRTDTTICLSIDQKKSYVFNFHKYEEKCCGRTVIHLEWLLGFIKCISQHQHLTIMFKDDNIIMKTPGNTDAFSREYSMTECSQELQKFSFKIAISSLNKLRGFKKRVNVFETRIVMDNDDNILGMLFSDRVQSFKINIFMAFLD</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2011-10-19" modified="2019-12-11" version="42">
+    <name>G3R_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Ankyrin repeat protein G3R</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="585" mass="69057" checksum="E471FE00AEB99A71" modified="2009-03-03" version="1">MDEIVNIVRDSMWFIPNVFMDNGENDGHVSVNNVCHMYFAFFDVDTSSHLFKLVIKHCDLNKQLKCGMSPLHCYVMNTRFKPSVLKILLHNGVNNFDNKDNKGHIPLHHYLIYSLSIDNKVFDILTDPIDDFSKSSDLLLCYLRYKFNGRLNYYVLYKLLTKGSDPNCVDEDGLTSLHYYCKHISAFHESNYYKSKSYTKMRAEKRFIYTIINHGANINAVTKIGNTPLHTYLQQYTKHSPRVVYALLSRGADTRIRNNFDCTPIMEYIKNDCVTGHILIMLLNWHEQKYGKLQKEEGHHLLYLFIKHNQGYGSHAFNILRYLLDRFDIQKDEYYNTMTPLHTAFQNCNNNVASYLVYIGYDINLPTKDDKTVFDLVFENRNILFNAGVIHNIIHHRLKVSLPMIKSLFYKMLEFSPYDDYYVKKIIAYCILRDESFTELHSKFCLNEDYKSVFMKNISFDKIDSIIKKCNWDISRLKDIQISDTNLYTVLRTEDIRYRTYLKAIHLDSHISFPMYDDLIEQCHLSMERKSKLVDKVLNKLKSTIDGQSRLSYLPPEIIRNIITKLSDYHLNSMLYGKNHYKYYT</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>D13_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Scaffold protein D13</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>62 kDa protein</fullName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>Rifampicin resistance protein</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="551" mass="61892" checksum="275124CF48CE1C77" modified="2019-10-16" version="1">MNNTIINSLIGGDDSIKRSNVFAVDSQIPTLYMPQYISLSGVMTNNGPDNQTIASFEIRDQYITALNHLVLSLELPEVKGMGRFGYVPYVGYKCINHVSVSSCNGVIWEIEGEELYNNCINNTIALKHSGYSSELNDISIGLTPNDTIKEPSTVYVYIKTPFDVEDTFSSLKLSDSKITVTVTFNPVSDIVIRDSSFDFETFNKEFVYVPELSFIGYMVKNVQIKPSFIEKPRRVIGQINQPTATVTEVHAATSLSVYTKPYYGNTDNKFISYPGYSQDEKDYIDAYVSRLLDDLVIVSDGPPTGYPESAEIVEVPEDGIVSIQDADVYVKIDNVPDNMSVYLHTNLLMFGTRKNSFIYNISKKFSAITGTYSDATKRTVFAHISHSINIIDTSIPVSLWTSQRNVYNGDNRSAESKAKDLFINDPFIKGIDFKNKTDIISRLEVRFGNDVLYSENGPISRIYNELLTKSNNGTRTLTFNFTPKIFFRPTTITANVSRGKDKLSVRVVYSTMDVNHPIYYVQKQLVVVCNDLYKVSYDQGVSITKIMGDNN</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="1994-02-01" modified="2019-12-11" version="77">
+    <name>SPI3_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein K2</fullName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Serine proteinase inhibitor 3</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="373" mass="42660" checksum="6436E09D57471668" modified="1994-02-01" version="1" precursor="true">MIVLLILSLACTAFTYRLQGFTNAGIVAYKNIQDGNEDDNIVFSPFGYSFSMFMSLLPASGNTKVELLKTMDLRKIDLGPAFTELISGLAKPKTSKYTYTDLTYQSFVDNTVCIKPSYYQQYHRFGLYRLNFRRDAVNKINSIVERRSGMSNVVDSTMLDNNTLWAIINTIYFKGTWQYPFDITKTHNTSFTNKYGTKTVPMMSVVTKLQGNTITIDDEEYDMVRLQYKDANISMYLAIGDNMTHFTDSIMAAKLDYWSSQLGNKVYNLKLPRFSIENKRDIKSIAEMMAPSMFNPDNASFKHMTRDPLYIYKMFQNAKIDVNEQGTVAEASTIMVATVRSSPEELEFNTPFVFIIRHDITGFILFMGKVESP</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>NPH2_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>RNA helicase NPH-II</fullName>
+        <ecNumber>3.6.4.13</ecNumber>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Nucleoside triphosphatase II</fullName>
+        <shortName>NTPase II</shortName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>Nucleoside triphosphate phosphohydrolase II</fullName>
+        <shortName>NPH II</shortName>
+      </alternativeName>
+      <alternativeName>
+        <fullName>RNA helicase I8</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="676" mass="77545" checksum="4D7589E5B012562F" modified="2019-10-16" version="1">MEKNLPDIFFFPNCVNVFSYKYSQDEFSNMSNMERDSFSLAVFPVIKHRWHNAHVVKHKGIYKVSTEAHGKKVSPPSLGKPSHINLTAKQYIYSEHTISFECYSFLKCITNAEINSFDEYILRGLLEAGNSLQIFSNSVGKRTDTIGVLGNKYPFSKIPLASLTPKAQREIFSAWISHRPVVLTGGTGVGKTSQVPKLLLWFNYLFGGFSTLDKITDFHERPVILSLPRIALVRLHSNTILKSLGFKVLDGSPISLRYGSIPEELINKQPKKYGIVFSTHKLSLTKLFSYGTLIIDEVHEHDQIGDIIIAVARKHHTKIDSMFLMTATLEDDRERLKVFLPNPAFIHIPGDTLFKISEVFIHNKINPSSRMAYIEEEKRNLVTAIQMYTPPDGSSGIVFVASVAQCHEYKSYLEKRLPYDMYIIHGKVLEIDKILEKVYSSPNVSIIISAPYLESSVTIHNVTHIYDMGRVFVPAPFGGSQQFISKSMRDQRKGRVGRVNPGTYVYFYDLSYMKSIQRINSEFLHNYILYANKFNLTLPEDLFIIPTNLDILWRTKEYIDSFDISTETWNKLLSNYYMKMIEYAKLYVLSPILAEELDNFERTGELTSIVQEAILSLNLRIKILNFKHKDNDTYIHFCKILFGVYNGTNATIYYHRPLTGYMNMISDTIFVPVDNN</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>VGF_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Pro-variola growth factor</fullName>
+        <shortName>Pro-VGF</shortName>
+      </recommendedName>
+      <component>
+        <recommendedName>
+          <fullName>Variola growth factor</fullName>
+          <shortName>VGF</shortName>
+        </recommendedName>
+        <alternativeName>
+          <fullName>Secreted epidermal growth factor-like</fullName>
+        </alternativeName>
+      </component>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="140" mass="15772" checksum="03A134EA5A94E14A" modified="2019-10-16" version="1" precursor="true">MSMKYLMLLFAAMIIRSFANSGNAIETTLSEITNTTTDIPAIRLCGPEGDRYCFHGICIHARDIDGMYCRCSHGYTGIRCQHVVLVDYQRSEKPNTTTSYIPSPGIVLVLLVSIIVCCLLFVYRFTRRTNKLPLQDMVVP</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>VLTF3_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Viral late gene transcription factor 3</fullName>
+        <shortName>VLTF-3</shortName>
+      </recommendedName>
+      <alternativeName>
+        <fullName>Trans-activator protein A2</fullName>
+      </alternativeName>
+    </protein>
+    <proteinExistence type="evidence at transcript level" />
+    <sequence length="224" mass="26289" checksum="B2406504F65885FB" modified="2019-10-16" version="1">MNLRLCSGCRHNGIVSEQGYEYCIFCESVFQKCTKVQKKSNFHVSNKLIHLRNVLRRLLSHQCSGEIISELLDIMEKNQISTDDVDANFVSSFLKANERINKKDYKLVFEIINQVKDEKLNLSTEKINEVVEIFKHLVFFCQENTPSKTINYSFFLDKIFDITSVTKNLKPQTVKNYTKNNSNQLVWENFLAHMRSKKRVTMVEDYGHEYVFVDERFSTCSLEV</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>VB04_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Ankyrin repeat protein B4</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="558" mass="65173" checksum="B26983D43D0836B8" modified="2019-10-16" version="1">MDFFKKEILDWSIYLSLHYIAHACSNSSTSHIIQEYNLIRTYKKVDKTIVDFLSRWPNLFHILEYGENILHIYSMDDANTNIIIFFLDNVLNINKNGSFIHNLGLSSSINIKEYVYQLVNNDHLDNGIRLMLENGRRTRHFLSYILDTVNIYICILINHGFYIDAVDSYGCTLLHRCIYHYKKSESESYNELIKILLNNGSDVDKKDTHGNTPFILLCKHDIDNVELFEICLENANIDSVDFNGYTPLHYVSCRNKYDFVKSLISKGANVNTRNRFGTTPFYCGIIHGISLIKLYLESDTELEIDNEHIVRHLIIFDAVESLDYLLFRGVIDINYRTIYNETSIYDAVSYNAYNMLVYLLNRNGDFETITTSGCTCISKAVANNNKIIMEVLLSKQPSLKIMILSIIAITKHKQHNTNLLKMCIKYTACMTDYDTLIDVQSLQQYKWYILKCFDEIDIMKRCYIKNKTVFQLVFCTKDINTLMRYGRHPSFVKYTSLDVYGSRVRNIIASIRYRQRLISLLSKKLDVGDKWACFPNEIKYKILENFNDNELSTYLKIL</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>C5_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Protein C5</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="134" mass="16068" checksum="368161149C137813" modified="2019-10-16" version="1">MDTYMNRLDLDKLKHENIFSGNIIEDAKEFVFGSRKIYTDSVNDLIELYNLAKYLNNEKLKDVVIERMDYVCKYIIGKDNWYTIYSFYKENGLRNSFLRQYINNNIEEIRNTDQFLKFDVDSVCDILNNDETIV</sequence>
+  </entry>
+  <entry dataset="Swiss-Prot" created="2019-10-16" modified="2019-12-11" version="3">
+    <name>GLRX2_VAR67</name>
+    <protein>
+      <recommendedName>
+        <fullName>Glutaredoxin-2</fullName>
+      </recommendedName>
+    </protein>
+    <proteinExistence type="inferred from homology" />
+    <sequence length="124" mass="14014" checksum="3FB68E3E2E4A89A7" modified="2019-10-16" version="1">MKNVLIIFGKPYCSICENVSEAVEELKSEYDILHVDILSFFLKDGDSSMLGDVKRGTLIGNFAAHLSNYIVSIFKYNPQTKQMAFVDINKSLDFTKTDKSLVNLEILKSEIEKANYGVWPPVTE</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="2004-07-05" modified="2019-12-11" version="65">
+    <name>Q76QZ6_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="2">J10R protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="151" mass="17445" checksum="2A8410AB1E9ACD2D" modified="2004-07-05" version="1">MEREGVDYHYVNREAIWKGIATGNFLEHTEFLGNIYGTSKTAVNTAAINNRICVMDLNIDGVRSLKNTYLMPYSVYIKPTSLKMVETKLRRRNTEADDKIHRRAMLAKTDMDEANEAGLFNTTIIEDNVNLAYSKLIQILQDRIRMYFNTN</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="2009-03-03" modified="2019-12-11" version="23">
+    <name>Q76R03_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">O3L protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="70" mass="8100" checksum="4EFD8523112C8F01" modified="2009-03-03" version="1">MMILLLDYMTPSNTNNFLLFIPDIKLAIDNKDIEVLQALFKYDINIYSANLENVLLDDAEIAKNDYRKAC</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="2004-07-05" modified="2019-12-11" version="41">
+    <name>Q76QZ4_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">B3L protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="65" mass="7254" checksum="26262F637287BEC4" modified="2004-07-05" version="1">MVPPPEFRRADMVVERFSVSLSPSLTFTRFGICSTAPFLNHILIISFPCTSTAVTLPIQSPIQTW</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="58">
+    <name>Q89619_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="2">J6R protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="71" mass="8460" checksum="A978F6C4204B5928" modified="1996-11-01" version="1">MSTILEEYFMYRGLLGLRIKYGRLFNEIRKFDNDAEEQFGTIEELKQKLRLNAEEGADNFIDYIKVQTGYL</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="72">
+    <name>Q07038_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">D13L protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="201" mass="23517" checksum="465F1DE0A07BD275" modified="1996-11-01" version="1">MSSLKSKVSTCVNDGKLYVIGELKFSISTGVAKYLKRYTSKWIRHPNLITPRYSDASVFVNDDIYVMGGVYTTYEKYVILNDVECFTKNCWIKKSPMPRHHSIVYAVEYDGNIYAITGITHETRNYLYKYIVKEDKWIELYMYFNHVGKMFACFCGDYILIIADAKYEYYPKSNTWICSMCQLVISNIMICLLKMRLQSVT</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="64">
+    <name>Q07004_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">D1L protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="153" mass="17600" checksum="2F0B65779A74D7D4" modified="1996-11-01" version="1">MASSCAQFSPCHCHATKDSLNTVADVRHCLTEYILWVSHRWTHRESAGSLYRLLISFRTDATELFGSELKEFSDSLPWDNIDNCVEIIKCFIRNDSMKTAKELCAIIGLCTQLAIVSGRVFNDKYIDILLMLQKILNENDYFTLLDHIRTAKY</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="2004-07-05" modified="2019-12-11" version="40">
+    <name>Q76R02_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="2">A25L protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="96" mass="11906" checksum="36247E4EE85790BA" modified="2004-07-05" version="1">MKAKRNLEREIARKNCEGNPCERELEYERSNVKRLEYQLDAEKEKVKFYKRELERDRYLSSRYLTSSSDPHKKHYQIIHFLALKMYLRRQLRLQVL</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="70">
+    <name>Q07037_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">C7L protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="179" mass="20377" checksum="13FA50A0B55260C7" modified="1996-11-01" version="1">MNNEIHNNAIAVNYISNNWIPIPPMNSPKLYASGIPANNKLYVVGGLPNPTSVERWFHGNAAWVNMPSLLKPRCNPAMASINNVMYVIGGHSETDTTTEYLLPNHDQWQFGPSTYYPHYKSCALVFGRRLFLVGRNAKFYYKYSNTWSLIDDTIYQRDNPELIIVDNKLLLIGGFYRGS</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="62">
+    <name>Q89185_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="3">A44R protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="139" mass="16409" checksum="95F03FB9028A15DE" modified="1996-11-01" version="1">MNTIKQSFSTSNWEDIQSNYCLQLLVYVYQLEKVVPHNTFDVIEQYNVLDNIIKPLFNQPIFKGPSDVKWFDIKEKENEHRKYRIYFIKENTIYSFNTKSKQTRSSQVDAQLFSVMVTSKPLFIADIGIEVGMPRIKNT</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="80">
+    <name>Q89190_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="2">B9R protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="266" mass="30329" checksum="F6C360592669B9C6" modified="1996-11-01" version="1">MRSVMLTVLLINSINATITSYKFESVNFDSKIEWTGDGLYNISLKNYGIKTWQTMYTNVPEGTYDISGFPKNDFVSFWVKFEQGDYKVEEYCTGLCIEVKIGPPTVTLTEYDGHINLYIEHPYATRGSKKIPIYKRNDMCDIYLLYTANFTFGDSEEPVTYNIDDYDCTSTGCSIDFATTEKVCVTAQGATEGFLEKITPWSSEVCLTPKKNVFTCAIRSKEDVSNFKDKMTRVIKRKFNKQSQNYMTKFLGTTANDVTTVISMLD</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="56">
+    <name>Q07044_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">D5L protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="126" mass="14493" checksum="F89F0911CCC4C896" modified="1996-11-01" version="1">MRILFLIAFMYGCVHSYVNAVETKCPNLDIVTSSGEFYCSGCVEHMPKFSYMYWLAKDMKSDEYAKFIEHLGDGIKEDETIRTTDGGITTLRKVLHVTDTNKFAHYRFTCVLTTLNGVSKKNIWLK</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="2009-03-03" modified="2019-12-11" version="35">
+    <name>Q76QY8_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">B24R protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="88" mass="10032" checksum="3467A756BE71AD53" modified="2009-03-03" version="1">MEYSVISTIPNHIINYTSAIVDNEIIIAGGYNFNNPSLNKVYKINIENKIHVELPPMIMNRCRFSLAVIDNTIYAIGGQKLKFNIIYL</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="55">
+    <name>Q07046_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="2">D7L protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="153" mass="17305" checksum="9ADDECBF39F221D7" modified="1996-11-01" version="1">MLYDSCKTFDACSAQSLVERNENSLNVYVTKKNKNIKTDVVVSLLSSTNYKNINDFDIFEYIESDNIDVELLRLLITKGLEINSCKNGINIVEKYATTSNPNVDVFKLLLDQGIPMCSNVSYGYKIIIEKKLLTSQVGTMITITISIILLLYR</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="2009-03-03" modified="2019-12-11" version="22">
+    <name>Q76QZ3_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">B4L protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="85" mass="9397" checksum="AFDCDABD6FA7906E" modified="2009-03-03" version="1">MYNMSRLIHFSISFSISLMQSCPAMNPITLCVLLSNPMNKYPPSVLAKDESIEGSCCRIRVLSCLAETDVFLILTELPNLTDSPA</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="2004-07-05" modified="2019-12-11" version="40">
+    <name>Q76QZ5_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">B2L protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="66" mass="7911" checksum="D9FDF04912BA7EE5" modified="2004-07-05" version="1">MYVYSSNFTNTISYPDVVINYRSWTKCTHFFGLLFDSRIIMLNFSIYSVSCFKYVMMNPYSFQTQV</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="67">
+    <name>Q89477_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">B15R protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="63" mass="7070" checksum="DAD03199737E5582" modified="1996-11-01" version="1">MGKREADNDRIIPIDNCNNMLILNPTQSDSGIYMCITKNETYSDMMSLNLTIVSVSESNIDLI</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="56">
+    <name>Q89591_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">B10R protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="97" mass="10840" checksum="90E6A98D987408C0" modified="1996-11-01" version="1">MDISYVINDNITFISNITSSTKYINSCVNSSLSLQIAVVRIPVLFNKTMEQLGITLGSDLEAYFMCKLQELNCDASILLNKASKNVMDRQLSKTPTR</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="59">
+    <name>Q89184_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">A42R protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="74" mass="8465" checksum="4910EED6BD4CF790" modified="1996-11-01" version="1">MIPLLFILFYFANGIEWHKFETSEKIISTYLIDDVLYTGVNGAVYTFSNNKLNKTGLANTNYITTSIKVEDVIH</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="73">
+    <name>Q89935_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="2">B17R protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="69" mass="7722" checksum="C20A78E58281823E" modified="1996-11-01" version="1">MQLPKGLVTSLGSNLTIVCKVSLRPPTTDADVFWISNGMYYEEDNEDGDGRISIANKIYTTDKRRVITL</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="68">
+    <name>Q89605_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">J7R protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="71" mass="8218" checksum="5A27B1371A4F0446" modified="1996-11-01" version="1">MMGGYDQYPYRSSKVIVYNTCTNSWIYDIPELKYPRSNCGGVADDEYIYCIGDQDSSLISSIDRWKPSKPY</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="50">
+    <name>Q89480_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="2">B23R protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="83" mass="9944" checksum="686E10F551D6940C" modified="1996-11-01" version="1">MVHIPIVKYIKRMLMSNISTLITTDAFKKTVFEILFDILSTNDNVYLYREGYKVTILLKWLEYNYITKEQLLYILSCIDIQSR</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="84">
+    <name>Q07045_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="2">D6L protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="452" mass="52558" checksum="2F324BC77EB9BAC9" modified="1996-11-01" version="1">MFNYLENEEVALDELKQMLKDRDPNDTRNQFKNNALHAYLFNEHCNNVEVVKLLLDSGTNPLHKNWRHFTPLEEYTNSRHVKVNKDIAMALLEATGFSNINNFNIFNYMKSKNVNVDLIKVLVEHGFDLSVKCENHRSVIENYVMTDDPVPEIIDLFIENGCNVLYEDDEYGYTYDDYQPQNCGTVLHLYIISHLYSESDTRAYVRPEVVKCLINHGIKPSSIDKNYCTALQYYIKSSHIDIDIVKLLMKGIDNTAYSYIDDLTRCTRVIMADYLNSDYRYNEDVNLDLVKLFLENGKPHGIMCSIVPLWRNDKETISLILKTMNSNILQHILIEYMTFDDIDIHLVECMLAYGAVVNKEAIHGYFRNINIDSYTMKYLLKKKGGDVINYLDDGEIPIGHLCKSNYGCYNFYTYIYKKGLCVMSYACPILNTINICLPYLKDINMIDKRGQQ</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="2009-03-03" modified="2019-12-11" version="23">
+    <name>Q76QZ0_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">B12R protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="134" mass="16301" checksum="07B1A2EB93B69510" modified="2009-03-03" version="1">MIEWFSGKLPWKNKSSIAIQQKREYKKFIATFFEDCFPEGNKPLELVYTLDYSQTPNYERLRRLDCLYKIEIIFFFIERVMLRISNNIRLSLTLHDQIDYYGYLQGNRIFYERRECIHFSSDNLVSIDNTVLWS</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="2009-03-03" modified="2019-12-11" version="22">
+    <name>Q76R04_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">D13_5L protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="79" mass="9141" checksum="A7934CF0FF2FE94D" modified="2009-03-03" version="1">MILLKWIHKNPNDVDIINSLHPKFMTNTMCNAISKSTKPVTRNGIKHNIVVIKNSDYISTITHYSPRTEYWTIVGNTDR</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="105">
+    <name>Q89440_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="4">B21R protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="787" mass="93783" checksum="5D6C50F49DE0D629" modified="1996-11-01" version="1">MDEDTKLSRYLYLTDREHINVDSIKQLCKISNPNSCYRCGCTALHEYFYNYRSVNGKYKYRYNGYYQYYSFSDYENYNEYYYDDYDRTGMNSESESDNISIKTEYENEYEFYDETQDQSTQLVGYDIKLKTNEDDFVDEFYGYDRSVGVHDYIDKSINKVVYGRESYVRWRDIWQEHNDGVYSIGKECIDNIYEDRHTVDEFYKIDSVSNVNDAEHISQITNDVSTQTWEKKSELDRYMEMYPRHRYSKHSIFKGFSDKVRKNDLDMNVVKELLSNGASLTIKDSSNKDPIAVYFRRTIMNLEMIDIINKHTTIYERRYIVHSYLKNYRNFDYPFFRKLVLTNKHCLDNYYNTGDRRHGTPLHILATNKKLITPNYMKLLVYNGNDINARGENTQMQTPLHKYLCKFVYHNIEYGIRYYNEKIIDAFIELGADLTIPNDDEMIPVIYCIHVNAEYGYNNITNIRIIRKLLNLSRHAPHNLFRDRVMHDYISNTYIDIECLDIIRSLDGFDINCYFEGRTPLHCAIQYNFTHIAEYLLDRGADISLKTGDGKSVFDLSLCSYIPLKWTSFLISRLPPKSVMSSLTNHIIDYVLTDNKNIIWQSQMINKYVLLLDPSFYSRFRNAIKSKLNQYDYRCFNYNRYRVNKKYRKVLHDIDIYIKDVQVLKSILIANNVTLYDTIVNNTSEFPVHRLNNKQLINTVNSNIYHDLIEKVIKKSLEKCTLTNAVLEYMIASRSQSSYLSRIPNEILLKILYNLSVYDLRKLYARYMLENETDYHIESRSISTQTE</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="49">
+    <name>Q89188_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">B5L protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="63" mass="7391" checksum="2417B3E9F245705B" modified="1996-11-01" version="1">MNLYAYLISSFSHRNVQHESSNTLFYLILYQFNAVVSRHESNYFVCIIIQSNEQISTLCVGKR</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="2009-03-03" modified="2019-12-11" version="25">
+    <name>Q76R01_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="2">A26L protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="65" mass="7418" checksum="FA14731CD298AD55" modified="2009-03-03" version="1">MYGDEMLRKIADLGKKLRDGNGNGGNGCTSSCEFERKRIAVLEAELRKSMETIKSLEKFMEFDRL</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="2009-03-03" modified="2019-12-11" version="47">
+    <name>Q76QZ2_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="6">B7R protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="317" mass="35172" checksum="51273516A8BE8219" modified="2009-03-03" version="1">MKTISVVTLLCVLPAVVYSTCTVPTMNNAKLTSTETSFNDKQKVTFTCDSGYYSLDPNAVCETDKWKYENPCKKMCTVSDYVSELYNKPLYEVNAIITLICKDETKYFRCEEKNGNTSWNDTVTCPNAECQSLQLDHGSCQPVKEKYSFGEHITINCDVGYEVIGASYITCTANSWNVIPSCQQKCDIPSLSNGLISGSTFSIGGVIHLSCKSGFILTGSPSSTCIDGKWNPVLPICIRSNEEFDPVEDGPDDETDLSKLSKDVVQYEQEIESLEATYHIIIVALTIMGVIFLISVIVLVCSCNKNNDQYKFHKLLL</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="2009-03-03" modified="2019-12-11" version="22">
+    <name>Q76QZ1_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">B11R protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="65" mass="7552" checksum="6304FE4DAE2F8ADD" modified="2009-03-03" version="1">MTGNHFCLHKNQARLETIYETIKMQGTTNNNDGSKRTSPIYDNVGNTKDSLTYVNINKVYMRYTF</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="64">
+    <name>Q89694_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="2">A27L protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="194" mass="23034" checksum="95CA0A686559EC7E" modified="1996-11-01" version="1">MEKEIQRLRDRIMDLDRQLNECKRNGNGTSSEEVNRLKTRISDLKQSLEICLKDKSELYSAYKTELGRVREQISNLQESLRRERESDKTDSYYRRELTRERNKIVELEKELNKCFDVNHVKYIDEINSKKNRISDLERQLTACKSNGCGNGDMDQYKREIESLKRELTKCRRGSNGSHSDCEYYDEEARDCVKS</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="2004-07-05" modified="2019-12-11" version="36">
+    <name>Q76R00_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">A39_5L protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="77" mass="9409" checksum="2BF7761409F174B2" modified="2004-07-05" version="1">MMFCIYIISTVIISNKIANFRNAKYREYLHLYNVTVAINTKYYFNFIKRKLIRLMIQQMILYHHVLAYLGNHRYVLS</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="2009-03-03" modified="2019-12-11" version="37">
+    <name>Q76QZ7_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">J8R protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="172" mass="19960" checksum="AA3D4BC7E0E5753D" modified="2009-03-03" version="1">MRETKCDIGVAMLNGLIYVIGGVVKGDTCTDTLESLSEDGWMMHQRLPINVQYVDDCSYRQNLYIRRLHNSSVVNGISNLVLSYNPIYDEWTKLSSLNIPRINPALWSVHNKVYVGGISDDIQTNTSETYNKEKDRWTLDNSHVLPRNYIMYKCEPIKHKYPLEKHSTRMIF</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="52">
+    <name>Q89191_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">B16L protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="86" mass="10273" checksum="D816D6C8F31CB2C0" modified="1996-11-01" version="1">MLYSHIYIYIYIYILKHMCNNQHHFSNIFYGNNSRCPLFKSLISKALMSAPYNICVYVTSNKCITGSHFTSRSLIYYLWILNKIYI</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="2009-03-03" modified="2019-12-11" version="33">
+    <name>Q76QY9_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="2">B22R protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="70" mass="8574" checksum="92093902DC7CFFD7" modified="2009-03-03" version="1">MINKDSVKNIVQYLYNRYISSMNIIDVLKCANYLLIDYLVTDCESYIKDYTNHDTCICMYHRLMRWFIFQ</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="66">
+    <name>Q07035_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">C4R protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="149" mass="17382" checksum="9153374B88DD7D01" modified="1996-11-01" version="1">MATKSDYEDAVFYFVDDDEICSRDSIIDLIDEYITWRNHVIVFNKDITSCGRLYKELMKFDDAAIRYYGIDKINEIVEAMSEGDHYINLTEVHDQESLFATIGICAKITEHWGYKKISESRFQSLGNITDLMTDDNINILILFLEKKLN</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="54">
+    <name>Q89189_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">B8R protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="56" mass="6482" checksum="377EBA9E4E3A7A75" modified="1996-11-01" version="1">MYDIINSVSIILANERYRSAFNDNGIYIRRTMIDKLYGYASLTTIARSLEVFVIIC</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="79">
+    <name>Q07033_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="5">D12L protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="263" mass="28790" checksum="5FE244F48B19D479" modified="1996-11-01" version="1">MKVERVTFLTLLGIGCVLSCCTIPSRPINMTFKNSVETDANANYNIGDTIEYLCLPGYRKQKMGPIYAKCTGTGWTLFNQCIKRRCPSPRDIDNGHLDIGGVDFGSSITYSCNSGYYLIGEYKSYCKLGSTGSMVWNPKAPICESVKCQLPPSISNGRHNGYNDFYTDGSVVTYSCNSGYSLIGNSGVLCSGGEWSNPPTCQIVKCPHPTILNGYLSSGFKRSYSYNDNVDFTCKYGYKLSGSSSSTCSPGNTWQPELPKCVR</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="65">
+    <name>Q89192_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="6">B26R protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="1896" mass="213499" checksum="4898B1F25E0BE456" modified="1996-11-01" version="1">MNLQRLSLAIYLTVTCSWCYETCMRKTALFHDNQLGHAEDNQDSVASLPYKYLQVVNKRERSRLLATFNWTSIAEGVKNDFIRICDINGTYLYNYTIAASMIIDSMEELPTITTYEPSTYNYTFDNSTVSTTEELKVTPSPTTYATVTTPLPTSSVPYDQRSNNNVGTISIQILSKILGVNETELTNYLITHKNATVDNNTLYGNIGFLEINNCYNISVSNASFRITLVNNTSEEIVIMLTGTSSSDTFISSTNTTECLKTLINNTSNISDVSITQNMNVTSNCDKCSMNLMTSVIPAVKEFNNTLKKIGVKDDKNNTVYNYYNCKLTTNSTCDELINLDEVINNITLTNIISSSVSTTNSRKRRDLNGEFEFSTSEELDCLYKSYGVSDDVSHCFSSPRRRRSDDKQEYTEMKLLDHAKKDLRIDSVIPRGTTHFQVGASGASGGVVGDSSPFQNVKSRASLLAEKIMPRVPTTATEEQLYATINRQTKLPAGVKSTPFTEALVSTINQKLSSVKEVTYASSNLPGSSGYVHRPSDSVIYSTIRRTRLPSDTDSDFEDIQTVVKEYNERYGRRVSRTQSSSSDFEDIDEVVAEYRQKYGGASRGRTSSSSSSDFEDIDEVVAEYRQKYGNAMTKGRGSSKPDPLYSTVKKTPKSIASGVDIVSKQTDYSLLPGVNTGSSIVTPLTRRGATRRPKRPSTPPREDLPPLPLNPPYRQLSRGGDHSLQQVPQRDYSPPHRPPPPLPPKPVPAIPPRDSQPNNKGFSKFVSPRRCRRSTSGVVCGMIQSRPNDDTYSLLQLPKIEPEYAEVGNGLPKNNVPVIGNKHSKKYTSSMSKISTKFDKSMAFGTAMLLTGQQAINQQDRSTALIKKDQMSKDEKIFEAVTMTLSTIGSTLTTAGMIAPPLMIAGIGISLISGIIDTAKDIYYLFSGQEKPVDPVIKFFNTYAGLVSDSSKMGVRKCLTPGEDTLIYIAYKNDSSFKQNTEAMALYFLDVINSEILYLNTSNLVLEYHLKVACPIGTLRSVDVDITAYTILYDTADNIKKYKFIRMATLLSKHPVIRLTCGLAATLVIKPYEVPISDMQLLKMATHGEPESTKSIPSDVCDRYPLKKFYLLAGGCPYDTSQTFIVHTTCSILLRTATWDQFRNRWVLQNPFRQEGTYKQLFTFSKYDFNDTIIDPNGVAGHASFCTNRSSNQCFWSEPMILEDVSSCSSRTRKIYVKLGIFNTEGFNSFVLNCPTGSTPTYIKDKNTDSNNVIIELPVGDYGTAKLYSVTKPSRIAVFCTHNYDKRFKSDIIVLIFNSISGIPFSSIYTGSVNGRNRLFTTLSKGMPYRSMYCDNRRPGCYYAGIPFNENSVESDLHYGPEIMLKETYDTNSIDPQVITKSKTHFPTPISVKFTVDNLGNGYNKPENFWKDAKSKKRTYSAMTIKILPCTVRNKNVDFGYNYGHIISNMVYAQSTSQDYGDGTNYTFKSVNRSDHECESILDLKAKEVTVMCPAFSIPRNISAYEGLCFSVTTSKDHCASNKEWLKSYGYGNTDATKQRVCFHHWNYVTTSLDYYCSYEDIWKSDWPDYDPCKSYIYIEYRDIWIESKVLQQPPYTFEFTHDDSNEYVNKEISNKLNDLYNEYKNIMEYSDGSLPASINRLAKSLTSEGREIASVNIDGNLLDIAYQADKEKMADIQNKINDITRDLFIHTLSNKDIKDIIESEEGKRCCIIDVKNNRVKKYYPIDNYLCGTLDDYIYTSVEYNKSYVLINDTYMSYDYLESSGVVVLSCYEMTIISLDTKDAKDAIEDEIVASAVAEALNDMFKEFDKNVSVIIIKEEDNYLNSSPNIYHIIYIIGGTILILLVIILILVIYIACNKYRTRKYKIMKDDTMSIKSEHHNSLETVSMEIMDNRY</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="62">
+    <name>Q07036_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="1">C5L protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="251" mass="29302" checksum="302CFC6FA1CF750A" modified="1996-11-01" version="1">MYNSMLPMFMCNNIVDDIDDIDDIDDIDDIDDIDDIDDIDDIDDIDDIDDIEDKASNNDHNYVYPLPENMVYRFNKSTNILDYLSTERDHVMMAVQYYMSKQRLDDLYRQLPTKTRSYIDIINTYCDKVNNDYNRDMNIMYDMASTESFTVYDINNEVNTILMDNKGLGVRLATISFITELGKRCMNPVETIKMFTLLSHTICDDCFIDYITDISPPDNTIPNISTREYLKLIGITAIMFATYKTLKYMIG</sequence>
+  </entry>
+  <entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="89">
+    <name>Q89931_VAR67</name>
+    <protein>
+      <submittedName>
+        <fullName evidence="2">C3L protein</fullName>
+      </submittedName>
+    </protein>
+    <proteinExistence type="predicted" />
+    <sequence length="88" mass="10508" checksum="A52FCC5BEBB5FDE9" modified="1996-11-01" version="1">MLVFCYSLPNVGDVLKGKVYENGYVLYVDLFDYPHSEAILVESTQMHMNRYFKYRDKLVGKTVKVKVIRIDYTKGYIDVNYKRMCRHQ</sequence>
+  </entry>
+  <copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
