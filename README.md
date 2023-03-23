@@ -20,5 +20,5 @@ Les fonctionnalités sont :
 
 Spécifications :
 
-1 : Il suffit de rentrer quelques acides aminés et le programme trouvera toutes les séquences ADN contenant ce gène. 
-2 : Permet de lister toutes les protéines contenant ce nom.
+- 1 : Il suffit de rentrer quelques acides aminés et le programme trouvera toutes les séquences ADN contenant ce gène. 
+- 2 : Permet de lister toutes les protéines contenant ce nom.
