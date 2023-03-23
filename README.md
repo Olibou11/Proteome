@@ -13,10 +13,10 @@ Les vivants disponibles sont :
 
 Les fonctionnalités sont :
 
-1 - Chercher une protéine par ses acides aminés
-2 - Chercher une protéine par son nom-court
-3 - Imprimer la liste complète des acides aminés
-4 - Changer de vivant
+- (1) Chercher une protéine par ses acides aminés
+- (2) Chercher une protéine par son nom-court
+- (3) Imprimer la liste complète des acides aminés
+- (4) Changer de vivant
 
 Spécifications :
 
